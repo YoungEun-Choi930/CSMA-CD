@@ -1,0 +1,577 @@
+00:00:00 Node 2 Start
+170) 00:00:170 Data Send Request To Node 3
+00:00:170 Data Send Request Reject from Link
+00:00:170 Exponentail Back-off Time: 0 msec
+212) 00:00:212 Data Send Request To Node 3
+00:00:212 Data Send Request Reject from Link
+00:00:212 Exponentail Back-off Time: 6 msec
+229) 00:00:229 Data Send Request To Node 1
+00:00:229 Data Send Request Reject from Link
+00:00:229 Exponentail Back-off Time: 13 msec
+00:00:256 Data Receive Start from Node 4
+00:00:261 Data Receive Finished from Node 4
+257) 00:00:257 Data Send Request To Node 1
+00:00:257 Data Send Request Reject from Link
+00:00:257 Exponentail Back-off Time: 27 msec
+00:00:272 Data Receive Start from Node 3
+00:00:272 Data Receive Rejected from Node 3
+00:00:274 Data Receive Start from Node 4
+00:00:274 Data Receive Rejected from Node 4
+277) 00:00:277 Data Send Request To Node 3
+00:00:277 Data Send Request Reject from Link
+00:00:277 Exponentail Back-off Time: 202 msec
+00:00:276 Data Receive Start from Node 1
+00:00:281 Data Receive Finished from Node 1
+311) 00:00:311 Data Send Request To Node 1
+00:00:571 Data Send Finished To 1
+00:00:313 Data Receive Start from Node 1
+00:00:313 Data Receive Rejected from Node 1
+330) 00:00:330 Data Send Request To Node 1
+00:00:335 Data Send Finished To 1
+00:00:346 Data Receive Start from Node 4
+00:00:351 Data Receive Finished from Node 4
+00:00:346 Data Receive Start from Node 3
+00:00:346 Data Receive Rejected from Node 3
+381) 00:00:381 Data Send Request To Node 1
+00:00:386 Data Send Finished To 1
+405) 00:00:405 Data Send Request To Node 1
+00:00:410 Data Send Finished To 1
+00:00:420 Data Receive Start from Node 3
+00:00:425 Data Receive Finished from Node 3
+454) 00:00:454 Data Send Request To Node 3
+00:00:459 Data Send Finished To 3
+00:00:515 Data Receive Start from Node 1
+00:00:515 Data Receive Rejected from Node 1
+570) 00:00:570 Data Send Request To Node 3
+00:00:575 Data Send Finished To 3
+00:00:601 Data Receive Start from Node 1
+00:00:601 Data Receive Rejected from Node 1
+636) 00:00:636 Data Send Request To Node 3
+00:00:641 Data Send Finished To 3
+00:00:680 Data Receive Start from Node 1
+00:00:685 Data Receive Finished from Node 1
+692) 00:00:692 Data Send Request To Node 3
+00:00:697 Data Send Finished To 3
+00:00:742 Data Receive Start from Node 3
+00:00:747 Data Receive Finished from Node 3
+758) 00:00:758 Data Send Request To Node 3
+00:00:758 Data Send Request Reject from Link
+00:00:758 Exponentail Back-off Time: 418 msec
+00:00:784 Data Receive Start from Node 1
+00:00:789 Data Receive Finished from Node 1
+00:00:815 Data Receive Start from Node 3
+00:00:820 Data Receive Finished from Node 3
+895) 00:00:895 Data Send Request To Node 3
+00:00:900 Data Send Finished To 3
+00:00:897 Data Receive Start from Node 4
+00:00:897 Data Receive Rejected from Node 4
+00:00:939 Data Receive Start from Node 3
+00:00:944 Data Receive Finished from Node 3
+941) 00:00:895 Data Send Request To Node 1
+00:00:941 Data Send Request Reject from Link
+00:00:941 Exponentail Back-off Time: 108 msec
+00:00:964 Data Receive Start from Node 1
+00:00:969 Data Receive Finished from Node 1
+980) 00:00:980 Data Send Request To Node 1
+00:00:985 Data Send Finished To 1
+00:00:982 Data Receive Start from Node 1
+00:00:982 Data Receive Rejected from Node 1
+00:00:987 Data Receive Start from Node 3
+00:00:992 Data Receive Finished from Node 3
+00:01:011 Data Receive Start from Node 1
+00:01:016 Data Receive Finished from Node 1
+1014) 00:01:014 Data Send Request To Node 1
+00:01:014 Data Send Request Reject from Link
+00:01:014 Exponentail Back-off Time: 622 msec
+00:01:014 Data Receive Start from Node 3
+00:01:014 Data Receive Rejected from Node 3
+00:01:029 Data Receive Start from Node 1
+00:01:034 Data Receive Finished from Node 1
+00:01:042 Data Receive Start from Node 1
+00:01:047 Data Receive Finished from Node 1
+1050) 00:01:050 Data Send Request To Node 3
+00:01:050 Data Send Request Reject from Link
+00:01:050 Exponentail Back-off Time: 226 msec
+00:01:082 Data Receive Start from Node 4
+00:01:087 Data Receive Finished from Node 4
+00:01:148 Data Receive Start from Node 1
+00:01:153 Data Receive Finished from Node 1
+1157) 00:01:157 Data Send Request To Node 1
+00:01:162 Data Send Finished To 1
+00:01:159 Data Receive Start from Node 4
+00:01:159 Data Receive Rejected from Node 4
+00:01:237 Data Receive Start from Node 3
+00:01:242 Data Receive Finished from Node 3
+00:01:256 Data Receive Start from Node 1
+00:01:261 Data Receive Finished from Node 1
+1257) 00:01:257 Data Send Request To Node 3
+00:01:257 Data Send Request Reject from Link
+00:01:257 Exponentail Back-off Time: 54 msec
+1265) 00:01:265 Data Send Request To Node 3
+00:01:270 Data Send Finished To 3
+1274) 00:01:274 Data Send Request To Node 3
+00:01:279 Data Send Finished To 3
+00:01:282 Data Receive Start from Node 1
+00:01:287 Data Receive Finished from Node 1
+00:01:295 Data Receive Start from Node 3
+00:01:300 Data Receive Finished from Node 3
+00:01:299 Data Receive Start from Node 1
+00:01:299 Data Receive Rejected from Node 1
+00:01:303 Data Receive Start from Node 3
+00:01:308 Data Receive Finished from Node 3
+1318) 00:01:318 Data Send Request To Node 3
+00:01:318 Data Send Request Reject from Link
+00:01:318 Exponentail Back-off Time: 285 msec
+1335) 00:01:335 Data Send Request To Node 1
+00:01:335 Data Send Request Reject from Link
+00:01:335 Exponentail Back-off Time: 626 msec
+00:01:349 Data Receive Start from Node 1
+00:01:354 Data Receive Finished from Node 1
+00:01:364 Data Receive Start from Node 3
+00:01:369 Data Receive Finished from Node 3
+1374) 00:01:374 Data Send Request To Node 1
+00:01:379 Data Send Finished To 1
+00:01:384 Data Receive Start from Node 4
+00:01:389 Data Receive Finished from Node 4
+1385) 00:01:385 Data Send Request To Node 1
+00:01:385 Data Send Request Reject from Link
+00:01:385 Exponentail Back-off Time: 277 msec
+00:01:413 Data Receive Start from Node 1
+00:01:413 Data Receive Rejected from Node 1
+1415) 00:01:415 Data Send Request To Node 3
+00:01:415 Data Send Request Reject from Link
+00:01:415 Exponentail Back-off Time: 314 msec
+00:01:472 Data Receive Start from Node 1
+00:01:477 Data Receive Finished from Node 1
+1480) 00:01:480 Data Send Request To Node 1
+00:01:485 Data Send Finished To 1
+00:01:498 Data Receive Start from Node 3
+00:01:503 Data Receive Finished from Node 3
+1536) 00:01:536 Data Send Request To Node 3
+00:01:541 Data Send Finished To 3
+00:01:537 Data Receive Start from Node 1
+00:01:537 Data Receive Rejected from Node 1
+00:01:596 Data Receive Start from Node 3
+00:01:601 Data Receive Finished from Node 3
+1596) 00:01:596 Data Send Request To Node 1
+00:01:596 Data Send Request Reject from Link
+00:01:596 Exponentail Back-off Time: 85 msec
+00:01:600 Data Receive Start from Node 1
+00:01:605 Data Receive Finished from Node 1
+1621) 00:01:621 Data Send Request To Node 3
+00:01:626 Data Send Finished To 3
+00:01:664 Data Receive Start from Node 1
+00:01:669 Data Receive Finished from Node 1
+1666) 00:01:666 Data Send Request To Node 1
+00:01:666 Data Send Request Reject from Link
+00:01:666 Exponentail Back-off Time: 684 msec
+00:01:667 Data Receive Start from Node 3
+00:01:667 Data Receive Rejected from Node 3
+1693) 00:01:693 Data Send Request To Node 3
+00:01:698 Data Send Finished To 3
+00:01:694 Data Receive Start from Node 4
+00:01:694 Data Receive Rejected from Node 4
+00:01:705 Data Receive Start from Node 1
+00:01:710 Data Receive Finished from Node 1
+00:01:706 Data Receive Start from Node 3
+00:01:706 Data Receive Rejected from Node 3
+00:01:743 Data Receive Start from Node 1
+00:01:748 Data Receive Finished from Node 1
+1751) 00:01:751 Data Send Request To Node 3
+00:01:756 Data Send Finished To 3
+1816) 00:01:816 Data Send Request To Node 1
+00:01:821 Data Send Finished To 1
+00:01:817 Data Receive Start from Node 1
+00:01:817 Data Receive Rejected from Node 1
+00:01:819 Data Receive Start from Node 3
+00:01:819 Data Receive Rejected from Node 3
+00:01:847 Data Receive Start from Node 3
+00:01:852 Data Receive Finished from Node 3
+1852) 00:01:852 Data Send Request To Node 1
+00:01:857 Data Send Finished To 1
+00:01:858 Data Receive Start from Node 1
+00:01:863 Data Receive Finished from Node 1
+1881) 00:01:881 Data Send Request To Node 3
+00:01:886 Data Send Finished To 3
+00:01:926 Data Receive Start from Node 1
+00:01:931 Data Receive Finished from Node 1
+1927) 00:01:927 Data Send Request To Node 1
+00:01:927 Data Send Request Reject from Link
+00:01:927 Exponentail Back-off Time: 994 msec
+00:01:927 Data Receive Start from Node 3
+00:01:927 Data Receive Rejected from Node 3
+00:01:947 Data Receive Start from Node 1
+00:01:952 Data Receive Finished from Node 1
+1974) 00:01:974 Data Send Request To Node 1
+00:01:979 Data Send Finished To 1
+1980) 00:01:980 Data Send Request To Node 1
+00:01:980 Data Send Request Reject from Link
+00:01:980 Exponentail Back-off Time: 544 msec
+00:01:984 Data Receive Start from Node 3
+00:01:989 Data Receive Finished from Node 3
+00:01:985 Data Receive Start from Node 1
+00:01:985 Data Receive Rejected from Node 1
+00:02:016 Data Receive Start from Node 1
+00:02:016 Data Receive Rejected from Node 1
+2039) 00:02:039 Data Send Request To Node 3
+00:02:044 Data Send Finished To 3
+00:02:040 Data Receive Start from Node 1
+00:02:040 Data Receive Rejected from Node 1
+2059) 00:02:059 Data Send Request To Node 1
+00:02:064 Data Send Finished To 1
+00:02:078 Data Receive Start from Node 3
+00:02:083 Data Receive Finished from Node 3
+2089) 00:02:089 Data Send Request To Node 1
+00:02:094 Data Send Finished To 1
+00:02:093 Data Receive Start from Node 1
+00:02:093 Data Receive Rejected from Node 1
+00:02:106 Data Receive Start from Node 3
+00:02:111 Data Receive Finished from Node 3
+2141) 00:02:141 Data Send Request To Node 3
+00:02:141 Data Send Request Reject from Link
+00:02:141 Exponentail Back-off Time: 740 msec
+2149) 00:02:149 Data Send Request To Node 1
+00:02:154 Data Send Finished To 1
+00:02:157 Data Receive Start from Node 4
+00:02:157 Data Receive Rejected from Node 4
+2171) 00:02:171 Data Send Request To Node 3
+00:02:176 Data Send Finished To 3
+00:02:180 Data Receive Start from Node 1
+00:02:185 Data Receive Finished from Node 1
+2214) 00:02:214 Data Send Request To Node 3
+00:02:219 Data Send Finished To 3
+00:02:218 Data Receive Start from Node 1
+00:02:223 Data Receive Finished from Node 1
+00:02:257 Data Receive Start from Node 1
+00:02:257 Data Receive Rejected from Node 1
+2258) 00:02:258 Data Send Request To Node 3
+00:02:258 Data Send Request Reject from Link
+00:02:258 Exponentail Back-off Time: 893 msec
+00:02:263 Data Receive Start from Node 4
+00:02:268 Data Receive Finished from Node 4
+00:02:284 Data Receive Start from Node 4
+00:02:289 Data Receive Finished from Node 4
+2452) 00:02:452 Data Send Request To Node 3
+00:02:452 Data Send Request Reject from Link
+00:02:452 Exponentail Back-off Time: 412 msec
+2566) 00:02:566 Data Send Request To Node 1
+00:02:566 Data Send Request Reject from Link
+00:02:566 Exponentail Back-off Time: 159 msec
+00:02:566 Data Receive Start from Node 3
+00:02:571 Data Receive Finished from Node 3
+00:02:570 Data Receive Start from Node 1
+00:02:570 Data Receive Rejected from Node 1
+00:02:619 Data Receive Start from Node 4
+00:02:624 Data Receive Finished from Node 4
+2620) 00:02:620 Data Send Request To Node 1
+00:02:620 Data Send Request Reject from Link
+00:02:620 Exponentail Back-off Time: 584 msec
+00:02:623 Data Receive Start from Node 1
+00:02:628 Data Receive Finished from Node 1
+2654) 00:02:654 Data Send Request To Node 3
+00:02:659 Data Send Finished To 3
+2701) 00:02:701 Data Send Request To Node 1
+00:02:701 Data Send Request Reject from Link
+00:02:701 Exponentail Back-off Time: 230 msec
+00:02:705 Data Receive Start from Node 4
+00:02:710 Data Receive Finished from Node 4
+2714) 00:02:714 Data Send Request To Node 3
+00:02:719 Data Send Finished To 3
+00:02:715 Data Receive Start from Node 3
+00:02:715 Data Receive Rejected from Node 3
+2752) 00:02:752 Data Send Request To Node 1
+00:02:752 Data Send Request Reject from Link
+00:02:752 Exponentail Back-off Time: 664 msec
+00:02:759 Data Receive Start from Node 1
+00:02:764 Data Receive Finished from Node 1
+00:02:768 Data Receive Start from Node 1
+00:02:773 Data Receive Finished from Node 1
+00:02:774 Data Receive Start from Node 1
+00:02:779 Data Receive Finished from Node 1
+2792) 00:02:792 Data Send Request To Node 3
+00:02:797 Data Send Finished To 3
+00:02:795 Data Receive Start from Node 1
+00:02:795 Data Receive Rejected from Node 1
+00:02:805 Data Receive Start from Node 3
+00:02:810 Data Receive Finished from Node 3
+00:02:809 Data Receive Start from Node 1
+00:02:809 Data Receive Rejected from Node 1
+00:02:842 Data Receive Start from Node 3
+00:02:847 Data Receive Finished from Node 3
+2857) 00:02:857 Data Send Request To Node 3
+00:02:862 Data Send Finished To 3
+00:02:858 Data Receive Start from Node 1
+00:02:858 Data Receive Rejected from Node 1
+00:02:859 Data Receive Start from Node 4
+00:02:859 Data Receive Rejected from Node 4
+00:02:877 Data Receive Start from Node 4
+00:02:882 Data Receive Finished from Node 4
+2896) 00:02:896 Data Send Request To Node 3
+00:02:896 Data Send Request Reject from Link
+00:02:896 Exponentail Back-off Time: 453 msec
+00:02:910 Data Receive Start from Node 1
+00:02:910 Data Receive Rejected from Node 1
+2916) 00:02:916 Data Send Request To Node 3
+00:02:921 Data Send Finished To 3
+00:02:916 Data Receive Start from Node 3
+00:02:916 Data Receive Rejected from Node 3
+00:02:932 Data Receive Start from Node 1
+00:02:937 Data Receive Finished from Node 1
+2936) 00:02:936 Data Send Request To Node 3
+00:02:936 Data Send Request Reject from Link
+00:02:936 Exponentail Back-off Time: 244 msec
+00:02:952 Data Receive Start from Node 1
+00:02:957 Data Receive Finished from Node 1
+2958) 00:02:958 Data Send Request To Node 1
+00:02:963 Data Send Finished To 1
+00:02:968 Data Receive Start from Node 1
+00:02:973 Data Receive Finished from Node 1
+00:02:976 Data Receive Start from Node 1
+00:02:981 Data Receive Finished from Node 1
+00:02:988 Data Receive Start from Node 3
+00:02:993 Data Receive Finished from Node 3
+3009) 00:03:009 Data Send Request To Node 3
+00:03:009 Data Send Request Reject from Link
+00:03:009 Exponentail Back-off Time: 226 msec
+00:03:013 Data Receive Start from Node 4
+00:03:018 Data Receive Finished from Node 4
+00:03:027 Data Receive Start from Node 3
+00:03:027 Data Receive Rejected from Node 3
+3044) 00:03:044 Data Send Request To Node 3
+00:03:049 Data Send Finished To 3
+00:03:104 Data Receive Start from Node 3
+00:03:109 Data Receive Finished from Node 3
+3105) 00:03:105 Data Send Request To Node 3
+00:03:105 Data Send Request Reject from Link
+00:03:105 Exponentail Back-off Time: 396 msec
+3131) 00:03:131 Data Send Request To Node 3
+00:03:136 Data Send Finished To 3
+3136) 00:03:136 Data Send Request To Node 1
+00:03:136 Data Send Request Reject from Link
+00:03:136 Exponentail Back-off Time: 503 msec
+3168) 00:03:168 Data Send Request To Node 1
+00:03:173 Data Send Finished To 1
+00:03:197 Data Receive Start from Node 3
+00:03:197 Data Receive Rejected from Node 3
+3207) 00:03:207 Data Send Request To Node 3
+00:03:207 Data Send Request Reject from Link
+00:03:207 Exponentail Back-off Time: 901 msec
+3246) 00:03:246 Data Send Request To Node 1
+00:03:251 Data Send Finished To 1
+3256) 00:03:256 Data Send Request To Node 1
+00:03:256 Data Send Request Reject from Link
+00:03:256 Exponentail Back-off Time: 275 msec
+00:03:265 Data Receive Start from Node 3
+00:03:270 Data Receive Finished from Node 3
+3303) 00:03:303 Data Send Request To Node 1
+00:03:308 Data Send Finished To 1
+00:03:329 Data Receive Start from Node 3
+00:03:334 Data Receive Finished from Node 3
+3333) 00:03:333 Data Send Request To Node 1
+00:03:333 Data Send Request Reject from Link
+00:03:333 Exponentail Back-off Time: 700 msec
+3347) 00:03:347 Data Send Request To Node 3
+00:03:352 Data Send Finished To 3
+00:03:363 Data Receive Start from Node 3
+00:03:368 Data Receive Finished from Node 3
+3365) 00:03:365 Data Send Request To Node 3
+00:03:365 Data Send Request Reject from Link
+00:03:365 Exponentail Back-off Time: 400 msec
+00:03:378 Data Receive Start from Node 1
+00:03:378 Data Receive Rejected from Node 1
+3382) 00:03:382 Data Send Request To Node 1
+00:03:387 Data Send Finished To 1
+00:03:394 Data Receive Start from Node 3
+00:03:399 Data Receive Finished from Node 3
+3401) 00:03:401 Data Send Request To Node 1
+00:03:406 Data Send Finished To 1
+00:03:416 Data Receive Start from Node 1
+00:03:421 Data Receive Finished from Node 1
+00:03:422 Data Receive Start from Node 3
+00:03:427 Data Receive Finished from Node 3
+00:03:427 Data Receive Start from Node 1
+00:03:432 Data Receive Finished from Node 1
+3449) 00:03:449 Data Send Request To Node 3
+00:03:454 Data Send Finished To 3
+00:03:454 Data Receive Start from Node 1
+00:03:454 Data Receive Rejected from Node 1
+00:03:476 Data Receive Start from Node 3
+00:03:481 Data Receive Finished from Node 3
+3499) 00:03:499 Data Send Request To Node 1
+00:03:499 Data Send Request Reject from Link
+00:03:499 Exponentail Back-off Time: 120 msec
+00:03:539 Data Receive Start from Node 1
+00:03:544 Data Receive Finished from Node 1
+00:03:542 Data Receive Start from Node 4
+00:03:542 Data Receive Rejected from Node 4
+00:03:545 Data Receive Start from Node 1
+00:03:550 Data Receive Finished from Node 1
+3547) 00:03:547 Data Send Request To Node 1
+00:03:363 Data Send Request Reject from Link
+00:03:547 Exponentail Back-off Time: 489 msec
+00:03:547 Data Receive Start from Node 3
+00:03:547 Data Receive Rejected from Node 3
+3592) 00:03:592 Data Send Request To Node 1
+00:03:592 Data Send Request Reject from Link
+00:03:592 Exponentail Back-off Time: 14 msec
+3631) 00:03:631 Data Send Request To Node 3
+00:03:636 Data Send Finished To 3
+3649) 00:03:649 Data Send Request To Node 1
+00:03:654 Data Send Finished To 1
+00:03:658 Data Receive Start from Node 3
+00:03:658 Data Receive Rejected from Node 3
+00:03:659 Data Receive Start from Node 4
+00:03:664 Data Receive Finished from Node 4
+3706) 00:03:706 Data Send Request To Node 1
+00:03:711 Data Send Finished To 1
+00:03:706 Data Receive Start from Node 1
+00:03:706 Data Receive Rejected from Node 1
+00:03:734 Data Receive Start from Node 3
+00:03:739 Data Receive Finished from Node 3
+00:03:738 Data Receive Start from Node 1
+00:03:738 Data Receive Rejected from Node 1
+3761) 00:03:761 Data Send Request To Node 3
+00:03:766 Data Send Finished To 3
+3767) 00:03:767 Data Send Request To Node 3
+00:03:772 Data Send Finished To 3
+00:03:782 Data Receive Start from Node 1
+00:03:782 Data Receive Rejected from Node 1
+00:03:802 Data Receive Start from Node 3
+00:03:807 Data Receive Finished from Node 3
+00:03:802 Data Receive Start from Node 1
+00:03:802 Data Receive Rejected from Node 1
+3805) 00:03:805 Data Send Request To Node 1
+00:03:805 Data Send Request Reject from Link
+00:03:805 Exponentail Back-off Time: 518 msec
+00:03:813 Data Receive Start from Node 1
+00:03:818 Data Receive Finished from Node 1
+00:03:819 Data Receive Start from Node 1
+00:03:819 Data Receive Rejected from Node 1
+3834) 00:03:834 Data Send Request To Node 3
+00:03:839 Data Send Finished To 3
+00:03:839 Data Receive Start from Node 3
+00:03:844 Data Receive Finished from Node 3
+3862) 00:03:862 Data Send Request To Node 3
+00:03:862 Data Send Request Reject from Link
+00:03:862 Exponentail Back-off Time: 772 msec
+3885) 00:03:885 Data Send Request To Node 1
+00:03:885 Data Send Request Reject from Link
+00:03:885 Exponentail Back-off Time: 654 msec
+00:03:898 Data Receive Start from Node 4
+00:03:903 Data Receive Finished from Node 4
+3903) 00:03:903 Data Send Request To Node 3
+00:03:908 Data Send Finished To 3
+00:03:911 Data Receive Start from Node 4
+00:03:911 Data Receive Rejected from Node 4
+00:03:912 Data Receive Start from Node 1
+00:03:912 Data Receive Rejected from Node 1
+00:03:923 Data Receive Start from Node 3
+00:03:923 Data Receive Rejected from Node 3
+3926) 00:03:926 Data Send Request To Node 3
+00:03:931 Data Send Finished To 3
+00:03:928 Data Receive Start from Node 1
+00:03:928 Data Receive Rejected from Node 1
+00:03:935 Data Receive Start from Node 3
+00:03:940 Data Receive Finished from Node 3
+00:03:941 Data Receive Start from Node 1
+00:03:946 Data Receive Finished from Node 1
+3943) 00:03:943 Data Send Request To Node 3
+00:03:943 Data Send Request Reject from Link
+00:03:943 Exponentail Back-off Time: 669 msec
+00:03:944 Data Receive Start from Node 3
+00:03:944 Data Receive Rejected from Node 3
+3989) 00:03:989 Data Send Request To Node 1
+00:03:994 Data Send Finished To 1
+00:03:992 Data Receive Start from Node 1
+00:03:992 Data Receive Rejected from Node 1
+00:04:005 Data Receive Start from Node 3
+00:04:010 Data Receive Finished from Node 3
+4009) 00:04:009 Data Send Request To Node 1
+00:04:009 Data Send Request Reject from Link
+00:04:009 Exponentail Back-off Time: 433 msec
+4043) 00:04:043 Data Send Request To Node 3
+00:04:048 Data Send Finished To 3
+4060) 00:04:060 Data Send Request To Node 1
+00:04:060 Data Send Request Reject from Link
+00:04:060 Exponentail Back-off Time: 121 msec
+4081) 00:04:081 Data Send Request To Node 3
+00:04:081 Data Send Request Reject from Link
+00:04:081 Exponentail Back-off Time: 870 msec
+4104) 00:04:104 Data Send Request To Node 1
+00:04:109 Data Send Finished To 1
+00:04:119 Data Receive Start from Node 4
+00:04:124 Data Receive Finished from Node 4
+4148) 00:04:148 Data Send Request To Node 3
+00:04:148 Data Send Request Reject from Link
+00:04:148 Exponentail Back-off Time: 123 msec
+4162) 00:04:162 Data Send Request To Node 3
+00:04:167 Data Send Finished To 3
+00:04:168 Data Receive Start from Node 4
+00:04:173 Data Receive Finished from Node 4
+00:04:181 Data Receive Start from Node 4
+00:04:186 Data Receive Finished from Node 4
+00:04:190 Data Receive Start from Node 1
+00:04:195 Data Receive Finished from Node 1
+00:04:198 Data Receive Start from Node 1
+00:04:203 Data Receive Finished from Node 1
+4211) 00:04:211 Data Send Request To Node 3
+00:04:211 Data Send Request Reject from Link
+00:04:211 Exponentail Back-off Time: 921 msec
+00:04:241 Data Receive Start from Node 1
+00:04:246 Data Receive Finished from Node 1
+4248) 00:04:248 Data Send Request To Node 1
+00:04:253 Data Send Finished To 1
+00:04:252 Data Receive Start from Node 3
+00:04:257 Data Receive Finished from Node 3
+00:04:264 Data Receive Start from Node 4
+00:04:269 Data Receive Finished from Node 4
+00:04:269 Data Receive Start from Node 3
+00:04:274 Data Receive Finished from Node 3
+4276) 00:04:276 Data Send Request To Node 3
+00:04:281 Data Send Finished To 3
+4288) 00:04:288 Data Send Request To Node 3
+00:04:293 Data Send Finished To 3
+4296) 00:04:296 Data Send Request To Node 3
+00:04:301 Data Send Finished To 3
+4318) 00:04:318 Data Send Request To Node 1
+00:04:318 Data Send Request Reject from Link
+00:04:318 Exponentail Back-off Time: 450 msec
+00:04:332 Data Receive Start from Node 4
+00:04:337 Data Receive Finished from Node 4
+4332) 00:04:332 Data Send Request To Node 3
+00:04:332 Data Send Request Reject from Link
+00:04:332 Exponentail Back-off Time: 346 msec
+00:04:365 Data Receive Start from Node 3
+00:04:370 Data Receive Finished from Node 3
+00:04:369 Data Receive Start from Node 1
+00:04:369 Data Receive Rejected from Node 1
+00:04:373 Data Receive Start from Node 4
+00:04:378 Data Receive Finished from Node 4
+4378) 00:04:378 Data Send Request To Node 1
+00:04:383 Data Send Finished To 1
+4391) 00:04:391 Data Send Request To Node 3
+00:04:391 Data Send Request Reject from Link
+00:04:391 Exponentail Back-off Time: 921 msec
+00:04:414 Data Receive Start from Node 3
+00:04:419 Data Receive Finished from Node 3
+4416) 00:04:416 Data Send Request To Node 3
+00:04:416 Data Send Request Reject from Link
+00:04:416 Exponentail Back-off Time: 278 msec
+4427) 00:04:427 Data Send Request To Node 3
+00:04:432 Data Send Finished To 3
+4432) 00:04:432 Data Send Request To Node 3
+00:04:437 Data Send Finished To 3
+00:04:443 Data Receive Start from Node 4
+00:04:448 Data Receive Finished from Node 4
+00:04:452 Data Receive Start from Node 1
+00:04:452 Data Receive Rejected from Node 1
+4478) 00:04:478 Data Send Request To Node 1
+00:04:483 Data Send Finished To 1
+00:04:489 Data Receive Start from Node 3
+00:04:489 Data Receive Rejected from Node 3
+4500) 00:04:500 Data Send Request To Node 1
+00:04:505 Data Send Finished To 1
+4510) 00:04:510 Data Send Request To Node 3
+00:04:515 Data Send Finished To 3
+00:04:525 Data Receive Start from Node 1
+00:04:530 Data Receive Finished from Node 1

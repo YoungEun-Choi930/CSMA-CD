@@ -1,0 +1,3429 @@
+00:00:012 Link Start
+00:00:012 System Clock Start
+00:00:167 Node 4 Send Request To Node 3
+00:00:170 Node 2 Send Request To Node 3
+00:00:170 Reject: Node 2 Data Send Request To Node 3
+00:00:212 Node 2 Send Request To Node 3
+00:00:212 Reject: Node 2 Data Send Request To Node 3
+00:00:167 Accept: Node 4 Data Send Request To Node 3
+00:00:229 Node 2 Send Request To Node 1
+00:00:229 Reject: Node 2 Data Send Request To Node 1
+00:00:172 Node 4 Send Finished To Node 3
+00:00:238 Node 4 Send Request To Node 3
+00:00:238 Accept: Node 4 Data Send Request To Node 3
+00:00:243 Node 4 Send Finished To Node 3
+00:00:256 Node 4 Send Request To Node 2
+00:00:256 Accept: Node 4 Data Send Request To Node 2
+00:00:257 Node 2 Send Request To Node 1
+00:00:257 Reject: Node 2 Data Send Request To Node 1
+00:00:261 Node 4 Send Finished To Node 2
+00:00:270 Node 1 Send Request To Node 3
+00:00:270 Accept: Node 1 Data Send Request To Node 3
+00:00:272 Node 3 Send Request To Node 2
+00:00:272 Reject: Node 3 Data Send Request To Node 2
+00:00:274 Node 4 Send Request To Node 2
+00:00:274 Reject: Node 4 Data Send Request To Node 2
+00:00:275 Node 1 Send Finished To Node 3
+00:00:276 Node 1 Send Request To Node 2
+00:00:276 Node 2 Send Request To Node 3
+00:00:277 Accept: Node 1 Data Send Request To Node 2
+00:00:277 Reject: Node 2 Data Send Request To Node 3
+00:00:281 Node 1 Send Finished To Node 2
+00:00:286 Node 3 Send Request To Node 1
+00:00:286 Accept: Node 3 Data Send Request To Node 1
+00:00:291 Node 3 Send Finished To Node 1
+00:00:305 Node 1 Send Request To Node 3
+00:00:305 Accept: Node 1 Data Send Request To Node 3
+00:00:310 Node 1 Send Finished To Node 3
+00:00:311 Node 2 Send Request To Node 1
+00:00:311 Accept: Node 2 Data Send Request To Node 1
+00:00:313 Node 1 Send Request To Node 2
+00:00:313 Reject: Node 1 Data Send Request To Node 2
+00:00:316 Node 2 Send Finished To Node 1
+00:00:324 Node 4 Send Request To Node 3
+00:00:324 Accept: Node 4 Data Send Request To Node 3
+00:00:329 Node 4 Send Finished To Node 3
+00:00:330 Node 2 Send Request To Node 1
+00:00:330 Accept: Node 2 Data Send Request To Node 1
+00:00:335 Node 2 Send Finished To Node 1
+00:00:339 Node 1 Send Request To Node 3
+00:00:339 Accept: Node 1 Data Send Request To Node 3
+00:00:344 Node 1 Send Finished To Node 3
+00:00:346 Node 4 Send Request To Node 2
+00:00:346 Node 3 Send Request To Node 2
+00:00:346 Accept: Node 4 Data Send Request To Node 2
+00:00:346 Reject: Node 3 Data Send Request To Node 2
+00:00:351 Node 4 Send Finished To Node 2
+00:00:381 Node 2 Send Request To Node 1
+00:00:381 Accept: Node 2 Data Send Request To Node 1
+00:00:386 Node 2 Send Finished To Node 1
+00:00:388 Node 3 Send Request To Node 1
+00:00:388 Accept: Node 3 Data Send Request To Node 1
+00:00:393 Node 3 Send Finished To Node 1
+00:00:393 Node 1 Send Request To Node 3
+00:00:393 Accept: Node 1 Data Send Request To Node 3
+00:00:395 Node 4 Send Request To Node 3
+00:00:395 Reject: Node 4 Data Send Request To Node 3
+00:00:398 Node 1 Send Finished To Node 3
+00:00:405 Node 2 Send Request To Node 1
+00:00:405 Accept: Node 2 Data Send Request To Node 1
+00:00:410 Node 2 Send Finished To Node 1
+00:00:420 Node 3 Send Request To Node 2
+00:00:420 Accept: Node 3 Data Send Request To Node 2
+00:00:425 Node 3 Send Finished To Node 2
+00:00:432 Node 4 Send Request To Node 3
+00:00:432 Accept: Node 4 Data Send Request To Node 3
+00:00:437 Node 4 Send Finished To Node 3
+00:00:440 Node 1 Send Request To Node 3
+00:00:440 Accept: Node 1 Data Send Request To Node 3
+00:00:445 Node 1 Send Finished To Node 3
+00:00:454 Node 2 Send Request To Node 3
+00:00:454 Accept: Node 2 Data Send Request To Node 3
+00:00:459 Node 2 Send Finished To Node 3
+00:00:475 Node 3 Send Request To Node 1
+00:00:475 Accept: Node 3 Data Send Request To Node 1
+00:00:480 Node 3 Send Finished To Node 1
+00:00:510 Node 4 Send Request To Node 1
+00:00:510 Accept: Node 4 Data Send Request To Node 1
+00:00:515 Node 1 Send Request To Node 2
+00:00:515 Reject: Node 1 Data Send Request To Node 2
+00:00:515 Node 4 Send Finished To Node 1
+00:00:570 Node 2 Send Request To Node 3
+00:00:570 Accept: Node 2 Data Send Request To Node 3
+00:00:571 Node 3 Send Request To Node 1
+00:00:571 Reject: Node 3 Data Send Request To Node 1
+00:00:575 Node 2 Send Finished To Node 3
+00:00:598 Node 4 Send Request To Node 3
+00:00:598 Accept: Node 4 Data Send Request To Node 3
+00:00:601 Node 1 Send Request To Node 2
+00:00:601 Reject: Node 1 Data Send Request To Node 2
+00:00:603 Node 4 Send Finished To Node 3
+00:00:615 Node 3 Send Request To Node 1
+00:00:615 Accept: Node 3 Data Send Request To Node 1
+00:00:620 Node 3 Send Finished To Node 1
+00:00:636 Node 2 Send Request To Node 3
+00:00:636 Accept: Node 2 Data Send Request To Node 3
+00:00:641 Node 2 Send Finished To Node 3
+00:00:656 Node 4 Send Request To Node 1
+00:00:656 Accept: Node 4 Data Send Request To Node 1
+00:00:661 Node 4 Send Finished To Node 1
+00:00:680 Node 1 Send Request To Node 2
+00:00:680 Accept: Node 1 Data Send Request To Node 2
+00:00:682 Node 3 Send Request To Node 1
+00:00:682 Reject: Node 3 Data Send Request To Node 1
+00:00:685 Node 1 Send Finished To Node 2
+00:00:692 Node 2 Send Request To Node 3
+00:00:692 Accept: Node 2 Data Send Request To Node 3
+00:00:697 Node 2 Send Finished To Node 3
+00:00:698 Node 4 Send Request To Node 3
+00:00:698 Accept: Node 4 Data Send Request To Node 3
+00:00:703 Node 4 Send Finished To Node 3
+00:00:720 Node 3 Send Request To Node 1
+00:00:720 Accept: Node 3 Data Send Request To Node 1
+00:00:725 Node 3 Send Finished To Node 1
+00:00:742 Node 3 Send Request To Node 2
+00:00:742 Accept: Node 3 Data Send Request To Node 2
+00:00:747 Node 3 Send Finished To Node 2
+00:00:757 Node 1 Send Request To Node 3
+00:00:757 Accept: Node 1 Data Send Request To Node 3
+00:00:758 Node 2 Send Request To Node 3
+00:00:758 Reject: Node 2 Data Send Request To Node 3
+00:00:762 Node 1 Send Finished To Node 3
+00:00:763 Node 4 Send Request To Node 3
+00:00:763 Accept: Node 4 Data Send Request To Node 3
+00:00:768 Node 4 Send Finished To Node 3
+00:00:770 Node 3 Send Request To Node 1
+00:00:770 Accept: Node 3 Data Send Request To Node 1
+00:00:775 Node 3 Send Finished To Node 1
+00:00:784 Node 1 Send Request To Node 2
+00:00:784 Accept: Node 1 Data Send Request To Node 2
+00:00:789 Node 1 Send Finished To Node 2
+00:00:815 Node 3 Send Request To Node 2
+00:00:815 Accept: Node 3 Data Send Request To Node 2
+00:00:820 Node 3 Send Finished To Node 2
+00:00:895 Node 2 Send Request To Node 3
+00:00:895 Accept: Node 2 Data Send Request To Node 3
+00:00:897 Node 4 Send Request To Node 2
+00:00:897 Reject: Node 4 Data Send Request To Node 2
+00:00:900 Node 2 Send Finished To Node 3
+00:00:910 Node 1 Send Request To Node 3
+00:00:910 Accept: Node 1 Data Send Request To Node 3
+00:00:915 Node 1 Send Finished To Node 3
+00:00:939 Node 3 Send Request To Node 2
+00:00:939 Accept: Node 3 Data Send Request To Node 2
+00:00:941 Node 2 Send Request To Node 1
+00:00:941 Reject: Node 2 Data Send Request To Node 1
+00:00:944 Node 3 Send Finished To Node 2
+00:00:953 Node 4 Send Request To Node 1
+00:00:953 Accept: Node 4 Data Send Request To Node 1
+00:00:958 Node 4 Send Finished To Node 1
+00:00:964 Node 1 Send Request To Node 2
+00:00:964 Accept: Node 1 Data Send Request To Node 2
+00:00:966 Node 4 Send Request To Node 3
+00:00:966 Reject: Node 4 Data Send Request To Node 3
+00:00:969 Node 1 Send Finished To Node 2
+00:00:980 Node 2 Send Request To Node 1
+00:00:980 Accept: Node 2 Data Send Request To Node 1
+00:00:982 Node 1 Send Request To Node 2
+00:00:982 Reject: Node 1 Data Send Request To Node 2
+00:00:985 Node 2 Send Finished To Node 1
+00:00:987 Node 3 Send Request To Node 2
+00:00:987 Accept: Node 3 Data Send Request To Node 2
+00:00:992 Node 3 Send Finished To Node 2
+00:00:998 Node 1 Send Request To Node 3
+00:00:998 Accept: Node 1 Data Send Request To Node 3
+00:01:003 Node 1 Send Finished To Node 3
+00:01:005 Node 4 Send Request To Node 3
+00:01:005 Accept: Node 4 Data Send Request To Node 3
+00:01:010 Node 4 Send Finished To Node 3
+00:01:011 Node 1 Send Request To Node 2
+00:01:011 Accept: Node 1 Data Send Request To Node 2
+00:01:014 Node 2 Send Request To Node 1
+00:01:014 Node 3 Send Request To Node 2
+00:01:014 Reject: Node 2 Data Send Request To Node 1
+00:01:014 Reject: Node 3 Data Send Request To Node 2
+00:01:016 Node 1 Send Finished To Node 2
+00:01:029 Node 1 Send Request To Node 2
+00:01:029 Accept: Node 1 Data Send Request To Node 2
+00:01:034 Node 1 Send Finished To Node 2
+00:01:042 Node 1 Send Request To Node 2
+00:01:042 Accept: Node 1 Data Send Request To Node 2
+00:01:047 Node 1 Send Finished To Node 2
+00:01:050 Node 3 Send Request To Node 1
+00:01:050 Accept: Node 3 Data Send Request To Node 1
+00:01:050 Node 2 Send Request To Node 3
+00:01:050 Reject: Node 2 Data Send Request To Node 3
+00:01:053 Node 4 Send Request To Node 1
+00:01:053 Reject: Node 4 Data Send Request To Node 1
+00:01:055 Node 3 Send Finished To Node 1
+00:01:082 Node 4 Send Request To Node 2
+00:01:082 Accept: Node 4 Data Send Request To Node 2
+00:01:087 Node 4 Send Finished To Node 2
+00:01:148 Node 1 Send Request To Node 2
+00:01:148 Accept: Node 1 Data Send Request To Node 2
+00:01:150 Node 3 Send Request To Node 1
+00:01:150 Reject: Node 3 Data Send Request To Node 1
+00:01:153 Node 1 Send Finished To Node 2
+00:01:157 Node 2 Send Request To Node 1
+00:01:157 Accept: Node 2 Data Send Request To Node 1
+00:01:159 Node 4 Send Request To Node 2
+00:01:159 Reject: Node 4 Data Send Request To Node 2
+00:01:162 Node 2 Send Finished To Node 1
+00:01:237 Node 3 Send Request To Node 2
+00:01:237 Accept: Node 3 Data Send Request To Node 2
+00:01:242 Node 3 Send Finished To Node 2
+00:01:256 Node 1 Send Request To Node 2
+00:01:256 Accept: Node 1 Data Send Request To Node 2
+00:01:257 Node 2 Send Request To Node 3
+00:01:257 Reject: Node 2 Data Send Request To Node 3
+00:01:260 Node 4 Send Request To Node 3
+00:01:261 Node 1 Send Finished To Node 2
+00:01:260 Reject: Node 4 Data Send Request To Node 3
+00:01:265 Node 2 Send Request To Node 3
+00:01:265 Accept: Node 2 Data Send Request To Node 3
+00:01:270 Node 2 Send Finished To Node 3
+00:01:274 Node 2 Send Request To Node 3
+00:01:274 Accept: Node 2 Data Send Request To Node 3
+00:01:279 Node 2 Send Finished To Node 3
+00:01:282 Node 1 Send Request To Node 2
+00:01:282 Accept: Node 1 Data Send Request To Node 2
+00:01:286 Node 3 Send Request To Node 1
+00:01:286 Reject: Node 3 Data Send Request To Node 1
+00:01:287 Node 1 Send Finished To Node 2
+00:01:295 Node 3 Send Request To Node 2
+00:01:295 Node 4 Send Request To Node 1
+00:01:295 Accept: Node 3 Data Send Request To Node 2
+00:01:295 Reject: Node 4 Data Send Request To Node 1
+00:01:299 Node 1 Send Request To Node 2
+00:01:299 Reject: Node 1 Data Send Request To Node 2
+00:01:300 Node 3 Send Finished To Node 2
+00:01:303 Node 3 Send Request To Node 2
+00:01:303 Accept: Node 3 Data Send Request To Node 2
+00:01:308 Node 3 Send Finished To Node 2
+00:01:317 Node 4 Send Request To Node 1
+00:01:317 Accept: Node 4 Data Send Request To Node 1
+00:01:318 Node 2 Send Request To Node 3
+00:01:318 Reject: Node 2 Data Send Request To Node 3
+00:01:322 Node 4 Send Finished To Node 1
+00:01:333 Node 4 Send Request To Node 3
+00:01:333 Accept: Node 4 Data Send Request To Node 3
+00:01:335 Node 2 Send Request To Node 1
+00:01:335 Reject: Node 2 Data Send Request To Node 1
+00:01:338 Node 4 Send Finished To Node 3
+00:01:349 Node 1 Send Request To Node 2
+00:01:349 Accept: Node 1 Data Send Request To Node 2
+00:01:354 Node 1 Send Finished To Node 2
+00:01:364 Node 3 Send Request To Node 2
+00:01:364 Accept: Node 3 Data Send Request To Node 2
+00:01:369 Node 3 Send Finished To Node 2
+00:01:374 Node 2 Send Request To Node 1
+00:01:374 Accept: Node 2 Data Send Request To Node 1
+00:01:379 Node 2 Send Finished To Node 1
+00:01:384 Node 4 Send Request To Node 2
+00:01:384 Accept: Node 4 Data Send Request To Node 2
+00:01:385 Node 2 Send Request To Node 1
+00:01:385 Reject: Node 2 Data Send Request To Node 1
+00:01:389 Node 4 Send Finished To Node 2
+00:01:411 Node 3 Send Request To Node 1
+00:01:411 Accept: Node 3 Data Send Request To Node 1
+00:01:413 Node 1 Send Request To Node 2
+00:01:413 Reject: Node 1 Data Send Request To Node 2
+00:01:415 Node 2 Send Request To Node 3
+00:01:415 Reject: Node 2 Data Send Request To Node 3
+00:01:416 Node 3 Send Finished To Node 1
+00:01:417 Node 4 Send Request To Node 1
+00:01:417 Accept: Node 4 Data Send Request To Node 1
+00:01:422 Node 4 Send Finished To Node 1
+00:01:426 Node 3 Send Request To Node 1
+00:01:426 Accept: Node 3 Data Send Request To Node 1
+00:01:428 Node 4 Send Request To Node 1
+00:01:428 Reject: Node 4 Data Send Request To Node 1
+00:01:431 Node 3 Send Finished To Node 1
+00:01:453 Node 4 Send Request To Node 3
+00:01:453 Accept: Node 4 Data Send Request To Node 3
+00:01:458 Node 4 Send Finished To Node 3
+00:01:472 Node 1 Send Request To Node 2
+00:01:472 Accept: Node 1 Data Send Request To Node 2
+00:01:477 Node 1 Send Finished To Node 2
+00:01:480 Node 2 Send Request To Node 1
+00:01:480 Accept: Node 2 Data Send Request To Node 1
+00:01:485 Node 2 Send Finished To Node 1
+00:01:498 Node 3 Send Request To Node 2
+00:01:498 Accept: Node 3 Data Send Request To Node 2
+00:01:503 Node 3 Send Finished To Node 2
+00:01:512 Node 4 Send Request To Node 3
+00:01:512 Accept: Node 4 Data Send Request To Node 3
+00:01:517 Node 4 Send Finished To Node 3
+00:01:536 Node 2 Send Request To Node 3
+00:01:536 Accept: Node 2 Data Send Request To Node 3
+00:01:537 Node 1 Send Request To Node 2
+00:01:537 Reject: Node 1 Data Send Request To Node 2
+00:01:541 Node 2 Send Finished To Node 3
+00:01:596 Node 3 Send Request To Node 2
+00:01:596 Accept: Node 3 Data Send Request To Node 2
+00:01:596 Node 2 Send Request To Node 1
+00:01:596 Reject: Node 2 Data Send Request To Node 1
+00:01:599 Node 4 Send Request To Node 3
+00:01:599 Reject: Node 4 Data Send Request To Node 3
+00:01:601 Node 3 Send Finished To Node 2
+00:01:600 Node 1 Send Request To Node 2
+00:01:600 Accept: Node 1 Data Send Request To Node 2
+00:01:605 Node 1 Send Finished To Node 2
+00:01:606 Node 1 Send Request To Node 3
+00:01:606 Accept: Node 1 Data Send Request To Node 3
+00:01:607 Node 4 Send Request To Node 1
+00:01:607 Reject: Node 4 Data Send Request To Node 1
+00:01:611 Node 1 Send Finished To Node 3
+00:01:621 Node 2 Send Request To Node 3
+00:01:621 Accept: Node 2 Data Send Request To Node 3
+00:01:626 Node 2 Send Finished To Node 3
+00:01:664 Node 1 Send Request To Node 2
+00:01:664 Accept: Node 1 Data Send Request To Node 2
+00:01:665 Node 4 Send Request To Node 3
+00:01:665 Reject: Node 4 Data Send Request To Node 3
+00:01:666 Node 2 Send Request To Node 1
+00:01:666 Reject: Node 2 Data Send Request To Node 1
+00:01:667 Node 3 Send Request To Node 2
+00:01:667 Reject: Node 3 Data Send Request To Node 2
+00:01:669 Node 1 Send Finished To Node 2
+00:01:693 Node 2 Send Request To Node 3
+00:01:693 Accept: Node 2 Data Send Request To Node 3
+00:01:694 Node 4 Send Request To Node 2
+00:01:694 Reject: Node 4 Data Send Request To Node 2
+00:01:698 Node 2 Send Finished To Node 3
+00:01:705 Node 1 Send Request To Node 2
+00:01:705 Accept: Node 1 Data Send Request To Node 2
+00:01:706 Node 3 Send Request To Node 2
+00:01:706 Reject: Node 3 Data Send Request To Node 2
+00:01:710 Node 1 Send Finished To Node 2
+00:01:743 Node 1 Send Request To Node 2
+00:01:743 Accept: Node 1 Data Send Request To Node 2
+00:01:746 Node 3 Send Request To Node 1
+00:01:746 Reject: Node 3 Data Send Request To Node 1
+00:01:748 Node 1 Send Finished To Node 2
+00:01:751 Node 2 Send Request To Node 3
+00:01:751 Accept: Node 2 Data Send Request To Node 3
+00:01:752 Node 4 Send Request To Node 3
+00:01:752 Reject: Node 4 Data Send Request To Node 3
+00:01:756 Node 2 Send Finished To Node 3
+00:01:781 Node 1 Send Request To Node 3
+00:01:781 Accept: Node 1 Data Send Request To Node 3
+00:01:786 Node 1 Send Finished To Node 3
+00:01:816 Node 2 Send Request To Node 1
+00:01:816 Accept: Node 2 Data Send Request To Node 1
+00:01:817 Node 4 Send Request To Node 1
+00:01:817 Reject: Node 4 Data Send Request To Node 1
+00:01:817 Node 1 Send Request To Node 2
+00:01:817 Reject: Node 1 Data Send Request To Node 2
+00:01:819 Node 3 Send Request To Node 2
+00:01:819 Reject: Node 3 Data Send Request To Node 2
+00:01:821 Node 2 Send Finished To Node 1
+00:01:828 Node 1 Send Request To Node 3
+00:01:828 Accept: Node 1 Data Send Request To Node 3
+00:01:833 Node 1 Send Finished To Node 3
+00:01:837 Node 4 Send Request To Node 1
+00:01:837 Accept: Node 4 Data Send Request To Node 1
+00:01:842 Node 4 Send Finished To Node 1
+00:01:847 Node 3 Send Request To Node 2
+00:01:847 Accept: Node 3 Data Send Request To Node 2
+00:01:852 Node 3 Send Finished To Node 2
+00:01:852 Node 2 Send Request To Node 1
+00:01:852 Accept: Node 2 Data Send Request To Node 1
+00:01:857 Node 2 Send Finished To Node 1
+00:01:858 Node 1 Send Request To Node 2
+00:01:858 Accept: Node 1 Data Send Request To Node 2
+00:01:863 Node 1 Send Finished To Node 2
+00:01:881 Node 2 Send Request To Node 3
+00:01:881 Accept: Node 2 Data Send Request To Node 3
+00:01:887 Node 3 Send Request To Node 1
+00:01:887 Reject: Node 3 Data Send Request To Node 1
+00:01:886 Node 2 Send Finished To Node 3
+00:01:891 Node 4 Send Request To Node 3
+00:01:891 Accept: Node 4 Data Send Request To Node 3
+00:01:896 Node 4 Send Finished To Node 3
+00:01:906 Node 3 Send Request To Node 1
+00:01:906 Accept: Node 3 Data Send Request To Node 1
+00:01:911 Node 3 Send Finished To Node 1
+00:01:926 Node 1 Send Request To Node 2
+00:01:926 Accept: Node 1 Data Send Request To Node 2
+00:01:927 Node 3 Send Request To Node 2
+00:01:927 Reject: Node 3 Data Send Request To Node 2
+00:01:927 Node 2 Send Request To Node 1
+00:01:927 Reject: Node 2 Data Send Request To Node 1
+00:01:928 Node 4 Send Request To Node 3
+00:01:928 Reject: Node 4 Data Send Request To Node 3
+00:01:931 Node 1 Send Finished To Node 2
+00:01:936 Node 4 Send Request To Node 3
+00:01:936 Accept: Node 4 Data Send Request To Node 3
+00:01:939 Node 3 Send Request To Node 1
+00:01:939 Reject: Node 3 Data Send Request To Node 1
+00:01:941 Node 4 Send Finished To Node 3
+00:01:947 Node 1 Send Request To Node 2
+00:01:947 Accept: Node 1 Data Send Request To Node 2
+00:01:952 Node 1 Send Finished To Node 2
+00:01:974 Node 2 Send Request To Node 1
+00:01:974 Accept: Node 2 Data Send Request To Node 1
+00:01:979 Node 2 Send Finished To Node 1
+00:01:979 Node 4 Send Request To Node 1
+00:01:980 Node 2 Send Request To Node 1
+00:01:979 Accept: Node 4 Data Send Request To Node 1
+00:01:980 Reject: Node 2 Data Send Request To Node 1
+00:01:984 Node 4 Send Finished To Node 1
+00:01:984 Node 3 Send Request To Node 2
+00:01:984 Accept: Node 3 Data Send Request To Node 2
+00:01:985 Node 1 Send Request To Node 2
+00:01:985 Reject: Node 1 Data Send Request To Node 2
+00:01:989 Node 3 Send Finished To Node 2
+00:02:014 Node 4 Send Request To Node 3
+00:02:014 Accept: Node 4 Data Send Request To Node 3
+00:02:016 Node 1 Send Request To Node 2
+00:02:016 Reject: Node 1 Data Send Request To Node 2
+00:02:019 Node 4 Send Finished To Node 3
+00:02:020 Node 4 Send Request To Node 3
+00:02:020 Accept: Node 4 Data Send Request To Node 3
+00:02:022 Node 3 Send Request To Node 1
+00:02:022 Reject: Node 3 Data Send Request To Node 1
+00:02:025 Node 4 Send Finished To Node 3
+00:02:039 Node 2 Send Request To Node 3
+00:02:039 Accept: Node 2 Data Send Request To Node 3
+00:02:040 Node 1 Send Request To Node 2
+00:02:040 Reject: Node 1 Data Send Request To Node 2
+00:02:042 Node 3 Send Request To Node 1
+00:02:042 Reject: Node 3 Data Send Request To Node 1
+00:02:044 Node 2 Send Finished To Node 3
+00:02:059 Node 2 Send Request To Node 1
+00:02:059 Accept: Node 2 Data Send Request To Node 1
+00:02:063 Node 3 Send Request To Node 1
+00:02:063 Reject: Node 3 Data Send Request To Node 1
+00:02:064 Node 2 Send Finished To Node 1
+00:02:069 Node 4 Send Request To Node 1
+00:02:069 Accept: Node 4 Data Send Request To Node 1
+00:02:074 Node 4 Send Finished To Node 1
+00:02:078 Node 3 Send Request To Node 2
+00:02:078 Accept: Node 3 Data Send Request To Node 2
+00:02:083 Node 3 Send Finished To Node 2
+00:02:089 Node 2 Send Request To Node 1
+00:02:089 Accept: Node 2 Data Send Request To Node 1
+00:02:093 Node 1 Send Request To Node 2
+00:02:093 Reject: Node 1 Data Send Request To Node 2
+00:02:094 Node 2 Send Finished To Node 1
+00:02:097 Node 4 Send Request To Node 1
+00:02:097 Accept: Node 4 Data Send Request To Node 1
+00:02:102 Node 4 Send Finished To Node 1
+00:02:106 Node 3 Send Request To Node 2
+00:02:106 Accept: Node 3 Data Send Request To Node 2
+00:02:111 Node 3 Send Finished To Node 2
+00:02:126 Node 4 Send Request To Node 3
+00:02:126 Accept: Node 4 Data Send Request To Node 3
+00:02:131 Node 4 Send Finished To Node 3
+00:02:134 Node 4 Send Request To Node 3
+00:02:134 Accept: Node 4 Data Send Request To Node 3
+00:02:135 Node 3 Send Request To Node 1
+00:02:135 Reject: Node 3 Data Send Request To Node 1
+00:02:139 Node 4 Send Finished To Node 3
+00:02:139 Node 1 Send Request To Node 3
+00:02:139 Accept: Node 1 Data Send Request To Node 3
+00:02:140 Node 3 Send Request To Node 1
+00:02:140 Reject: Node 3 Data Send Request To Node 1
+00:02:141 Node 2 Send Request To Node 3
+00:02:141 Reject: Node 2 Data Send Request To Node 3
+00:02:144 Node 1 Send Finished To Node 3
+00:02:149 Node 2 Send Request To Node 1
+00:02:149 Accept: Node 2 Data Send Request To Node 1
+00:02:154 Node 2 Send Finished To Node 1
+00:02:154 Node 3 Send Request To Node 1
+00:02:154 Accept: Node 3 Data Send Request To Node 1
+00:02:157 Node 4 Send Request To Node 2
+00:02:157 Reject: Node 4 Data Send Request To Node 2
+00:02:159 Node 3 Send Finished To Node 1
+00:02:171 Node 2 Send Request To Node 3
+00:02:171 Accept: Node 2 Data Send Request To Node 3
+00:02:176 Node 2 Send Finished To Node 3
+00:02:180 Node 1 Send Request To Node 2
+00:02:180 Accept: Node 1 Data Send Request To Node 2
+00:02:182 Node 3 Send Request To Node 1
+00:02:182 Reject: Node 3 Data Send Request To Node 1
+00:02:185 Node 1 Send Finished To Node 2
+00:02:201 Node 4 Send Request To Node 1
+00:02:201 Accept: Node 4 Data Send Request To Node 1
+00:02:206 Node 4 Send Finished To Node 1
+00:02:214 Node 2 Send Request To Node 3
+00:02:214 Accept: Node 2 Data Send Request To Node 3
+00:02:219 Node 2 Send Finished To Node 3
+00:02:218 Node 1 Send Request To Node 2
+00:02:218 Accept: Node 1 Data Send Request To Node 2
+00:02:223 Node 1 Send Finished To Node 2
+00:02:256 Node 3 Send Request To Node 1
+00:02:256 Accept: Node 3 Data Send Request To Node 1
+00:02:257 Node 1 Send Request To Node 2
+00:02:257 Reject: Node 1 Data Send Request To Node 2
+00:02:258 Node 2 Send Request To Node 3
+00:02:258 Reject: Node 2 Data Send Request To Node 3
+00:02:261 Node 3 Send Finished To Node 1
+00:02:263 Node 4 Send Request To Node 2
+00:02:263 Accept: Node 4 Data Send Request To Node 2
+00:02:268 Node 4 Send Finished To Node 2
+00:02:284 Node 4 Send Request To Node 2
+00:02:284 Accept: Node 4 Data Send Request To Node 2
+00:02:289 Node 4 Send Finished To Node 2
+00:02:295 Node 3 Send Request To Node 1
+00:02:295 Accept: Node 3 Data Send Request To Node 1
+00:02:300 Node 3 Send Finished To Node 1
+00:02:452 Node 1 Send Request To Node 3
+00:02:452 Accept: Node 1 Data Send Request To Node 3
+00:02:452 Node 2 Send Request To Node 3
+00:02:452 Reject: Node 2 Data Send Request To Node 3
+00:02:457 Node 1 Send Finished To Node 3
+00:02:484 Node 4 Send Request To Node 1
+00:02:484 Accept: Node 4 Data Send Request To Node 1
+00:02:489 Node 4 Send Finished To Node 1
+00:02:566 Node 3 Send Request To Node 2
+00:02:566 Node 2 Send Request To Node 1
+00:02:566 Accept: Node 3 Data Send Request To Node 2
+00:02:566 Reject: Node 2 Data Send Request To Node 1
+00:02:570 Node 1 Send Request To Node 2
+00:02:570 Reject: Node 1 Data Send Request To Node 2
+00:02:571 Node 3 Send Finished To Node 2
+00:02:619 Node 4 Send Request To Node 2
+00:02:619 Accept: Node 4 Data Send Request To Node 2
+00:02:620 Node 2 Send Request To Node 1
+00:02:620 Reject: Node 2 Data Send Request To Node 1
+00:02:621 Node 3 Send Request To Node 1
+00:02:621 Reject: Node 3 Data Send Request To Node 1
+00:02:624 Node 4 Send Finished To Node 2
+00:02:623 Node 1 Send Request To Node 2
+00:02:623 Accept: Node 1 Data Send Request To Node 2
+00:02:628 Node 1 Send Finished To Node 2
+00:02:654 Node 2 Send Request To Node 3
+00:02:654 Accept: Node 2 Data Send Request To Node 3
+00:02:659 Node 2 Send Finished To Node 3
+00:02:669 Node 3 Send Request To Node 1
+00:02:669 Accept: Node 3 Data Send Request To Node 1
+00:02:673 Node 4 Send Request To Node 3
+00:02:673 Reject: Node 4 Data Send Request To Node 3
+00:02:674 Node 3 Send Finished To Node 1
+00:02:677 Node 1 Send Request To Node 3
+00:02:677 Accept: Node 1 Data Send Request To Node 3
+00:02:682 Node 1 Send Finished To Node 3
+00:02:698 Node 1 Send Request To Node 3
+00:02:698 Accept: Node 1 Data Send Request To Node 3
+00:02:701 Node 2 Send Request To Node 1
+00:02:701 Reject: Node 2 Data Send Request To Node 1
+00:02:702 Node 3 Send Request To Node 1
+00:02:702 Reject: Node 3 Data Send Request To Node 1
+00:02:703 Node 1 Send Finished To Node 3
+00:02:705 Node 4 Send Request To Node 2
+00:02:705 Accept: Node 4 Data Send Request To Node 2
+00:02:710 Node 4 Send Finished To Node 2
+00:02:714 Node 2 Send Request To Node 3
+00:02:714 Accept: Node 2 Data Send Request To Node 3
+00:02:715 Node 3 Send Request To Node 2
+00:02:715 Reject: Node 3 Data Send Request To Node 2
+00:02:719 Node 2 Send Finished To Node 3
+00:02:745 Node 4 Send Request To Node 1
+00:02:745 Accept: Node 4 Data Send Request To Node 1
+00:02:750 Node 4 Send Finished To Node 1
+00:02:750 Node 1 Send Request To Node 3
+00:02:750 Accept: Node 1 Data Send Request To Node 3
+00:02:752 Node 2 Send Request To Node 1
+00:02:752 Reject: Node 2 Data Send Request To Node 1
+00:02:755 Node 1 Send Finished To Node 3
+00:02:754 Node 3 Send Request To Node 1
+00:02:754 Accept: Node 3 Data Send Request To Node 1
+00:02:759 Node 3 Send Finished To Node 1
+00:02:759 Node 1 Send Request To Node 2
+00:02:759 Accept: Node 1 Data Send Request To Node 2
+00:02:764 Node 1 Send Finished To Node 2
+00:02:768 Node 1 Send Request To Node 2
+00:02:768 Accept: Node 1 Data Send Request To Node 2
+00:02:773 Node 1 Send Finished To Node 2
+00:02:774 Node 1 Send Request To Node 2
+00:02:774 Accept: Node 1 Data Send Request To Node 2
+00:02:779 Node 1 Send Finished To Node 2
+00:02:792 Node 2 Send Request To Node 3
+00:02:792 Accept: Node 2 Data Send Request To Node 3
+00:02:794 Node 4 Send Request To Node 1
+00:02:794 Reject: Node 4 Data Send Request To Node 1
+00:02:795 Node 1 Send Request To Node 2
+00:02:795 Reject: Node 1 Data Send Request To Node 2
+00:02:797 Node 2 Send Finished To Node 3
+00:02:805 Node 3 Send Request To Node 2
+00:02:805 Accept: Node 3 Data Send Request To Node 2
+00:02:808 Node 4 Send Request To Node 1
+00:02:808 Reject: Node 4 Data Send Request To Node 1
+00:02:809 Node 1 Send Request To Node 2
+00:02:809 Reject: Node 1 Data Send Request To Node 2
+00:02:810 Node 3 Send Finished To Node 2
+00:02:842 Node 3 Send Request To Node 2
+00:02:842 Accept: Node 3 Data Send Request To Node 2
+00:02:844 Node 4 Send Request To Node 3
+00:02:844 Reject: Node 4 Data Send Request To Node 3
+00:02:847 Node 3 Send Finished To Node 2
+00:02:857 Node 2 Send Request To Node 3
+00:02:857 Accept: Node 2 Data Send Request To Node 3
+00:02:858 Node 1 Send Request To Node 2
+00:02:858 Reject: Node 1 Data Send Request To Node 2
+00:02:859 Node 4 Send Request To Node 2
+00:02:859 Reject: Node 4 Data Send Request To Node 2
+00:02:862 Node 2 Send Finished To Node 3
+00:02:877 Node 4 Send Request To Node 2
+00:02:877 Accept: Node 4 Data Send Request To Node 2
+00:02:882 Node 4 Send Finished To Node 2
+00:02:892 Node 3 Send Request To Node 1
+00:02:892 Accept: Node 3 Data Send Request To Node 1
+00:02:893 Node 1 Send Request To Node 3
+00:02:893 Reject: Node 1 Data Send Request To Node 3
+00:02:896 Node 2 Send Request To Node 3
+00:02:896 Reject: Node 2 Data Send Request To Node 3
+00:02:897 Node 3 Send Finished To Node 1
+00:02:902 Node 4 Send Request To Node 1
+00:02:902 Accept: Node 4 Data Send Request To Node 1
+00:02:907 Node 4 Send Finished To Node 1
+00:02:907 Node 4 Send Request To Node 1
+00:02:907 Accept: Node 4 Data Send Request To Node 1
+00:02:908 Node 1 Send Request To Node 3
+00:02:908 Reject: Node 1 Data Send Request To Node 3
+00:02:910 Node 1 Send Request To Node 2
+00:02:910 Reject: Node 1 Data Send Request To Node 2
+00:02:912 Node 4 Send Finished To Node 1
+00:02:916 Node 2 Send Request To Node 3
+00:02:916 Node 3 Send Request To Node 2
+00:02:916 Accept: Node 2 Data Send Request To Node 3
+00:02:916 Reject: Node 3 Data Send Request To Node 2
+00:02:921 Node 2 Send Finished To Node 3
+00:02:932 Node 1 Send Request To Node 2
+00:02:932 Accept: Node 1 Data Send Request To Node 2
+00:02:936 Node 2 Send Request To Node 3
+00:02:936 Reject: Node 2 Data Send Request To Node 3
+00:02:937 Node 1 Send Finished To Node 2
+00:02:952 Node 1 Send Request To Node 2
+00:02:952 Accept: Node 1 Data Send Request To Node 2
+00:02:953 Node 4 Send Request To Node 3
+00:02:953 Reject: Node 4 Data Send Request To Node 3
+00:02:957 Node 1 Send Finished To Node 2
+00:02:958 Node 2 Send Request To Node 1
+00:02:958 Accept: Node 2 Data Send Request To Node 1
+00:02:962 Node 3 Send Request To Node 1
+00:02:962 Reject: Node 3 Data Send Request To Node 1
+00:02:963 Node 2 Send Finished To Node 1
+00:02:968 Node 1 Send Request To Node 2
+00:02:968 Accept: Node 1 Data Send Request To Node 2
+00:02:973 Node 4 Send Request To Node 3
+00:02:973 Reject: Node 4 Data Send Request To Node 3
+00:02:973 Node 1 Send Finished To Node 2
+00:02:976 Node 1 Send Request To Node 2
+00:02:976 Accept: Node 1 Data Send Request To Node 2
+00:02:981 Node 1 Send Finished To Node 2
+00:02:988 Node 3 Send Request To Node 2
+00:02:988 Accept: Node 3 Data Send Request To Node 2
+00:02:989 Node 1 Send Request To Node 3
+00:02:989 Reject: Node 1 Data Send Request To Node 3
+00:02:993 Node 3 Send Finished To Node 2
+00:03:005 Node 3 Send Request To Node 1
+00:03:005 Accept: Node 3 Data Send Request To Node 1
+00:03:009 Node 2 Send Request To Node 3
+00:03:009 Reject: Node 2 Data Send Request To Node 3
+00:03:010 Node 3 Send Finished To Node 1
+00:03:013 Node 4 Send Request To Node 2
+00:03:013 Accept: Node 4 Data Send Request To Node 2
+00:03:018 Node 4 Send Finished To Node 2
+00:03:026 Node 1 Send Request To Node 3
+00:03:026 Accept: Node 1 Data Send Request To Node 3
+00:03:027 Node 3 Send Request To Node 2
+00:03:027 Reject: Node 3 Data Send Request To Node 2
+00:03:031 Node 1 Send Finished To Node 3
+00:03:044 Node 2 Send Request To Node 3
+00:03:044 Accept: Node 2 Data Send Request To Node 3
+00:03:049 Node 2 Send Finished To Node 3
+00:03:096 Node 4 Send Request To Node 3
+00:03:096 Accept: Node 4 Data Send Request To Node 3
+00:03:102 Node 1 Send Request To Node 3
+00:03:102 Reject: Node 1 Data Send Request To Node 3
+00:03:101 Node 4 Send Finished To Node 3
+00:03:104 Node 3 Send Request To Node 2
+00:03:104 Accept: Node 3 Data Send Request To Node 2
+00:03:105 Node 2 Send Request To Node 3
+00:03:105 Reject: Node 2 Data Send Request To Node 3
+00:03:109 Node 3 Send Finished To Node 2
+00:03:131 Node 2 Send Request To Node 3
+00:03:131 Accept: Node 2 Data Send Request To Node 3
+00:03:136 Node 2 Send Finished To Node 3
+00:03:135 Node 4 Send Request To Node 3
+00:03:135 Accept: Node 4 Data Send Request To Node 3
+00:03:136 Node 2 Send Request To Node 1
+00:03:136 Reject: Node 2 Data Send Request To Node 1
+00:03:139 Node 1 Send Request To Node 3
+00:03:139 Reject: Node 1 Data Send Request To Node 3
+00:03:140 Node 4 Send Finished To Node 3
+00:03:149 Node 3 Send Request To Node 1
+00:03:149 Accept: Node 3 Data Send Request To Node 1
+00:03:154 Node 3 Send Finished To Node 1
+00:03:156 Node 1 Send Request To Node 3
+00:03:156 Accept: Node 1 Data Send Request To Node 3
+00:03:161 Node 1 Send Finished To Node 3
+00:03:168 Node 2 Send Request To Node 1
+00:03:168 Accept: Node 2 Data Send Request To Node 1
+00:03:173 Node 2 Send Finished To Node 1
+00:03:176 Node 4 Send Request To Node 3
+00:03:176 Accept: Node 4 Data Send Request To Node 3
+00:03:181 Node 4 Send Finished To Node 3
+00:03:194 Node 4 Send Request To Node 1
+00:03:194 Accept: Node 4 Data Send Request To Node 1
+00:03:197 Node 3 Send Request To Node 2
+00:03:197 Reject: Node 3 Data Send Request To Node 2
+00:03:199 Node 4 Send Finished To Node 1
+00:03:204 Node 1 Send Request To Node 3
+00:03:204 Accept: Node 1 Data Send Request To Node 3
+00:03:207 Node 2 Send Request To Node 3
+00:03:207 Reject: Node 2 Data Send Request To Node 3
+00:03:209 Node 1 Send Finished To Node 3
+00:03:222 Node 4 Send Request To Node 1
+00:03:222 Accept: Node 4 Data Send Request To Node 1
+00:03:227 Node 4 Send Finished To Node 1
+00:03:238 Node 3 Send Request To Node 1
+00:03:238 Accept: Node 3 Data Send Request To Node 1
+00:03:243 Node 3 Send Finished To Node 1
+00:03:246 Node 2 Send Request To Node 1
+00:03:246 Accept: Node 2 Data Send Request To Node 1
+00:03:251 Node 2 Send Finished To Node 1
+00:03:252 Node 1 Send Request To Node 3
+00:03:252 Accept: Node 1 Data Send Request To Node 3
+00:03:256 Node 2 Send Request To Node 1
+00:03:256 Reject: Node 2 Data Send Request To Node 1
+00:03:257 Node 1 Send Finished To Node 3
+00:03:265 Node 3 Send Request To Node 2
+00:03:265 Accept: Node 3 Data Send Request To Node 2
+00:03:268 Node 4 Send Request To Node 3
+00:03:268 Reject: Node 4 Data Send Request To Node 3
+00:03:270 Node 3 Send Finished To Node 2
+00:03:303 Node 2 Send Request To Node 1
+00:03:303 Accept: Node 2 Data Send Request To Node 1
+00:03:308 Node 2 Send Finished To Node 1
+00:03:322 Node 1 Send Request To Node 3
+00:03:322 Accept: Node 1 Data Send Request To Node 3
+00:03:327 Node 1 Send Finished To Node 3
+00:03:329 Node 3 Send Request To Node 2
+00:03:329 Accept: Node 3 Data Send Request To Node 2
+00:03:330 Node 4 Send Request To Node 3
+00:03:330 Reject: Node 4 Data Send Request To Node 3
+00:03:333 Node 2 Send Request To Node 1
+00:03:333 Reject: Node 2 Data Send Request To Node 1
+00:03:334 Node 3 Send Finished To Node 2
+00:03:347 Node 2 Send Request To Node 3
+00:03:347 Accept: Node 2 Data Send Request To Node 3
+00:03:352 Node 2 Send Finished To Node 3
+00:03:363 Node 3 Send Request To Node 2
+00:03:363 Accept: Node 3 Data Send Request To Node 2
+00:03:365 Node 2 Send Request To Node 3
+00:03:365 Reject: Node 2 Data Send Request To Node 3
+00:03:368 Node 3 Send Finished To Node 2
+00:03:377 Node 3 Send Request To Node 1
+00:03:377 Accept: Node 3 Data Send Request To Node 1
+00:03:378 Node 1 Send Request To Node 2
+00:03:378 Reject: Node 1 Data Send Request To Node 2
+00:03:381 Node 4 Send Request To Node 1
+00:03:381 Reject: Node 4 Data Send Request To Node 1
+00:03:382 Node 3 Send Finished To Node 1
+00:03:382 Node 2 Send Request To Node 1
+00:03:382 Accept: Node 2 Data Send Request To Node 1
+00:03:383 Node 3 Send Request To Node 1
+00:03:383 Reject: Node 3 Data Send Request To Node 1
+00:03:387 Node 2 Send Finished To Node 1
+00:03:394 Node 3 Send Request To Node 2
+00:03:394 Accept: Node 3 Data Send Request To Node 2
+00:03:399 Node 3 Send Finished To Node 2
+00:03:401 Node 2 Send Request To Node 1
+00:03:401 Accept: Node 2 Data Send Request To Node 1
+00:03:403 Node 4 Send Request To Node 1
+00:03:403 Reject: Node 4 Data Send Request To Node 1
+00:03:406 Node 2 Send Finished To Node 1
+00:03:416 Node 1 Send Request To Node 2
+00:03:416 Accept: Node 1 Data Send Request To Node 2
+00:03:418 Node 3 Send Request To Node 1
+00:03:418 Reject: Node 3 Data Send Request To Node 1
+00:03:421 Node 1 Send Finished To Node 2
+00:03:422 Node 3 Send Request To Node 2
+00:03:422 Accept: Node 3 Data Send Request To Node 2
+00:03:427 Node 3 Send Finished To Node 2
+00:03:427 Node 1 Send Request To Node 2
+00:03:427 Accept: Node 1 Data Send Request To Node 2
+00:03:432 Node 1 Send Finished To Node 2
+00:03:439 Node 3 Send Request To Node 1
+00:03:439 Accept: Node 3 Data Send Request To Node 1
+00:03:444 Node 3 Send Finished To Node 1
+00:03:444 Node 1 Send Request To Node 3
+00:03:444 Accept: Node 1 Data Send Request To Node 3
+00:03:449 Node 1 Send Finished To Node 3
+00:03:449 Node 2 Send Request To Node 3
+00:03:449 Accept: Node 2 Data Send Request To Node 3
+00:03:454 Node 2 Send Finished To Node 3
+00:03:453 Node 4 Send Request To Node 3
+00:03:453 Accept: Node 4 Data Send Request To Node 3
+00:03:454 Node 1 Send Request To Node 2
+00:03:454 Reject: Node 1 Data Send Request To Node 2
+00:03:458 Node 4 Send Finished To Node 3
+00:03:476 Node 3 Send Request To Node 2
+00:03:476 Accept: Node 3 Data Send Request To Node 2
+00:03:481 Node 3 Send Finished To Node 2
+00:03:489 Node 1 Send Request To Node 3
+00:03:489 Accept: Node 1 Data Send Request To Node 3
+00:03:494 Node 1 Send Finished To Node 3
+00:03:495 Node 1 Send Request To Node 3
+00:03:495 Accept: Node 1 Data Send Request To Node 3
+00:03:500 Node 1 Send Finished To Node 3
+00:03:499 Node 4 Send Request To Node 1
+00:03:499 Accept: Node 4 Data Send Request To Node 1
+00:03:499 Node 2 Send Request To Node 1
+00:03:499 Reject: Node 2 Data Send Request To Node 1
+00:03:504 Node 4 Send Finished To Node 1
+00:03:505 Node 3 Send Request To Node 1
+00:03:505 Accept: Node 3 Data Send Request To Node 1
+00:03:510 Node 3 Send Finished To Node 1
+00:03:510 Node 1 Send Request To Node 3
+00:03:510 Accept: Node 1 Data Send Request To Node 3
+00:03:515 Node 1 Send Finished To Node 3
+00:03:533 Node 3 Send Request To Node 1
+00:03:533 Accept: Node 3 Data Send Request To Node 1
+00:03:538 Node 3 Send Finished To Node 1
+00:03:539 Node 1 Send Request To Node 2
+00:03:539 Accept: Node 1 Data Send Request To Node 2
+00:03:542 Node 4 Send Request To Node 2
+00:03:542 Reject: Node 4 Data Send Request To Node 2
+00:03:544 Node 1 Send Finished To Node 2
+00:03:545 Node 1 Send Request To Node 2
+00:03:545 Accept: Node 1 Data Send Request To Node 2
+00:03:547 Node 3 Send Request To Node 2
+00:03:547 Node 2 Send Request To Node 1
+00:03:547 Reject: Node 3 Data Send Request To Node 2
+00:03:547 Reject: Node 2 Data Send Request To Node 1
+00:03:550 Node 1 Send Finished To Node 2
+00:03:551 Node 1 Send Request To Node 3
+00:03:551 Accept: Node 1 Data Send Request To Node 3
+00:03:556 Node 1 Send Finished To Node 3
+00:03:557 Node 4 Send Request To Node 3
+00:03:557 Accept: Node 4 Data Send Request To Node 3
+00:03:562 Node 4 Send Finished To Node 3
+00:03:568 Node 4 Send Request To Node 3
+00:03:568 Accept: Node 4 Data Send Request To Node 3
+00:03:573 Node 4 Send Finished To Node 3
+00:03:590 Node 3 Send Request To Node 1
+00:03:590 Accept: Node 3 Data Send Request To Node 1
+00:03:591 Node 1 Send Request To Node 3
+00:03:591 Reject: Node 1 Data Send Request To Node 3
+00:03:592 Node 2 Send Request To Node 1
+00:03:592 Reject: Node 2 Data Send Request To Node 1
+00:03:595 Node 3 Send Finished To Node 1
+00:03:607 Node 4 Send Request To Node 3
+00:03:607 Accept: Node 4 Data Send Request To Node 3
+00:03:612 Node 4 Send Finished To Node 3
+00:03:631 Node 2 Send Request To Node 3
+00:03:631 Accept: Node 2 Data Send Request To Node 3
+00:03:633 Node 3 Send Request To Node 1
+00:03:633 Reject: Node 3 Data Send Request To Node 1
+00:03:636 Node 2 Send Finished To Node 3
+00:03:649 Node 2 Send Request To Node 1
+00:03:649 Accept: Node 2 Data Send Request To Node 1
+00:03:654 Node 2 Send Finished To Node 1
+00:03:655 Node 1 Send Request To Node 3
+00:03:655 Accept: Node 1 Data Send Request To Node 3
+00:03:658 Node 3 Send Request To Node 2
+00:03:660 Node 1 Send Finished To Node 3
+00:03:658 Reject: Node 3 Data Send Request To Node 2
+00:03:659 Node 4 Send Request To Node 2
+00:03:659 Accept: Node 4 Data Send Request To Node 2
+00:03:664 Node 4 Send Finished To Node 2
+00:03:676 Node 4 Send Request To Node 3
+00:03:676 Accept: Node 4 Data Send Request To Node 3
+00:03:681 Node 4 Send Finished To Node 3
+00:03:706 Node 2 Send Request To Node 1
+00:03:706 Node 1 Send Request To Node 2
+00:03:706 Accept: Node 2 Data Send Request To Node 1
+00:03:706 Reject: Node 1 Data Send Request To Node 2
+00:03:711 Node 2 Send Finished To Node 1
+00:03:712 Node 4 Send Request To Node 1
+00:03:712 Node 3 Send Request To Node 1
+00:03:712 Accept: Node 3 Data Send Request To Node 1
+00:03:712 Reject: Node 4 Data Send Request To Node 1
+00:03:717 Node 3 Send Finished To Node 1
+00:03:734 Node 3 Send Request To Node 2
+00:03:734 Accept: Node 3 Data Send Request To Node 2
+00:03:738 Node 1 Send Request To Node 2
+00:03:738 Reject: Node 1 Data Send Request To Node 2
+00:03:739 Node 3 Send Finished To Node 2
+00:03:761 Node 2 Send Request To Node 3
+00:03:761 Node 4 Send Request To Node 3
+00:03:762 Node 3 Send Request To Node 1
+00:03:761 Reject: Node 4 Data Send Request To Node 3
+00:03:762 Reject: Node 3 Data Send Request To Node 1
+00:03:761 Accept: Node 2 Data Send Request To Node 3
+00:03:766 Node 2 Send Finished To Node 3
+00:03:767 Node 2 Send Request To Node 3
+00:03:767 Accept: Node 2 Data Send Request To Node 3
+00:03:772 Node 2 Send Finished To Node 3
+00:03:780 Node 4 Send Request To Node 3
+00:03:780 Accept: Node 4 Data Send Request To Node 3
+00:03:782 Node 1 Send Request To Node 2
+00:03:782 Reject: Node 1 Data Send Request To Node 2
+00:03:783 Node 1 Send Request To Node 3
+00:03:783 Reject: Node 1 Data Send Request To Node 3
+00:03:785 Node 4 Send Finished To Node 3
+00:03:786 Node 4 Send Request To Node 1
+00:03:786 Accept: Node 4 Data Send Request To Node 1
+00:03:786 Node 1 Send Request To Node 3
+00:03:786 Reject: Node 1 Data Send Request To Node 3
+00:03:791 Node 4 Send Finished To Node 1
+00:03:802 Node 3 Send Request To Node 2
+00:03:802 Accept: Node 3 Data Send Request To Node 2
+00:03:802 Node 1 Send Request To Node 2
+00:03:802 Reject: Node 1 Data Send Request To Node 2
+00:03:805 Node 2 Send Request To Node 1
+00:03:805 Reject: Node 2 Data Send Request To Node 1
+00:03:807 Node 3 Send Finished To Node 2
+00:03:809 Node 1 Send Request To Node 3
+00:03:809 Accept: Node 1 Data Send Request To Node 3
+00:03:814 Node 1 Send Finished To Node 3
+00:03:813 Node 1 Send Request To Node 2
+00:03:813 Accept: Node 1 Data Send Request To Node 2
+00:03:818 Node 1 Send Finished To Node 2
+00:03:818 Node 4 Send Request To Node 3
+00:03:818 Accept: Node 4 Data Send Request To Node 3
+00:03:819 Node 1 Send Request To Node 2
+00:03:819 Reject: Node 1 Data Send Request To Node 2
+00:03:823 Node 4 Send Finished To Node 3
+00:03:834 Node 2 Send Request To Node 3
+00:03:834 Accept: Node 2 Data Send Request To Node 3
+00:03:839 Node 2 Send Finished To Node 3
+00:03:839 Node 3 Send Request To Node 2
+00:03:839 Accept: Node 3 Data Send Request To Node 2
+00:03:844 Node 3 Send Finished To Node 2
+00:03:851 Node 4 Send Request To Node 1
+00:03:851 Accept: Node 4 Data Send Request To Node 1
+00:03:856 Node 4 Send Finished To Node 1
+00:03:861 Node 1 Send Request To Node 3
+00:03:861 Accept: Node 1 Data Send Request To Node 3
+00:03:862 Node 2 Send Request To Node 3
+00:03:862 Reject: Node 2 Data Send Request To Node 3
+00:03:866 Node 1 Send Finished To Node 3
+00:03:882 Node 4 Send Request To Node 1
+00:03:882 Accept: Node 4 Data Send Request To Node 1
+00:03:885 Node 2 Send Request To Node 1
+00:03:885 Reject: Node 2 Data Send Request To Node 1
+00:03:886 Node 3 Send Request To Node 1
+00:03:886 Reject: Node 3 Data Send Request To Node 1
+00:03:887 Node 4 Send Finished To Node 1
+00:03:898 Node 4 Send Request To Node 2
+00:03:898 Accept: Node 4 Data Send Request To Node 2
+00:03:903 Node 4 Send Finished To Node 2
+00:03:903 Node 2 Send Request To Node 3
+00:03:903 Accept: Node 2 Data Send Request To Node 3
+00:03:908 Node 2 Send Finished To Node 3
+00:03:909 Node 3 Send Request To Node 1
+00:03:909 Accept: Node 3 Data Send Request To Node 1
+00:03:911 Node 4 Send Request To Node 2
+00:03:911 Reject: Node 4 Data Send Request To Node 2
+00:03:912 Node 1 Send Request To Node 2
+00:03:912 Reject: Node 1 Data Send Request To Node 2
+00:03:914 Node 3 Send Finished To Node 1
+00:03:921 Node 1 Send Request To Node 3
+00:03:921 Accept: Node 1 Data Send Request To Node 3
+00:03:923 Node 3 Send Request To Node 2
+00:03:923 Reject: Node 3 Data Send Request To Node 2
+00:03:926 Node 1 Send Finished To Node 3
+00:03:926 Node 2 Send Request To Node 3
+00:03:926 Accept: Node 2 Data Send Request To Node 3
+00:03:928 Node 1 Send Request To Node 2
+00:03:928 Reject: Node 1 Data Send Request To Node 2
+00:03:931 Node 2 Send Finished To Node 3
+00:03:935 Node 3 Send Request To Node 2
+00:03:935 Accept: Node 3 Data Send Request To Node 2
+00:03:940 Node 3 Send Finished To Node 2
+00:03:941 Node 1 Send Request To Node 2
+00:03:941 Accept: Node 1 Data Send Request To Node 2
+00:03:943 Node 2 Send Request To Node 3
+00:03:943 Reject: Node 2 Data Send Request To Node 3
+00:03:944 Node 3 Send Request To Node 2
+00:03:944 Reject: Node 3 Data Send Request To Node 2
+00:03:946 Node 1 Send Finished To Node 2
+00:03:949 Node 4 Send Request To Node 1
+00:03:949 Accept: Node 4 Data Send Request To Node 1
+00:03:949 Node 1 Send Request To Node 3
+00:03:949 Reject: Node 1 Data Send Request To Node 3
+00:03:954 Node 4 Send Finished To Node 1
+00:03:989 Node 2 Send Request To Node 1
+00:03:989 Accept: Node 2 Data Send Request To Node 1
+00:03:992 Node 1 Send Request To Node 2
+00:03:992 Reject: Node 1 Data Send Request To Node 2
+00:03:994 Node 2 Send Finished To Node 1
+00:03:996 Node 4 Send Request To Node 1
+00:03:996 Accept: Node 4 Data Send Request To Node 1
+00:04:001 Node 4 Send Finished To Node 1
+00:04:005 Node 3 Send Request To Node 2
+00:04:005 Accept: Node 3 Data Send Request To Node 2
+00:04:009 Node 2 Send Request To Node 1
+00:04:009 Reject: Node 2 Data Send Request To Node 1
+00:04:010 Node 3 Send Finished To Node 2
+00:04:031 Node 1 Send Request To Node 3
+00:04:031 Accept: Node 1 Data Send Request To Node 3
+00:04:032 Node 3 Send Request To Node 1
+00:04:032 Reject: Node 3 Data Send Request To Node 1
+00:04:036 Node 1 Send Finished To Node 3
+00:04:043 Node 2 Send Request To Node 3
+00:04:043 Accept: Node 2 Data Send Request To Node 3
+00:04:048 Node 2 Send Finished To Node 3
+00:04:049 Node 4 Send Request To Node 3
+00:04:049 Accept: Node 4 Data Send Request To Node 3
+00:04:054 Node 4 Send Finished To Node 3
+00:04:058 Node 3 Send Request To Node 1
+00:04:058 Accept: Node 3 Data Send Request To Node 1
+00:04:060 Node 2 Send Request To Node 1
+00:04:060 Reject: Node 2 Data Send Request To Node 1
+00:04:063 Node 3 Send Finished To Node 1
+00:04:071 Node 1 Send Request To Node 3
+00:04:071 Accept: Node 1 Data Send Request To Node 3
+00:04:076 Node 1 Send Finished To Node 3
+00:04:080 Node 4 Send Request To Node 3
+00:04:080 Accept: Node 4 Data Send Request To Node 3
+00:04:081 Node 2 Send Request To Node 3
+00:04:081 Reject: Node 2 Data Send Request To Node 3
+00:04:085 Node 4 Send Finished To Node 3
+00:04:088 Node 1 Send Request To Node 3
+00:04:088 Accept: Node 1 Data Send Request To Node 3
+00:04:090 Node 3 Send Request To Node 1
+00:04:090 Reject: Node 3 Data Send Request To Node 1
+00:04:093 Node 1 Send Finished To Node 3
+00:04:104 Node 2 Send Request To Node 1
+00:04:104 Accept: Node 2 Data Send Request To Node 1
+00:04:109 Node 2 Send Finished To Node 1
+00:04:109 Node 1 Send Request To Node 3
+00:04:109 Accept: Node 1 Data Send Request To Node 3
+00:04:114 Node 1 Send Finished To Node 3
+00:04:119 Node 4 Send Request To Node 2
+00:04:119 Accept: Node 4 Data Send Request To Node 2
+00:04:124 Node 4 Send Finished To Node 2
+00:04:127 Node 4 Send Request To Node 3
+00:04:127 Accept: Node 4 Data Send Request To Node 3
+00:04:132 Node 4 Send Finished To Node 3
+00:04:134 Node 4 Send Request To Node 1
+00:04:134 Accept: Node 4 Data Send Request To Node 1
+00:04:139 Node 4 Send Finished To Node 1
+00:04:139 Node 3 Send Request To Node 1
+00:04:139 Accept: Node 3 Data Send Request To Node 1
+00:04:144 Node 3 Send Finished To Node 1
+00:04:146 Node 1 Send Request To Node 3
+00:04:146 Accept: Node 1 Data Send Request To Node 3
+00:04:148 Node 2 Send Request To Node 3
+00:04:148 Reject: Node 2 Data Send Request To Node 3
+00:04:151 Node 1 Send Finished To Node 3
+00:04:162 Node 2 Send Request To Node 3
+00:04:162 Accept: Node 2 Data Send Request To Node 3
+00:04:167 Node 2 Send Finished To Node 3
+00:04:168 Node 4 Send Request To Node 2
+00:04:168 Accept: Node 4 Data Send Request To Node 2
+00:04:173 Node 4 Send Finished To Node 2
+00:04:174 Node 3 Send Request To Node 1
+00:04:174 Accept: Node 3 Data Send Request To Node 1
+00:04:179 Node 3 Send Finished To Node 1
+00:04:181 Node 4 Send Request To Node 2
+00:04:181 Accept: Node 4 Data Send Request To Node 2
+00:04:186 Node 4 Send Finished To Node 2
+00:04:190 Node 1 Send Request To Node 2
+00:04:190 Accept: Node 1 Data Send Request To Node 2
+00:04:195 Node 1 Send Finished To Node 2
+00:04:198 Node 1 Send Request To Node 2
+00:04:198 Accept: Node 1 Data Send Request To Node 2
+00:04:203 Node 1 Send Finished To Node 2
+00:04:208 Node 3 Send Request To Node 1
+00:04:208 Accept: Node 3 Data Send Request To Node 1
+00:04:211 Node 2 Send Request To Node 3
+00:04:211 Reject: Node 2 Data Send Request To Node 3
+00:04:213 Node 3 Send Finished To Node 1
+00:04:221 Node 4 Send Request To Node 3
+00:04:221 Accept: Node 4 Data Send Request To Node 3
+00:04:226 Node 4 Send Finished To Node 3
+00:04:226 Node 4 Send Request To Node 3
+00:04:226 Accept: Node 4 Data Send Request To Node 3
+00:04:231 Node 4 Send Finished To Node 3
+00:04:241 Node 1 Send Request To Node 2
+00:04:241 Accept: Node 1 Data Send Request To Node 2
+00:04:246 Node 1 Send Finished To Node 2
+00:04:248 Node 2 Send Request To Node 1
+00:04:248 Accept: Node 2 Data Send Request To Node 1
+00:04:253 Node 2 Send Finished To Node 1
+00:04:252 Node 3 Send Request To Node 2
+00:04:252 Accept: Node 3 Data Send Request To Node 2
+00:04:257 Node 3 Send Finished To Node 2
+00:04:264 Node 4 Send Request To Node 2
+00:04:264 Accept: Node 4 Data Send Request To Node 2
+00:04:269 Node 4 Send Finished To Node 2
+00:04:269 Node 3 Send Request To Node 2
+00:04:269 Accept: Node 3 Data Send Request To Node 2
+00:04:274 Node 3 Send Finished To Node 2
+00:04:276 Node 2 Send Request To Node 3
+00:04:276 Accept: Node 2 Data Send Request To Node 3
+00:04:281 Node 2 Send Finished To Node 3
+00:04:288 Node 2 Send Request To Node 3
+00:04:288 Accept: Node 2 Data Send Request To Node 3
+00:04:291 Node 1 Send Request To Node 3
+00:04:291 Reject: Node 1 Data Send Request To Node 3
+00:04:293 Node 2 Send Finished To Node 3
+00:04:296 Node 2 Send Request To Node 3
+00:04:296 Accept: Node 2 Data Send Request To Node 3
+00:04:301 Node 2 Send Finished To Node 3
+00:04:305 Node 4 Send Request To Node 1
+00:04:305 Accept: Node 4 Data Send Request To Node 1
+00:04:310 Node 4 Send Finished To Node 1
+00:04:317 Node 3 Send Request To Node 1
+00:04:317 Accept: Node 3 Data Send Request To Node 1
+00:04:318 Node 2 Send Request To Node 1
+00:04:318 Reject: Node 2 Data Send Request To Node 1
+00:04:322 Node 3 Send Finished To Node 1
+00:04:332 Node 4 Send Request To Node 2
+00:04:332 Accept: Node 4 Data Send Request To Node 2
+00:04:332 Node 2 Send Request To Node 3
+00:04:332 Reject: Node 2 Data Send Request To Node 3
+00:04:332 Node 1 Send Request To Node 3
+00:04:332 Reject: Node 1 Data Send Request To Node 3
+00:04:337 Node 4 Send Finished To Node 2
+00:04:365 Node 3 Send Request To Node 2
+00:04:365 Accept: Node 3 Data Send Request To Node 2
+00:04:369 Node 1 Send Request To Node 2
+00:04:369 Reject: Node 1 Data Send Request To Node 2
+00:04:370 Node 3 Send Finished To Node 2
+00:04:373 Node 4 Send Request To Node 2
+00:04:373 Accept: Node 4 Data Send Request To Node 2
+00:04:378 Node 4 Send Finished To Node 2
+00:04:378 Node 2 Send Request To Node 1
+00:04:378 Accept: Node 2 Data Send Request To Node 1
+00:04:383 Node 2 Send Finished To Node 1
+00:04:390 Node 1 Send Request To Node 3
+00:04:390 Accept: Node 1 Data Send Request To Node 3
+00:04:391 Node 2 Send Request To Node 3
+00:04:391 Reject: Node 2 Data Send Request To Node 3
+00:04:395 Node 1 Send Finished To Node 3
+00:04:414 Node 3 Send Request To Node 2
+00:04:414 Accept: Node 3 Data Send Request To Node 2
+00:04:415 Node 4 Send Request To Node 3
+00:04:415 Reject: Node 4 Data Send Request To Node 3
+00:04:416 Node 2 Send Request To Node 3
+00:04:416 Reject: Node 2 Data Send Request To Node 3
+00:04:416 Node 1 Send Request To Node 3
+00:04:416 Reject: Node 1 Data Send Request To Node 3
+00:04:419 Node 3 Send Finished To Node 2
+00:04:427 Node 2 Send Request To Node 3
+00:04:427 Accept: Node 2 Data Send Request To Node 3
+00:04:432 Node 2 Send Finished To Node 3
+00:04:432 Node 2 Send Request To Node 3
+00:04:432 Accept: Node 2 Data Send Request To Node 3
+00:04:437 Node 2 Send Finished To Node 3
+00:04:443 Node 4 Send Request To Node 2
+00:04:443 Accept: Node 4 Data Send Request To Node 2
+00:04:448 Node 4 Send Finished To Node 2
+00:04:449 Node 3 Send Request To Node 1
+00:04:449 Accept: Node 3 Data Send Request To Node 1
+00:04:452 Node 1 Send Request To Node 2
+00:04:452 Reject: Node 1 Data Send Request To Node 2
+00:04:454 Node 3 Send Finished To Node 1
+00:04:478 Node 2 Send Request To Node 1
+00:04:478 Accept: Node 2 Data Send Request To Node 1
+00:04:483 Node 2 Send Finished To Node 1
+00:04:487 Node 4 Send Request To Node 1
+00:04:487 Accept: Node 4 Data Send Request To Node 1
+00:04:488 Node 1 Send Request To Node 3
+00:04:488 Reject: Node 1 Data Send Request To Node 3
+00:04:489 Node 3 Send Request To Node 2
+00:04:489 Reject: Node 3 Data Send Request To Node 2
+00:04:492 Node 4 Send Finished To Node 1
+00:04:495 Node 4 Send Request To Node 3
+00:04:495 Accept: Node 4 Data Send Request To Node 3
+00:04:500 Node 4 Send Finished To Node 3
+00:04:500 Node 2 Send Request To Node 1
+00:04:500 Accept: Node 2 Data Send Request To Node 1
+00:04:505 Node 2 Send Finished To Node 1
+00:04:510 Node 2 Send Request To Node 3
+00:04:510 Accept: Node 2 Data Send Request To Node 3
+00:04:513 Node 1 Send Request To Node 3
+00:04:513 Reject: Node 1 Data Send Request To Node 3
+00:04:515 Node 2 Send Finished To Node 3
+00:04:517 Node 3 Send Request To Node 1
+00:04:517 Accept: Node 3 Data Send Request To Node 1
+00:04:522 Node 3 Send Finished To Node 1
+00:04:525 Node 1 Send Request To Node 2
+00:04:525 Accept: Node 1 Data Send Request To Node 2
+00:04:530 Node 1 Send Finished To Node 2
+00:04:533 Node 4 Send Request To Node 2
+00:04:533 Accept: Node 4 Data Send Request To Node 2
+00:04:538 Node 4 Send Finished To Node 2
+00:04:541 Node 2 Send Request To Node 1
+00:04:541 Accept: Node 2 Data Send Request To Node 1
+00:04:544 Node 1 Send Request To Node 2
+00:04:544 Reject: Node 1 Data Send Request To Node 2
+00:04:546 Node 2 Send Finished To Node 1
+00:04:562 Node 2 Send Request To Node 3
+00:04:562 Accept: Node 2 Data Send Request To Node 3
+00:04:564 Node 3 Send Request To Node 1
+00:04:564 Reject: Node 3 Data Send Request To Node 1
+00:04:567 Node 2 Send Finished To Node 3
+00:04:578 Node 4 Send Request To Node 3
+00:04:578 Accept: Node 4 Data Send Request To Node 3
+00:04:583 Node 4 Send Finished To Node 3
+00:04:584 Node 1 Send Request To Node 3
+00:04:584 Accept: Node 1 Data Send Request To Node 3
+00:04:589 Node 1 Send Finished To Node 3
+00:04:599 Node 2 Send Request To Node 1
+00:04:599 Accept: Node 2 Data Send Request To Node 1
+00:04:602 Node 1 Send Request To Node 2
+00:04:602 Reject: Node 1 Data Send Request To Node 2
+00:04:604 Node 2 Send Finished To Node 1
+00:04:628 Node 3 Send Request To Node 1
+00:04:628 Accept: Node 3 Data Send Request To Node 1
+00:04:633 Node 3 Send Finished To Node 1
+00:04:632 Node 4 Send Request To Node 3
+00:04:632 Accept: Node 4 Data Send Request To Node 3
+00:04:637 Node 4 Send Finished To Node 3
+00:04:652 Node 2 Send Request To Node 1
+00:04:652 Accept: Node 2 Data Send Request To Node 1
+00:04:653 Node 4 Send Request To Node 3
+00:04:653 Reject: Node 4 Data Send Request To Node 3
+00:04:655 Node 1 Send Request To Node 3
+00:04:655 Reject: Node 1 Data Send Request To Node 3
+00:04:657 Node 2 Send Finished To Node 1
+00:04:660 Node 3 Send Request To Node 2
+00:04:660 Accept: Node 3 Data Send Request To Node 2
+00:04:662 Node 4 Send Request To Node 3
+00:04:662 Reject: Node 4 Data Send Request To Node 3
+00:04:665 Node 3 Send Finished To Node 2
+00:04:667 Node 1 Send Request To Node 2
+00:04:667 Accept: Node 1 Data Send Request To Node 2
+00:04:671 Node 4 Send Request To Node 3
+00:04:671 Reject: Node 4 Data Send Request To Node 3
+00:04:672 Node 1 Send Finished To Node 2
+00:04:681 Node 4 Send Request To Node 1
+00:04:681 Accept: Node 4 Data Send Request To Node 1
+00:04:686 Node 4 Send Finished To Node 1
+00:04:687 Node 4 Send Request To Node 1
+00:04:687 Accept: Node 4 Data Send Request To Node 1
+00:04:689 Node 2 Send Request To Node 1
+00:04:689 Reject: Node 2 Data Send Request To Node 1
+00:04:690 Node 3 Send Request To Node 1
+00:04:690 Reject: Node 3 Data Send Request To Node 1
+00:04:692 Node 4 Send Finished To Node 1
+00:04:706 Node 2 Send Request To Node 3
+00:04:706 Accept: Node 2 Data Send Request To Node 3
+00:04:708 Node 1 Send Request To Node 2
+00:04:708 Reject: Node 1 Data Send Request To Node 2
+00:04:711 Node 2 Send Finished To Node 3
+00:04:716 Node 2 Send Request To Node 3
+00:04:716 Accept: Node 2 Data Send Request To Node 3
+00:04:721 Node 2 Send Finished To Node 3
+00:04:720 Node 4 Send Request To Node 2
+00:04:720 Accept: Node 4 Data Send Request To Node 2
+00:04:725 Node 4 Send Finished To Node 2
+00:04:729 Node 2 Send Request To Node 1
+00:04:729 Accept: Node 2 Data Send Request To Node 1
+00:04:734 Node 2 Send Finished To Node 1
+00:04:735 Node 1 Send Request To Node 3
+00:04:735 Accept: Node 1 Data Send Request To Node 3
+00:04:740 Node 1 Send Finished To Node 3
+00:04:740 Node 3 Send Request To Node 1
+00:04:740 Accept: Node 3 Data Send Request To Node 1
+00:04:745 Node 3 Send Finished To Node 1
+00:04:746 Node 1 Send Request To Node 2
+00:04:746 Accept: Node 1 Data Send Request To Node 2
+00:04:751 Node 1 Send Finished To Node 2
+00:04:752 Node 3 Send Request To Node 1
+00:04:752 Accept: Node 3 Data Send Request To Node 1
+00:04:757 Node 3 Send Finished To Node 1
+00:04:759 Node 2 Send Request To Node 3
+00:04:759 Accept: Node 2 Data Send Request To Node 3
+00:04:764 Node 2 Send Finished To Node 3
+00:04:765 Node 3 Send Request To Node 1
+00:04:765 Accept: Node 3 Data Send Request To Node 1
+00:04:767 Node 4 Send Request To Node 3
+00:04:767 Reject: Node 4 Data Send Request To Node 3
+00:04:770 Node 3 Send Finished To Node 1
+00:04:770 Node 3 Send Request To Node 2
+00:04:770 Accept: Node 3 Data Send Request To Node 2
+00:04:775 Node 3 Send Finished To Node 2
+00:04:781 Node 3 Send Request To Node 2
+00:04:781 Accept: Node 3 Data Send Request To Node 2
+00:04:786 Node 3 Send Finished To Node 2
+00:04:788 Node 1 Send Request To Node 3
+00:04:788 Accept: Node 1 Data Send Request To Node 3
+00:04:793 Node 1 Send Finished To Node 3
+00:04:824 Node 2 Send Request To Node 3
+00:04:824 Accept: Node 2 Data Send Request To Node 3
+00:04:825 Node 3 Send Request To Node 2
+00:04:825 Reject: Node 3 Data Send Request To Node 2
+00:04:827 Node 4 Send Request To Node 3
+00:04:827 Reject: Node 4 Data Send Request To Node 3
+00:04:829 Node 2 Send Finished To Node 3
+00:04:843 Node 4 Send Request To Node 3
+00:04:843 Accept: Node 4 Data Send Request To Node 3
+00:04:848 Node 2 Send Request To Node 1
+00:04:848 Reject: Node 2 Data Send Request To Node 1
+00:04:848 Node 4 Send Finished To Node 3
+00:04:850 Node 3 Send Request To Node 1
+00:04:850 Accept: Node 3 Data Send Request To Node 1
+00:04:850 Node 1 Send Request To Node 3
+00:04:850 Reject: Node 1 Data Send Request To Node 3
+00:04:855 Node 3 Send Finished To Node 1
+00:04:868 Node 1 Send Request To Node 3
+00:04:868 Accept: Node 1 Data Send Request To Node 3
+00:04:869 Node 3 Send Request To Node 2
+00:04:869 Reject: Node 3 Data Send Request To Node 2
+00:04:871 Node 2 Send Request To Node 3
+00:04:871 Reject: Node 2 Data Send Request To Node 3
+00:04:873 Node 1 Send Finished To Node 3
+00:04:902 Node 4 Send Request To Node 3
+00:04:902 Accept: Node 4 Data Send Request To Node 3
+00:04:904 Node 1 Send Request To Node 3
+00:04:904 Reject: Node 1 Data Send Request To Node 3
+00:04:907 Node 4 Send Finished To Node 3
+00:04:909 Node 3 Send Request To Node 1
+00:04:909 Accept: Node 3 Data Send Request To Node 1
+00:04:910 Node 4 Send Request To Node 3
+00:04:910 Reject: Node 4 Data Send Request To Node 3
+00:04:914 Node 3 Send Finished To Node 1
+00:04:922 Node 2 Send Request To Node 1
+00:04:922 Accept: Node 2 Data Send Request To Node 1
+00:04:927 Node 2 Send Finished To Node 1
+00:04:942 Node 3 Send Request To Node 1
+00:04:942 Accept: Node 3 Data Send Request To Node 1
+00:04:942 Node 2 Send Request To Node 1
+00:04:942 Reject: Node 2 Data Send Request To Node 1
+00:04:947 Node 3 Send Finished To Node 1
+00:04:948 Node 4 Send Request To Node 2
+00:04:948 Accept: Node 4 Data Send Request To Node 2
+00:04:951 Node 1 Send Request To Node 3
+00:04:951 Reject: Node 1 Data Send Request To Node 3
+00:04:953 Node 4 Send Finished To Node 2
+00:04:974 Node 3 Send Request To Node 1
+00:04:974 Accept: Node 3 Data Send Request To Node 1
+00:04:979 Node 3 Send Finished To Node 1
+00:04:982 Node 2 Send Request To Node 3
+00:04:982 Accept: Node 2 Data Send Request To Node 3
+00:04:983 Node 3 Send Request To Node 2
+00:04:983 Reject: Node 3 Data Send Request To Node 2
+00:04:987 Node 2 Send Finished To Node 3
+00:04:988 Node 4 Send Request To Node 3
+00:04:988 Accept: Node 4 Data Send Request To Node 3
+00:04:993 Node 4 Send Finished To Node 3
+00:04:996 Node 1 Send Request To Node 2
+00:04:996 Accept: Node 1 Data Send Request To Node 2
+00:05:001 Node 1 Send Finished To Node 2
+00:05:008 Node 1 Send Request To Node 3
+00:05:008 Node 3 Send Request To Node 2
+00:05:008 Accept: Node 1 Data Send Request To Node 3
+00:05:008 Reject: Node 3 Data Send Request To Node 2
+00:05:013 Node 1 Send Finished To Node 3
+00:05:019 Node 2 Send Request To Node 1
+00:05:019 Accept: Node 2 Data Send Request To Node 1
+00:05:024 Node 2 Send Finished To Node 1
+00:05:029 Node 4 Send Request To Node 2
+00:05:029 Accept: Node 4 Data Send Request To Node 2
+00:05:034 Node 4 Send Finished To Node 2
+00:05:040 Node 3 Send Request To Node 2
+00:05:040 Accept: Node 3 Data Send Request To Node 2
+00:05:044 Node 2 Send Request To Node 3
+00:05:044 Reject: Node 2 Data Send Request To Node 3
+00:05:045 Node 3 Send Finished To Node 2
+00:05:048 Node 1 Send Request To Node 3
+00:05:048 Accept: Node 1 Data Send Request To Node 3
+00:05:053 Node 1 Send Finished To Node 3
+00:05:064 Node 1 Send Request To Node 3
+00:05:064 Accept: Node 1 Data Send Request To Node 3
+00:05:069 Node 1 Send Finished To Node 3
+00:05:069 Node 4 Send Request To Node 2
+00:05:069 Accept: Node 4 Data Send Request To Node 2
+00:05:071 Node 2 Send Request To Node 3
+00:05:071 Reject: Node 2 Data Send Request To Node 3
+00:05:072 Node 1 Send Request To Node 2
+00:05:072 Reject: Node 1 Data Send Request To Node 2
+00:05:074 Node 4 Send Finished To Node 2
+00:05:079 Node 4 Send Request To Node 1
+00:05:079 Accept: Node 4 Data Send Request To Node 1
+00:05:082 Node 1 Send Request To Node 2
+00:05:082 Reject: Node 1 Data Send Request To Node 2
+00:05:084 Node 4 Send Finished To Node 1
+00:05:086 Node 3 Send Request To Node 2
+00:05:086 Accept: Node 3 Data Send Request To Node 2
+00:05:091 Node 3 Send Finished To Node 2
+00:05:091 Node 1 Send Request To Node 2
+00:05:091 Accept: Node 1 Data Send Request To Node 2
+00:05:096 Node 1 Send Finished To Node 2
+00:05:101 Node 4 Send Request To Node 3
+00:05:101 Accept: Node 4 Data Send Request To Node 3
+00:05:104 Node 3 Send Request To Node 2
+00:05:104 Reject: Node 3 Data Send Request To Node 2
+00:05:104 Node 3 Send Request To Node 1
+00:05:104 Reject: Node 3 Data Send Request To Node 1
+00:05:106 Node 4 Send Finished To Node 3
+00:05:116 Node 2 Send Request To Node 1
+00:05:116 Accept: Node 2 Data Send Request To Node 1
+00:05:121 Node 2 Send Finished To Node 1
+00:05:122 Node 1 Send Request To Node 2
+00:05:122 Accept: Node 1 Data Send Request To Node 2
+00:05:127 Node 1 Send Finished To Node 2
+00:05:143 Node 4 Send Request To Node 3
+00:05:143 Accept: Node 4 Data Send Request To Node 3
+00:05:148 Node 4 Send Finished To Node 3
+00:05:147 Node 3 Send Request To Node 2
+00:05:147 Accept: Node 3 Data Send Request To Node 2
+00:05:148 Node 2 Send Request To Node 3
+00:05:148 Reject: Node 2 Data Send Request To Node 3
+00:05:152 Node 3 Send Finished To Node 2
+00:05:169 Node 1 Send Request To Node 2
+00:05:169 Accept: Node 1 Data Send Request To Node 2
+00:05:174 Node 1 Send Finished To Node 2
+00:05:181 Node 4 Send Request To Node 2
+00:05:181 Accept: Node 4 Data Send Request To Node 2
+00:05:186 Node 4 Send Finished To Node 2
+00:05:188 Node 3 Send Request To Node 1
+00:05:188 Accept: Node 3 Data Send Request To Node 1
+00:05:191 Node 4 Send Request To Node 2
+00:05:191 Reject: Node 4 Data Send Request To Node 2
+00:05:193 Node 3 Send Finished To Node 1
+00:05:193 Node 2 Send Request To Node 3
+00:05:193 Accept: Node 2 Data Send Request To Node 3
+00:05:195 Node 3 Send Request To Node 1
+00:05:195 Reject: Node 3 Data Send Request To Node 1
+00:05:198 Node 2 Send Finished To Node 3
+00:05:218 Node 3 Send Request To Node 2
+00:05:218 Accept: Node 3 Data Send Request To Node 2
+00:05:219 Node 1 Send Request To Node 2
+00:05:219 Reject: Node 1 Data Send Request To Node 2
+00:05:223 Node 3 Send Finished To Node 2
+00:05:228 Node 2 Send Request To Node 1
+00:05:228 Accept: Node 2 Data Send Request To Node 1
+00:05:233 Node 2 Send Finished To Node 1
+00:05:232 Node 3 Send Request To Node 1
+00:05:232 Accept: Node 3 Data Send Request To Node 1
+00:05:232 Node 2 Send Request To Node 3
+00:05:232 Reject: Node 2 Data Send Request To Node 3
+00:05:236 Node 4 Send Request To Node 2
+00:05:236 Reject: Node 4 Data Send Request To Node 2
+00:05:237 Node 3 Send Finished To Node 1
+00:05:243 Node 1 Send Request To Node 2
+00:05:243 Accept: Node 1 Data Send Request To Node 2
+00:05:248 Node 1 Send Finished To Node 2
+00:05:255 Node 2 Send Request To Node 1
+00:05:255 Accept: Node 2 Data Send Request To Node 1
+00:05:260 Node 2 Send Finished To Node 1
+00:05:262 Node 4 Send Request To Node 1
+00:05:262 Accept: Node 4 Data Send Request To Node 1
+00:05:267 Node 4 Send Finished To Node 1
+00:05:269 Node 3 Send Request To Node 1
+00:05:269 Node 4 Send Request To Node 1
+00:05:269 Reject: Node 4 Data Send Request To Node 1
+00:05:269 Accept: Node 3 Data Send Request To Node 1
+00:05:272 Node 2 Send Request To Node 1
+00:05:272 Node 1 Send Request To Node 3
+00:05:272 Reject: Node 2 Data Send Request To Node 1
+00:05:272 Reject: Node 1 Data Send Request To Node 3
+00:05:274 Node 3 Send Finished To Node 1
+00:05:288 Node 4 Send Request To Node 1
+00:05:288 Accept: Node 4 Data Send Request To Node 1
+00:05:293 Node 4 Send Finished To Node 1
+00:05:297 Node 1 Send Request To Node 2
+00:05:297 Accept: Node 1 Data Send Request To Node 2
+00:05:302 Node 1 Send Finished To Node 2
+00:05:309 Node 1 Send Request To Node 2
+00:05:309 Accept: Node 1 Data Send Request To Node 2
+00:05:311 Node 3 Send Request To Node 1
+00:05:311 Reject: Node 3 Data Send Request To Node 1
+00:05:312 Node 2 Send Request To Node 3
+00:05:312 Reject: Node 2 Data Send Request To Node 3
+00:05:314 Node 1 Send Finished To Node 2
+00:05:328 Node 2 Send Request To Node 3
+00:05:328 Accept: Node 2 Data Send Request To Node 3
+00:05:332 Node 4 Send Request To Node 1
+00:05:332 Reject: Node 4 Data Send Request To Node 1
+00:05:333 Node 2 Send Finished To Node 3
+00:05:334 Node 2 Send Request To Node 1
+00:05:334 Accept: Node 2 Data Send Request To Node 1
+00:05:337 Node 1 Send Request To Node 2
+00:05:337 Reject: Node 1 Data Send Request To Node 2
+00:05:339 Node 2 Send Finished To Node 1
+00:05:345 Node 3 Send Request To Node 2
+00:05:345 Accept: Node 3 Data Send Request To Node 2
+00:05:350 Node 3 Send Finished To Node 2
+00:05:351 Node 4 Send Request To Node 2
+00:05:351 Accept: Node 4 Data Send Request To Node 2
+00:05:356 Node 4 Send Finished To Node 2
+00:05:356 Node 1 Send Request To Node 2
+00:05:356 Accept: Node 1 Data Send Request To Node 2
+00:05:361 Node 1 Send Finished To Node 2
+00:05:364 Node 2 Send Request To Node 1
+00:05:364 Accept: Node 2 Data Send Request To Node 1
+00:05:368 Node 1 Send Request To Node 2
+00:05:368 Reject: Node 1 Data Send Request To Node 2
+00:05:369 Node 2 Send Finished To Node 1
+00:05:378 Node 4 Send Request To Node 1
+00:05:378 Accept: Node 4 Data Send Request To Node 1
+00:05:383 Node 4 Send Finished To Node 1
+00:05:382 Node 4 Send Request To Node 3
+00:05:382 Accept: Node 4 Data Send Request To Node 3
+00:05:387 Node 4 Send Finished To Node 3
+00:05:387 Node 3 Send Request To Node 2
+00:05:387 Accept: Node 3 Data Send Request To Node 2
+00:05:392 Node 3 Send Finished To Node 2
+00:05:402 Node 4 Send Request To Node 3
+00:05:402 Accept: Node 4 Data Send Request To Node 3
+00:05:407 Node 4 Send Finished To Node 3
+00:05:409 Node 3 Send Request To Node 1
+00:05:409 Accept: Node 3 Data Send Request To Node 1
+00:05:410 Node 2 Send Request To Node 3
+00:05:410 Reject: Node 2 Data Send Request To Node 3
+00:05:411 Node 1 Send Request To Node 3
+00:05:411 Reject: Node 1 Data Send Request To Node 3
+00:05:414 Node 3 Send Finished To Node 1
+00:05:427 Node 4 Send Request To Node 2
+00:05:427 Accept: Node 4 Data Send Request To Node 2
+00:05:432 Node 4 Send Finished To Node 2
+00:05:432 Node 1 Send Request To Node 2
+00:05:432 Accept: Node 1 Data Send Request To Node 2
+00:05:432 Node 2 Send Request To Node 3
+00:05:432 Reject: Node 2 Data Send Request To Node 3
+00:05:437 Node 1 Send Finished To Node 2
+00:05:437 Node 3 Send Request To Node 1
+00:05:437 Accept: Node 3 Data Send Request To Node 1
+00:05:442 Node 3 Send Finished To Node 1
+00:05:452 Node 1 Send Request To Node 2
+00:05:452 Accept: Node 1 Data Send Request To Node 2
+00:05:457 Node 1 Send Finished To Node 2
+00:05:466 Node 1 Send Request To Node 2
+00:05:466 Accept: Node 1 Data Send Request To Node 2
+00:05:466 Node 4 Send Request To Node 1
+00:05:466 Reject: Node 4 Data Send Request To Node 1
+00:05:469 Node 3 Send Request To Node 1
+00:05:469 Reject: Node 3 Data Send Request To Node 1
+00:05:471 Node 1 Send Finished To Node 2
+00:05:479 Node 2 Send Request To Node 3
+00:05:479 Accept: Node 2 Data Send Request To Node 3
+00:05:481 Node 4 Send Request To Node 3
+00:05:481 Reject: Node 4 Data Send Request To Node 3
+00:05:484 Node 2 Send Finished To Node 3
+00:05:484 Node 2 Send Request To Node 3
+00:05:484 Accept: Node 2 Data Send Request To Node 3
+00:05:484 Node 3 Send Request To Node 2
+00:05:484 Reject: Node 3 Data Send Request To Node 2
+00:05:487 Node 1 Send Request To Node 3
+00:05:487 Reject: Node 1 Data Send Request To Node 3
+00:05:489 Node 2 Send Finished To Node 3
+00:05:505 Node 2 Send Request To Node 1
+00:05:505 Accept: Node 2 Data Send Request To Node 1
+00:05:506 Node 4 Send Request To Node 3
+00:05:506 Reject: Node 4 Data Send Request To Node 3
+00:05:510 Node 2 Send Finished To Node 1
+00:05:510 Node 2 Send Request To Node 1
+00:05:510 Accept: Node 2 Data Send Request To Node 1
+00:05:515 Node 2 Send Finished To Node 1
+00:05:515 Node 1 Send Request To Node 2
+00:05:515 Accept: Node 1 Data Send Request To Node 2
+00:05:518 Node 4 Send Request To Node 1
+00:05:518 Reject: Node 4 Data Send Request To Node 1
+00:05:520 Node 1 Send Finished To Node 2
+00:05:523 Node 3 Send Request To Node 1
+00:05:523 Accept: Node 3 Data Send Request To Node 1
+00:05:528 Node 3 Send Finished To Node 1
+00:05:547 Node 1 Send Request To Node 3
+00:05:547 Accept: Node 1 Data Send Request To Node 3
+00:05:552 Node 1 Send Finished To Node 3
+00:05:557 Node 2 Send Request To Node 1
+00:05:557 Accept: Node 2 Data Send Request To Node 1
+00:05:558 Node 4 Send Request To Node 3
+00:05:558 Reject: Node 4 Data Send Request To Node 3
+00:05:562 Node 2 Send Finished To Node 1
+00:05:566 Node 3 Send Request To Node 2
+00:05:566 Accept: Node 3 Data Send Request To Node 2
+00:05:567 Node 1 Send Request To Node 3
+00:05:567 Node 2 Send Request To Node 1
+00:05:567 Reject: Node 1 Data Send Request To Node 3
+00:05:567 Reject: Node 2 Data Send Request To Node 1
+00:05:571 Node 3 Send Finished To Node 2
+00:05:574 Node 4 Send Request To Node 2
+00:05:574 Node 1 Send Request To Node 2
+00:05:574 Accept: Node 4 Data Send Request To Node 2
+00:05:574 Reject: Node 1 Data Send Request To Node 2
+00:05:579 Node 4 Send Finished To Node 2
+00:05:589 Node 4 Send Request To Node 2
+00:05:589 Accept: Node 4 Data Send Request To Node 2
+00:05:592 Node 1 Send Request To Node 3
+00:05:592 Reject: Node 1 Data Send Request To Node 3
+00:05:594 Node 4 Send Finished To Node 2
+00:05:610 Node 3 Send Request To Node 1
+00:05:610 Accept: Node 3 Data Send Request To Node 1
+00:05:611 Node 1 Send Request To Node 2
+00:05:611 Reject: Node 1 Data Send Request To Node 2
+00:05:612 Node 2 Send Request To Node 1
+00:05:612 Reject: Node 2 Data Send Request To Node 1
+00:05:615 Node 3 Send Finished To Node 1
+00:05:616 Node 3 Send Request To Node 2
+00:05:616 Accept: Node 3 Data Send Request To Node 2
+00:05:621 Node 3 Send Finished To Node 2
+00:05:634 Node 4 Send Request To Node 1
+00:05:634 Accept: Node 4 Data Send Request To Node 1
+00:05:636 Node 1 Send Request To Node 2
+00:05:636 Reject: Node 1 Data Send Request To Node 2
+00:05:639 Node 4 Send Finished To Node 1
+00:05:643 Node 3 Send Request To Node 1
+00:05:643 Node 1 Send Request To Node 3
+00:05:643 Accept: Node 3 Data Send Request To Node 1
+00:05:643 Reject: Node 1 Data Send Request To Node 3
+00:05:648 Node 3 Send Finished To Node 1
+00:05:651 Node 1 Send Request To Node 3
+00:05:651 Accept: Node 1 Data Send Request To Node 3
+00:05:652 Node 2 Send Request To Node 3
+00:05:652 Reject: Node 2 Data Send Request To Node 3
+00:05:656 Node 1 Send Finished To Node 3
+00:05:662 Node 1 Send Request To Node 2
+00:05:662 Accept: Node 1 Data Send Request To Node 2
+00:05:667 Node 1 Send Finished To Node 2
+00:05:677 Node 4 Send Request To Node 1
+00:05:677 Accept: Node 4 Data Send Request To Node 1
+00:05:679 Node 3 Send Request To Node 1
+00:05:679 Reject: Node 3 Data Send Request To Node 1
+00:05:682 Node 4 Send Finished To Node 1
+00:05:681 Node 4 Send Request To Node 3
+00:05:681 Accept: Node 4 Data Send Request To Node 3
+00:05:686 Node 4 Send Finished To Node 3
+00:05:697 Node 1 Send Request To Node 3
+00:05:697 Node 3 Send Request To Node 1
+00:05:697 Accept: Node 1 Data Send Request To Node 3
+00:05:697 Reject: Node 3 Data Send Request To Node 1
+00:05:702 Node 1 Send Finished To Node 3
+00:05:702 Node 2 Send Request To Node 3
+00:05:702 Accept: Node 2 Data Send Request To Node 3
+00:05:707 Node 2 Send Finished To Node 3
+00:05:714 Node 3 Send Request To Node 2
+00:05:714 Accept: Node 3 Data Send Request To Node 2
+00:05:719 Node 3 Send Finished To Node 2
+00:05:722 Node 4 Send Request To Node 3
+00:05:722 Accept: Node 4 Data Send Request To Node 3
+00:05:727 Node 4 Send Finished To Node 3
+00:05:726 Node 2 Send Request To Node 3
+00:05:726 Accept: Node 2 Data Send Request To Node 3
+00:05:731 Node 2 Send Finished To Node 3
+00:05:738 Node 2 Send Request To Node 3
+00:05:738 Accept: Node 2 Data Send Request To Node 3
+00:05:739 Node 3 Send Request To Node 1
+00:05:739 Reject: Node 3 Data Send Request To Node 1
+00:05:743 Node 2 Send Finished To Node 3
+00:05:746 Node 1 Send Request To Node 2
+00:05:746 Accept: Node 1 Data Send Request To Node 2
+00:05:751 Node 1 Send Finished To Node 2
+00:05:752 Node 2 Send Request To Node 3
+00:05:752 Accept: Node 2 Data Send Request To Node 3
+00:05:757 Node 2 Send Finished To Node 3
+00:05:762 Node 2 Send Request To Node 1
+00:05:762 Accept: Node 2 Data Send Request To Node 1
+00:05:767 Node 2 Send Finished To Node 1
+00:05:771 Node 2 Send Request To Node 3
+00:05:771 Accept: Node 2 Data Send Request To Node 3
+00:05:772 Node 4 Send Request To Node 1
+00:05:772 Reject: Node 4 Data Send Request To Node 1
+00:05:776 Node 2 Send Finished To Node 3
+00:05:786 Node 3 Send Request To Node 2
+00:05:786 Accept: Node 3 Data Send Request To Node 2
+00:05:791 Node 3 Send Finished To Node 2
+00:05:795 Node 1 Send Request To Node 2
+00:05:795 Node 3 Send Request To Node 2
+00:05:795 Accept: Node 1 Data Send Request To Node 2
+00:05:795 Reject: Node 3 Data Send Request To Node 2
+00:05:799 Node 2 Send Request To Node 3
+00:05:799 Reject: Node 2 Data Send Request To Node 3
+00:05:800 Node 1 Send Finished To Node 2
+00:05:809 Node 4 Send Request To Node 3
+00:05:809 Accept: Node 4 Data Send Request To Node 3
+00:05:814 Node 4 Send Finished To Node 3
+00:05:820 Node 2 Send Request To Node 3
+00:05:820 Accept: Node 2 Data Send Request To Node 3
+00:05:825 Node 2 Send Finished To Node 3
+00:05:835 Node 3 Send Request To Node 1
+00:05:835 Accept: Node 3 Data Send Request To Node 1
+00:05:836 Node 2 Send Request To Node 1
+00:05:836 Reject: Node 2 Data Send Request To Node 1
+00:05:837 Node 4 Send Request To Node 2
+00:05:837 Reject: Node 4 Data Send Request To Node 2
+00:05:838 Node 2 Send Request To Node 1
+00:05:838 Reject: Node 2 Data Send Request To Node 1
+00:05:839 Node 1 Send Request To Node 3
+00:05:839 Reject: Node 1 Data Send Request To Node 3
+00:05:840 Node 3 Send Finished To Node 1
+00:05:851 Node 1 Send Request To Node 3
+00:05:851 Accept: Node 1 Data Send Request To Node 3
+00:05:852 Node 4 Send Request To Node 1
+00:05:852 Reject: Node 4 Data Send Request To Node 1
+00:05:856 Node 1 Send Finished To Node 3
+00:05:879 Node 3 Send Request To Node 1
+00:05:879 Accept: Node 3 Data Send Request To Node 1
+00:05:884 Node 3 Send Finished To Node 1
+00:05:884 Node 2 Send Request To Node 3
+00:05:884 Accept: Node 2 Data Send Request To Node 3
+00:05:885 Node 4 Send Request To Node 1
+00:05:885 Reject: Node 4 Data Send Request To Node 1
+00:05:889 Node 2 Send Finished To Node 3
+00:05:889 Node 4 Send Request To Node 3
+00:05:889 Accept: Node 4 Data Send Request To Node 3
+00:05:891 Node 1 Send Request To Node 2
+00:05:891 Reject: Node 1 Data Send Request To Node 2
+00:05:894 Node 4 Send Finished To Node 3
+00:05:896 Node 4 Send Request To Node 2
+00:05:896 Accept: Node 4 Data Send Request To Node 2
+00:05:900 Node 2 Send Request To Node 1
+00:05:900 Reject: Node 2 Data Send Request To Node 1
+00:05:901 Node 4 Send Finished To Node 2
+00:05:907 Node 1 Send Request To Node 2
+00:05:907 Accept: Node 1 Data Send Request To Node 2
+00:05:912 Node 1 Send Finished To Node 2
+00:05:916 Node 4 Send Request To Node 2
+00:05:916 Accept: Node 4 Data Send Request To Node 2
+00:05:918 Node 3 Send Request To Node 2
+00:05:918 Reject: Node 3 Data Send Request To Node 2
+00:05:921 Node 4 Send Finished To Node 2
+00:05:929 Node 2 Send Request To Node 3
+00:05:929 Accept: Node 2 Data Send Request To Node 3
+00:05:931 Node 1 Send Request To Node 2
+00:05:931 Reject: Node 1 Data Send Request To Node 2
+00:05:934 Node 2 Send Finished To Node 3
+00:05:947 Node 2 Send Request To Node 1
+00:05:947 Accept: Node 2 Data Send Request To Node 1
+00:05:951 Node 1 Send Request To Node 3
+00:05:951 Reject: Node 1 Data Send Request To Node 3
+00:05:952 Node 2 Send Finished To Node 1
+00:05:952 Node 2 Send Request To Node 1
+00:05:952 Accept: Node 2 Data Send Request To Node 1
+00:05:956 Node 3 Send Request To Node 2
+00:05:956 Reject: Node 3 Data Send Request To Node 2
+00:05:957 Node 2 Send Finished To Node 1
+00:05:968 Node 4 Send Request To Node 1
+00:05:968 Accept: Node 4 Data Send Request To Node 1
+00:05:973 Node 4 Send Finished To Node 1
+00:05:973 Node 4 Send Request To Node 2
+00:05:973 Accept: Node 4 Data Send Request To Node 2
+00:05:975 Node 2 Send Request To Node 1
+00:05:975 Reject: Node 2 Data Send Request To Node 1
+00:05:978 Node 4 Send Finished To Node 2
+00:05:993 Node 4 Send Request To Node 3
+00:05:993 Node 3 Send Request To Node 1
+00:05:993 Accept: Node 4 Data Send Request To Node 3
+00:05:993 Reject: Node 3 Data Send Request To Node 1
+00:05:995 Node 1 Send Request To Node 3
+00:05:995 Reject: Node 1 Data Send Request To Node 3
+00:05:998 Node 4 Send Finished To Node 3
+00:06:001 Node 3 Send Request To Node 1
+00:06:001 Accept: Node 3 Data Send Request To Node 1
+00:06:006 Node 3 Send Finished To Node 1
+00:06:010 Node 3 Send Request To Node 2
+00:06:010 Accept: Node 3 Data Send Request To Node 2
+00:06:015 Node 3 Send Finished To Node 2
+00:06:019 Node 2 Send Request To Node 3
+00:06:019 Accept: Node 2 Data Send Request To Node 3
+00:06:026 Node 4 Send Request To Node 1
+00:06:026 Reject: Node 4 Data Send Request To Node 1
+00:06:024 Node 2 Send Finished To Node 3
+00:06:044 Node 1 Send Request To Node 3
+00:06:044 Accept: Node 1 Data Send Request To Node 3
+00:06:044 Node 3 Send Request To Node 2
+00:06:044 Reject: Node 3 Data Send Request To Node 2
+00:06:049 Node 1 Send Finished To Node 3
+00:06:077 Node 2 Send Request To Node 3
+00:06:077 Accept: Node 2 Data Send Request To Node 3
+00:06:078 Node 4 Send Request To Node 1
+00:06:078 Reject: Node 4 Data Send Request To Node 1
+00:06:082 Node 2 Send Finished To Node 3
+00:06:092 Node 1 Send Request To Node 2
+00:06:092 Accept: Node 1 Data Send Request To Node 2
+00:06:095 Node 3 Send Request To Node 1
+00:06:095 Reject: Node 3 Data Send Request To Node 1
+00:06:097 Node 1 Send Finished To Node 2
+00:06:121 Node 4 Send Request To Node 1
+00:06:121 Accept: Node 4 Data Send Request To Node 1
+00:06:125 Node 2 Send Request To Node 1
+00:06:125 Reject: Node 2 Data Send Request To Node 1
+00:06:126 Node 4 Send Finished To Node 1
+00:06:129 Node 1 Send Request To Node 2
+00:06:129 Accept: Node 1 Data Send Request To Node 2
+00:06:133 Node 3 Send Request To Node 2
+00:06:133 Reject: Node 3 Data Send Request To Node 2
+00:06:134 Node 1 Send Finished To Node 2
+00:06:144 Node 2 Send Request To Node 1
+00:06:144 Accept: Node 2 Data Send Request To Node 1
+00:06:147 Node 1 Send Request To Node 3
+00:06:147 Reject: Node 1 Data Send Request To Node 3
+00:06:149 Node 2 Send Finished To Node 1
+00:06:162 Node 3 Send Request To Node 2
+00:06:162 Accept: Node 3 Data Send Request To Node 2
+00:06:164 Node 4 Send Request To Node 3
+00:06:164 Reject: Node 4 Data Send Request To Node 3
+00:06:167 Node 3 Send Finished To Node 2
+00:06:169 Node 2 Send Request To Node 3
+00:06:169 Accept: Node 2 Data Send Request To Node 3
+00:06:174 Node 2 Send Finished To Node 3
+00:06:185 Node 4 Send Request To Node 1
+00:06:185 Accept: Node 4 Data Send Request To Node 1
+00:06:186 Node 1 Send Request To Node 3
+00:06:186 Reject: Node 1 Data Send Request To Node 3
+00:06:189 Node 1 Send Request To Node 2
+00:06:189 Reject: Node 1 Data Send Request To Node 2
+00:06:190 Node 4 Send Finished To Node 1
+00:06:195 Node 4 Send Request To Node 2
+00:06:195 Accept: Node 4 Data Send Request To Node 2
+00:06:196 Node 1 Send Request To Node 3
+00:06:196 Reject: Node 1 Data Send Request To Node 3
+00:06:200 Node 4 Send Finished To Node 2
+00:06:199 Node 2 Send Request To Node 1
+00:06:199 Accept: Node 2 Data Send Request To Node 1
+00:06:204 Node 2 Send Finished To Node 1
+00:06:205 Node 3 Send Request To Node 2
+00:06:205 Accept: Node 3 Data Send Request To Node 2
+00:06:210 Node 3 Send Finished To Node 2
+00:06:218 Node 2 Send Request To Node 1
+00:06:218 Accept: Node 2 Data Send Request To Node 1
+00:06:223 Node 2 Send Finished To Node 1
+00:06:226 Node 1 Send Request To Node 3
+00:06:226 Accept: Node 1 Data Send Request To Node 3
+00:06:231 Node 1 Send Finished To Node 3
+00:06:234 Node 2 Send Request To Node 1
+00:06:234 Node 1 Send Request To Node 3
+00:06:234 Accept: Node 2 Data Send Request To Node 1
+00:06:234 Reject: Node 1 Data Send Request To Node 3
+00:06:239 Node 2 Send Finished To Node 1
+00:06:240 Node 3 Send Request To Node 2
+00:06:240 Accept: Node 3 Data Send Request To Node 2
+00:06:243 Node 4 Send Request To Node 1
+00:06:243 Reject: Node 4 Data Send Request To Node 1
+00:06:245 Node 3 Send Finished To Node 2
+00:06:248 Node 3 Send Request To Node 2
+00:06:248 Accept: Node 3 Data Send Request To Node 2
+00:06:253 Node 3 Send Finished To Node 2
+00:06:252 Node 3 Send Request To Node 2
+00:06:252 Accept: Node 3 Data Send Request To Node 2
+00:06:257 Node 3 Send Finished To Node 2
+00:06:257 Node 2 Send Request To Node 3
+00:06:257 Node 1 Send Request To Node 2
+00:06:257 Accept: Node 2 Data Send Request To Node 3
+00:06:257 Reject: Node 1 Data Send Request To Node 2
+00:06:258 Node 3 Send Request To Node 2
+00:06:258 Reject: Node 3 Data Send Request To Node 2
+00:06:262 Node 2 Send Finished To Node 3
+00:06:266 Node 2 Send Request To Node 3
+00:06:266 Accept: Node 2 Data Send Request To Node 3
+00:06:271 Node 2 Send Finished To Node 3
+00:06:271 Node 2 Send Request To Node 1
+00:06:271 Accept: Node 2 Data Send Request To Node 1
+00:06:274 Node 4 Send Request To Node 1
+00:06:274 Reject: Node 4 Data Send Request To Node 1
+00:06:276 Node 2 Send Finished To Node 1
+00:06:282 Node 2 Send Request To Node 3
+00:06:282 Accept: Node 2 Data Send Request To Node 3
+00:06:287 Node 2 Send Finished To Node 3
+00:06:290 Node 4 Send Request To Node 3
+00:06:290 Accept: Node 4 Data Send Request To Node 3
+00:06:295 Node 4 Send Finished To Node 3
+00:06:294 Node 3 Send Request To Node 2
+00:06:294 Accept: Node 3 Data Send Request To Node 2
+00:06:299 Node 3 Send Finished To Node 2
+00:06:303 Node 1 Send Request To Node 3
+00:06:303 Accept: Node 1 Data Send Request To Node 3
+00:06:306 Node 3 Send Request To Node 1
+00:06:306 Reject: Node 3 Data Send Request To Node 1
+00:06:308 Node 1 Send Finished To Node 3
+00:06:307 Node 4 Send Request To Node 1
+00:06:307 Accept: Node 4 Data Send Request To Node 1
+00:06:312 Node 4 Send Finished To Node 1
+00:06:319 Node 2 Send Request To Node 3
+00:06:319 Accept: Node 2 Data Send Request To Node 3
+00:06:324 Node 2 Send Finished To Node 3
+00:06:327 Node 4 Send Request To Node 2
+00:06:327 Accept: Node 4 Data Send Request To Node 2
+00:06:332 Node 4 Send Finished To Node 2
+00:06:337 Node 3 Send Request To Node 2
+00:06:337 Accept: Node 3 Data Send Request To Node 2
+00:06:342 Node 3 Send Finished To Node 2
+00:06:341 Node 3 Send Request To Node 2
+00:06:341 Node 1 Send Request To Node 3
+00:06:341 Accept: Node 3 Data Send Request To Node 2
+00:06:341 Reject: Node 1 Data Send Request To Node 3
+00:06:346 Node 3 Send Finished To Node 2
+00:06:351 Node 4 Send Request To Node 2
+00:06:351 Accept: Node 4 Data Send Request To Node 2
+00:06:354 Node 2 Send Request To Node 1
+00:06:354 Reject: Node 2 Data Send Request To Node 1
+00:06:356 Node 4 Send Finished To Node 2
+00:06:358 Node 1 Send Request To Node 2
+00:06:358 Accept: Node 1 Data Send Request To Node 2
+00:06:363 Node 1 Send Finished To Node 2
+00:06:363 Node 1 Send Request To Node 2
+00:06:363 Accept: Node 1 Data Send Request To Node 2
+00:06:368 Node 1 Send Finished To Node 2
+00:06:374 Node 4 Send Request To Node 1
+00:06:374 Accept: Node 4 Data Send Request To Node 1
+00:06:379 Node 4 Send Finished To Node 1
+00:06:380 Node 3 Send Request To Node 2
+00:06:380 Accept: Node 3 Data Send Request To Node 2
+00:06:385 Node 3 Send Finished To Node 2
+00:06:384 Node 2 Send Request To Node 3
+00:06:384 Accept: Node 2 Data Send Request To Node 3
+00:06:388 Node 1 Send Request To Node 3
+00:06:388 Reject: Node 1 Data Send Request To Node 3
+00:06:389 Node 2 Send Finished To Node 3
+00:06:393 Node 3 Send Request To Node 1
+00:06:393 Accept: Node 3 Data Send Request To Node 1
+00:06:398 Node 3 Send Finished To Node 1
+00:06:407 Node 3 Send Request To Node 2
+00:06:407 Accept: Node 3 Data Send Request To Node 2
+00:06:408 Node 1 Send Request To Node 2
+00:06:408 Reject: Node 1 Data Send Request To Node 2
+00:06:412 Node 3 Send Finished To Node 2
+00:06:416 Node 4 Send Request To Node 3
+00:06:416 Accept: Node 4 Data Send Request To Node 3
+00:06:417 Node 3 Send Request To Node 2
+00:06:417 Reject: Node 3 Data Send Request To Node 2
+00:06:421 Node 4 Send Finished To Node 3
+00:06:423 Node 3 Send Request To Node 1
+00:06:423 Accept: Node 3 Data Send Request To Node 1
+00:06:428 Node 3 Send Finished To Node 1
+00:06:430 Node 2 Send Request To Node 1
+00:06:430 Accept: Node 2 Data Send Request To Node 1
+00:06:435 Node 2 Send Finished To Node 1
+00:06:445 Node 4 Send Request To Node 3
+00:06:445 Accept: Node 4 Data Send Request To Node 3
+00:06:448 Node 2 Send Request To Node 1
+00:06:448 Reject: Node 2 Data Send Request To Node 1
+00:06:450 Node 4 Send Finished To Node 3
+00:06:455 Node 1 Send Request To Node 3
+00:06:455 Accept: Node 1 Data Send Request To Node 3
+00:06:456 Node 3 Send Request To Node 1
+00:06:456 Reject: Node 3 Data Send Request To Node 1
+00:06:460 Node 1 Send Finished To Node 3
+00:06:472 Node 1 Send Request To Node 2
+00:06:472 Accept: Node 1 Data Send Request To Node 2
+00:06:475 Node 2 Send Request To Node 3
+00:06:475 Reject: Node 2 Data Send Request To Node 3
+00:06:477 Node 1 Send Finished To Node 2
+00:06:478 Node 3 Send Request To Node 2
+00:06:478 Accept: Node 3 Data Send Request To Node 2
+00:06:482 Node 1 Send Request To Node 3
+00:06:482 Reject: Node 1 Data Send Request To Node 3
+00:06:483 Node 3 Send Finished To Node 2
+00:06:492 Node 4 Send Request To Node 2
+00:06:492 Accept: Node 4 Data Send Request To Node 2
+00:06:497 Node 4 Send Finished To Node 2
+00:06:499 Node 2 Send Request To Node 3
+00:06:499 Accept: Node 2 Data Send Request To Node 3
+00:06:504 Node 2 Send Finished To Node 3
+00:06:517 Node 3 Send Request To Node 2
+00:06:517 Accept: Node 3 Data Send Request To Node 2
+00:06:520 Node 4 Send Request To Node 2
+00:06:520 Reject: Node 4 Data Send Request To Node 2
+00:06:522 Node 3 Send Finished To Node 2
+00:06:522 Node 1 Send Request To Node 2
+00:06:522 Accept: Node 1 Data Send Request To Node 2
+00:06:527 Node 1 Send Finished To Node 2
+00:06:526 Node 1 Send Request To Node 2
+00:06:526 Accept: Node 1 Data Send Request To Node 2
+00:06:531 Node 1 Send Finished To Node 2
+00:06:536 Node 4 Send Request To Node 3
+00:06:536 Accept: Node 4 Data Send Request To Node 3
+00:06:539 Node 1 Send Request To Node 2
+00:06:539 Reject: Node 1 Data Send Request To Node 2
+00:06:541 Node 4 Send Finished To Node 3
+00:06:541 Node 2 Send Request To Node 1
+00:06:541 Accept: Node 2 Data Send Request To Node 1
+00:06:546 Node 2 Send Finished To Node 1
+00:06:559 Node 3 Send Request To Node 1
+00:06:559 Accept: Node 3 Data Send Request To Node 1
+00:06:560 Node 4 Send Request To Node 2
+00:06:560 Reject: Node 4 Data Send Request To Node 2
+00:06:564 Node 3 Send Finished To Node 1
+00:06:569 Node 2 Send Request To Node 1
+00:06:569 Accept: Node 2 Data Send Request To Node 1
+00:06:574 Node 2 Send Finished To Node 1
+00:06:575 Node 1 Send Request To Node 2
+00:06:575 Accept: Node 1 Data Send Request To Node 2
+00:06:576 Node 4 Send Request To Node 1
+00:06:576 Reject: Node 4 Data Send Request To Node 1
+00:06:580 Node 1 Send Finished To Node 2
+00:06:588 Node 4 Send Request To Node 3
+00:06:588 Accept: Node 4 Data Send Request To Node 3
+00:06:593 Node 4 Send Finished To Node 3
+00:06:604 Node 3 Send Request To Node 2
+00:06:604 Accept: Node 3 Data Send Request To Node 2
+00:06:609 Node 3 Send Finished To Node 2
+00:06:609 Node 2 Send Request To Node 1
+00:06:609 Accept: Node 2 Data Send Request To Node 1
+00:06:614 Node 2 Send Finished To Node 1
+00:06:619 Node 1 Send Request To Node 2
+00:06:619 Accept: Node 1 Data Send Request To Node 2
+00:06:624 Node 1 Send Finished To Node 2
+00:06:629 Node 4 Send Request To Node 2
+00:06:629 Accept: Node 4 Data Send Request To Node 2
+00:06:634 Node 4 Send Finished To Node 2
+00:06:647 Node 3 Send Request To Node 1
+00:06:647 Accept: Node 3 Data Send Request To Node 1
+00:06:649 Node 2 Send Request To Node 3
+00:06:649 Reject: Node 2 Data Send Request To Node 3
+00:06:652 Node 3 Send Finished To Node 1
+00:06:661 Node 2 Send Request To Node 3
+00:06:661 Accept: Node 2 Data Send Request To Node 3
+00:06:663 Node 1 Send Request To Node 3
+00:06:663 Reject: Node 1 Data Send Request To Node 3
+00:06:666 Node 2 Send Finished To Node 3
+00:06:674 Node 2 Send Request To Node 1
+00:06:674 Accept: Node 2 Data Send Request To Node 1
+00:06:679 Node 2 Send Finished To Node 1
+00:06:678 Node 4 Send Request To Node 3
+00:06:678 Accept: Node 4 Data Send Request To Node 3
+00:06:683 Node 4 Send Finished To Node 3
+00:06:692 Node 3 Send Request To Node 2
+00:06:692 Accept: Node 3 Data Send Request To Node 2
+00:06:697 Node 3 Send Finished To Node 2
+00:06:696 Node 3 Send Request To Node 1
+00:06:696 Accept: Node 3 Data Send Request To Node 1
+00:06:701 Node 3 Send Finished To Node 1
+00:06:701 Node 3 Send Request To Node 1
+00:06:701 Accept: Node 3 Data Send Request To Node 1
+00:06:706 Node 3 Send Finished To Node 1
+00:06:707 Node 1 Send Request To Node 3
+00:06:707 Node 3 Send Request To Node 2
+00:06:707 Accept: Node 1 Data Send Request To Node 3
+00:06:707 Reject: Node 3 Data Send Request To Node 2
+00:06:710 Node 2 Send Request To Node 1
+00:06:710 Reject: Node 2 Data Send Request To Node 1
+00:06:710 Node 2 Send Request To Node 1
+00:06:710 Reject: Node 2 Data Send Request To Node 1
+00:06:712 Node 1 Send Finished To Node 3
+00:06:711 Node 4 Send Request To Node 3
+00:06:711 Accept: Node 4 Data Send Request To Node 3
+00:06:716 Node 4 Send Finished To Node 3
+00:06:730 Node 2 Send Request To Node 3
+00:06:730 Accept: Node 2 Data Send Request To Node 3
+00:06:735 Node 2 Send Finished To Node 3
+00:06:742 Node 3 Send Request To Node 2
+00:06:742 Node 1 Send Request To Node 2
+00:06:742 Accept: Node 3 Data Send Request To Node 2
+00:06:742 Reject: Node 1 Data Send Request To Node 2
+00:06:747 Node 3 Send Finished To Node 2
+00:06:749 Node 3 Send Request To Node 2
+00:06:749 Accept: Node 3 Data Send Request To Node 2
+00:06:750 Node 4 Send Request To Node 3
+00:06:750 Reject: Node 4 Data Send Request To Node 3
+00:06:754 Node 3 Send Finished To Node 2
+00:06:761 Node 1 Send Request To Node 3
+00:06:761 Accept: Node 1 Data Send Request To Node 3
+00:06:766 Node 1 Send Finished To Node 3
+00:06:767 Node 3 Send Request To Node 2
+00:06:767 Accept: Node 3 Data Send Request To Node 2
+00:06:768 Node 2 Send Request To Node 3
+00:06:768 Reject: Node 2 Data Send Request To Node 3
+00:06:772 Node 3 Send Finished To Node 2
+00:06:775 Node 3 Send Request To Node 2
+00:06:775 Accept: Node 3 Data Send Request To Node 2
+00:06:780 Node 3 Send Finished To Node 2
+00:06:788 Node 1 Send Request To Node 2
+00:06:788 Accept: Node 1 Data Send Request To Node 2
+00:06:791 Node 4 Send Request To Node 1
+00:06:791 Reject: Node 4 Data Send Request To Node 1
+00:06:793 Node 1 Send Finished To Node 2
+00:06:798 Node 2 Send Request To Node 1
+00:06:798 Accept: Node 2 Data Send Request To Node 1
+00:06:803 Node 2 Send Finished To Node 1
+00:06:803 Node 3 Send Request To Node 1
+00:06:803 Accept: Node 3 Data Send Request To Node 1
+00:06:805 Node 1 Send Request To Node 2
+00:06:805 Reject: Node 1 Data Send Request To Node 2
+00:06:808 Node 3 Send Finished To Node 1
+00:06:811 Node 4 Send Request To Node 1
+00:06:811 Accept: Node 4 Data Send Request To Node 1
+00:06:816 Node 4 Send Finished To Node 1
+00:06:817 Node 3 Send Request To Node 1
+00:06:817 Accept: Node 3 Data Send Request To Node 1
+00:06:822 Node 3 Send Finished To Node 1
+00:06:825 Node 4 Send Request To Node 1
+00:06:825 Accept: Node 4 Data Send Request To Node 1
+00:06:830 Node 4 Send Finished To Node 1
+00:06:829 Node 2 Send Request To Node 3
+00:06:829 Accept: Node 2 Data Send Request To Node 3
+00:06:834 Node 2 Send Finished To Node 3
+00:06:841 Node 1 Send Request To Node 2
+00:06:841 Accept: Node 1 Data Send Request To Node 2
+00:06:846 Node 1 Send Finished To Node 2
+00:06:849 Node 4 Send Request To Node 3
+00:06:849 Accept: Node 4 Data Send Request To Node 3
+00:06:851 Node 3 Send Request To Node 2
+00:06:851 Reject: Node 3 Data Send Request To Node 2
+00:06:852 Node 2 Send Request To Node 1
+00:06:852 Reject: Node 2 Data Send Request To Node 1
+00:06:854 Node 4 Send Finished To Node 3
+00:06:863 Node 1 Send Request To Node 2
+00:06:863 Accept: Node 1 Data Send Request To Node 2
+00:06:868 Node 1 Send Finished To Node 2
+00:06:876 Node 4 Send Request To Node 1
+00:06:876 Accept: Node 4 Data Send Request To Node 1
+00:06:881 Node 4 Send Finished To Node 1
+00:06:887 Node 3 Send Request To Node 2
+00:06:887 Accept: Node 3 Data Send Request To Node 2
+00:06:891 Node 1 Send Request To Node 2
+00:06:891 Reject: Node 1 Data Send Request To Node 2
+00:06:891 Node 4 Send Request To Node 1
+00:06:891 Reject: Node 4 Data Send Request To Node 1
+00:06:892 Node 3 Send Finished To Node 2
+00:06:892 Node 2 Send Request To Node 3
+00:06:892 Accept: Node 2 Data Send Request To Node 3
+00:06:897 Node 2 Send Finished To Node 3
+00:06:899 Node 3 Send Request To Node 1
+00:06:899 Accept: Node 3 Data Send Request To Node 1
+00:06:901 Node 2 Send Request To Node 1
+00:06:901 Reject: Node 2 Data Send Request To Node 1
+00:06:904 Node 3 Send Finished To Node 1
+00:06:926 Node 1 Send Request To Node 2
+00:06:926 Accept: Node 1 Data Send Request To Node 2
+00:06:931 Node 1 Send Finished To Node 2
+00:06:935 Node 2 Send Request To Node 3
+00:06:935 Accept: Node 2 Data Send Request To Node 3
+00:06:938 Node 4 Send Request To Node 3
+00:06:938 Reject: Node 4 Data Send Request To Node 3
+00:06:940 Node 2 Send Finished To Node 3
+00:06:942 Node 3 Send Request To Node 2
+00:06:942 Accept: Node 3 Data Send Request To Node 2
+00:06:943 Node 2 Send Request To Node 3
+00:06:943 Reject: Node 2 Data Send Request To Node 3
+00:06:947 Node 3 Send Finished To Node 2
+00:06:954 Node 2 Send Request To Node 1
+00:06:954 Accept: Node 2 Data Send Request To Node 1
+00:06:955 Node 1 Send Request To Node 3
+00:06:955 Reject: Node 1 Data Send Request To Node 3
+00:06:959 Node 2 Send Finished To Node 1
+00:06:987 Node 3 Send Request To Node 2
+00:06:987 Accept: Node 3 Data Send Request To Node 2
+00:06:989 Node 1 Send Request To Node 2
+00:06:989 Reject: Node 1 Data Send Request To Node 2
+00:06:990 Node 2 Send Request To Node 1
+00:06:990 Reject: Node 2 Data Send Request To Node 1
+00:06:991 Node 4 Send Request To Node 1
+00:06:991 Reject: Node 4 Data Send Request To Node 1
+00:06:992 Node 3 Send Finished To Node 2
+00:07:021 Node 1 Send Request To Node 3
+00:07:021 Accept: Node 1 Data Send Request To Node 3
+00:07:023 Node 3 Send Request To Node 2
+00:07:023 Reject: Node 3 Data Send Request To Node 2
+00:07:026 Node 1 Send Finished To Node 3
+00:07:028 Node 4 Send Request To Node 2
+00:07:028 Accept: Node 4 Data Send Request To Node 2
+00:07:031 Node 3 Send Request To Node 2
+00:07:031 Reject: Node 3 Data Send Request To Node 2
+00:07:033 Node 4 Send Finished To Node 2
+00:07:033 Node 1 Send Request To Node 2
+00:07:033 Accept: Node 1 Data Send Request To Node 2
+00:07:038 Node 1 Send Finished To Node 2
+00:07:039 Node 2 Send Request To Node 1
+00:07:039 Accept: Node 2 Data Send Request To Node 1
+00:07:044 Node 2 Send Finished To Node 1
+00:07:051 Node 2 Send Request To Node 3
+00:07:051 Accept: Node 2 Data Send Request To Node 3
+00:07:056 Node 2 Send Finished To Node 3
+00:07:073 Node 4 Send Request To Node 1
+00:07:073 Accept: Node 4 Data Send Request To Node 1
+00:07:076 Node 3 Send Request To Node 1
+00:07:076 Reject: Node 3 Data Send Request To Node 1
+00:07:078 Node 4 Send Finished To Node 1
+00:07:077 Node 4 Send Request To Node 1
+00:07:077 Accept: Node 4 Data Send Request To Node 1
+00:07:079 Node 1 Send Request To Node 3
+00:07:079 Reject: Node 1 Data Send Request To Node 3
+00:07:082 Node 4 Send Finished To Node 1
+00:07:083 Node 4 Send Request To Node 2
+00:07:083 Accept: Node 4 Data Send Request To Node 2
+00:07:088 Node 4 Send Finished To Node 2
+00:07:094 Node 2 Send Request To Node 3
+00:07:094 Accept: Node 2 Data Send Request To Node 3
+00:07:096 Node 4 Send Request To Node 3
+00:07:096 Reject: Node 4 Data Send Request To Node 3
+00:07:099 Node 2 Send Finished To Node 3
+00:07:108 Node 2 Send Request To Node 1
+00:07:108 Accept: Node 2 Data Send Request To Node 1
+00:07:111 Node 1 Send Request To Node 2
+00:07:111 Reject: Node 1 Data Send Request To Node 2
+00:07:113 Node 2 Send Finished To Node 1
+00:07:114 Node 3 Send Request To Node 1
+00:07:114 Accept: Node 3 Data Send Request To Node 1
+00:07:119 Node 3 Send Finished To Node 1
+00:07:118 Node 3 Send Request To Node 1
+00:07:118 Accept: Node 3 Data Send Request To Node 1
+00:07:123 Node 3 Send Finished To Node 1
+00:07:127 Node 3 Send Request To Node 2
+00:07:127 Accept: Node 3 Data Send Request To Node 2
+00:07:132 Node 3 Send Finished To Node 2
+00:07:132 Node 1 Send Request To Node 3
+00:07:132 Accept: Node 1 Data Send Request To Node 3
+00:07:137 Node 1 Send Finished To Node 3
+00:07:142 Node 2 Send Request To Node 3
+00:07:142 Accept: Node 2 Data Send Request To Node 3
+00:07:143 Node 4 Send Request To Node 3
+00:07:143 Reject: Node 4 Data Send Request To Node 3
+00:07:147 Node 2 Send Finished To Node 3
+00:07:156 Node 3 Send Request To Node 1
+00:07:156 Accept: Node 3 Data Send Request To Node 1
+00:07:161 Node 3 Send Finished To Node 1
+00:07:160 Node 4 Send Request To Node 2
+00:07:160 Node 1 Send Request To Node 2
+00:07:160 Accept: Node 4 Data Send Request To Node 2
+00:07:160 Reject: Node 1 Data Send Request To Node 2
+00:07:165 Node 4 Send Finished To Node 2
+00:07:164 Node 4 Send Request To Node 3
+00:07:164 Accept: Node 4 Data Send Request To Node 3
+00:07:166 Node 3 Send Request To Node 1
+00:07:166 Reject: Node 3 Data Send Request To Node 1
+00:07:169 Node 4 Send Finished To Node 3
+00:07:177 Node 2 Send Request To Node 3
+00:07:177 Accept: Node 2 Data Send Request To Node 3
+00:07:182 Node 2 Send Finished To Node 3
+00:07:181 Node 2 Send Request To Node 3
+00:07:181 Accept: Node 2 Data Send Request To Node 3
+00:07:186 Node 2 Send Finished To Node 3
+00:07:187 Node 4 Send Request To Node 1
+00:07:187 Accept: Node 4 Data Send Request To Node 1
+00:07:192 Node 4 Send Finished To Node 1
+00:07:194 Node 2 Send Request To Node 1
+00:07:194 Accept: Node 2 Data Send Request To Node 1
+00:07:199 Node 2 Send Finished To Node 1
+00:07:200 Node 3 Send Request To Node 2
+00:07:200 Accept: Node 3 Data Send Request To Node 2
+00:07:201 Node 1 Send Request To Node 2
+00:07:201 Reject: Node 1 Data Send Request To Node 2
+00:07:205 Node 3 Send Finished To Node 2
+00:07:208 Node 2 Send Request To Node 3
+00:07:208 Accept: Node 2 Data Send Request To Node 3
+00:07:213 Node 2 Send Finished To Node 3
+00:07:215 Node 3 Send Request To Node 2
+00:07:215 Accept: Node 3 Data Send Request To Node 2
+00:07:220 Node 3 Send Finished To Node 2
+00:07:222 Node 4 Send Request To Node 3
+00:07:222 Accept: Node 4 Data Send Request To Node 3
+00:07:227 Node 4 Send Finished To Node 3
+00:07:233 Node 1 Send Request To Node 2
+00:07:233 Accept: Node 1 Data Send Request To Node 2
+00:07:234 Node 2 Send Request To Node 1
+00:07:234 Reject: Node 2 Data Send Request To Node 1
+00:07:236 Node 3 Send Request To Node 1
+00:07:236 Reject: Node 3 Data Send Request To Node 1
+00:07:238 Node 1 Send Finished To Node 2
+00:07:248 Node 2 Send Request To Node 1
+00:07:248 Accept: Node 2 Data Send Request To Node 1
+00:07:251 Node 3 Send Request To Node 1
+00:07:251 Reject: Node 3 Data Send Request To Node 1
+00:07:253 Node 2 Send Finished To Node 1
+00:07:253 Node 4 Send Request To Node 1
+00:07:253 Accept: Node 4 Data Send Request To Node 1
+00:07:255 Node 1 Send Request To Node 2
+00:07:255 Reject: Node 1 Data Send Request To Node 2
+00:07:258 Node 4 Send Finished To Node 1
+00:07:260 Node 1 Send Request To Node 2
+00:07:260 Accept: Node 1 Data Send Request To Node 2
+00:07:265 Node 1 Send Finished To Node 2
+00:07:271 Node 4 Send Request To Node 3
+00:07:271 Accept: Node 4 Data Send Request To Node 3
+00:07:276 Node 4 Send Finished To Node 3
+00:07:279 Node 4 Send Request To Node 2
+00:07:279 Accept: Node 4 Data Send Request To Node 2
+00:07:284 Node 4 Send Finished To Node 2
+00:07:291 Node 1 Send Request To Node 2
+00:07:291 Accept: Node 1 Data Send Request To Node 2
+00:07:291 Node 4 Send Request To Node 2
+00:07:291 Reject: Node 4 Data Send Request To Node 2
+00:07:292 Node 2 Send Request To Node 3
+00:07:292 Reject: Node 2 Data Send Request To Node 3
+00:07:296 Node 1 Send Finished To Node 2
+00:07:295 Node 4 Send Request To Node 1
+00:07:295 Accept: Node 4 Data Send Request To Node 1
+00:07:300 Node 4 Send Finished To Node 1
+00:07:300 Node 1 Send Request To Node 3
+00:07:300 Accept: Node 1 Data Send Request To Node 3
+00:07:302 Node 3 Send Request To Node 2
+00:07:302 Reject: Node 3 Data Send Request To Node 2
+00:07:305 Node 1 Send Finished To Node 3
+00:07:308 Node 3 Send Request To Node 2
+00:07:308 Node 2 Send Request To Node 3
+00:07:308 Accept: Node 3 Data Send Request To Node 2
+00:07:308 Reject: Node 2 Data Send Request To Node 3
+00:07:309 Node 4 Send Request To Node 2
+00:07:309 Reject: Node 4 Data Send Request To Node 2
+00:07:313 Node 3 Send Finished To Node 2
+00:07:315 Node 4 Send Request To Node 2
+00:07:315 Accept: Node 4 Data Send Request To Node 2
+00:07:320 Node 4 Send Finished To Node 2
+00:07:319 Node 2 Send Request To Node 1
+00:07:319 Accept: Node 2 Data Send Request To Node 1
+00:07:321 Node 1 Send Request To Node 3
+00:07:321 Reject: Node 1 Data Send Request To Node 3
+00:07:324 Node 2 Send Finished To Node 1
+00:07:325 Node 3 Send Request To Node 1
+00:07:325 Accept: Node 3 Data Send Request To Node 1
+00:07:330 Node 3 Send Finished To Node 1
+00:07:341 Node 1 Send Request To Node 3
+00:07:341 Accept: Node 1 Data Send Request To Node 3
+00:07:345 Node 2 Send Request To Node 3
+00:07:345 Reject: Node 2 Data Send Request To Node 3
+00:07:346 Node 1 Send Finished To Node 3
+00:07:359 Node 4 Send Request To Node 3
+00:07:359 Accept: Node 4 Data Send Request To Node 3
+00:07:364 Node 4 Send Finished To Node 3
+00:07:369 Node 1 Send Request To Node 3
+00:07:369 Accept: Node 1 Data Send Request To Node 3
+00:07:371 Node 3 Send Request To Node 1
+00:07:371 Reject: Node 3 Data Send Request To Node 1
+00:07:374 Node 1 Send Finished To Node 3
+00:07:384 Node 1 Send Request To Node 2
+00:07:384 Accept: Node 1 Data Send Request To Node 2
+00:07:385 Node 2 Send Request To Node 3
+00:07:385 Reject: Node 2 Data Send Request To Node 3
+00:07:389 Node 1 Send Finished To Node 2
+00:07:389 Node 4 Send Request To Node 1
+00:07:389 Accept: Node 4 Data Send Request To Node 1
+00:07:394 Node 4 Send Finished To Node 1
+00:07:399 Node 3 Send Request To Node 2
+00:07:399 Accept: Node 3 Data Send Request To Node 2
+00:07:400 Node 2 Send Request To Node 3
+00:07:400 Reject: Node 2 Data Send Request To Node 3
+00:07:404 Node 3 Send Finished To Node 2
+00:07:411 Node 1 Send Request To Node 2
+00:07:411 Accept: Node 1 Data Send Request To Node 2
+00:07:416 Node 1 Send Finished To Node 2
+00:07:418 Node 1 Send Request To Node 3
+00:07:418 Accept: Node 1 Data Send Request To Node 3
+00:07:423 Node 1 Send Finished To Node 3
+00:07:428 Node 4 Send Request To Node 3
+00:07:428 Accept: Node 4 Data Send Request To Node 3
+00:07:433 Node 4 Send Finished To Node 3
+00:07:435 Node 1 Send Request To Node 3
+00:07:435 Accept: Node 1 Data Send Request To Node 3
+00:07:436 Node 2 Send Request To Node 3
+00:07:436 Reject: Node 2 Data Send Request To Node 3
+00:07:440 Node 1 Send Finished To Node 3
+00:07:441 Node 3 Send Request To Node 1
+00:07:441 Accept: Node 3 Data Send Request To Node 1
+00:07:446 Node 3 Send Finished To Node 1
+00:07:445 Node 3 Send Request To Node 1
+00:07:445 Accept: Node 3 Data Send Request To Node 1
+00:07:450 Node 3 Send Finished To Node 1
+00:07:458 Node 4 Send Request To Node 2
+00:07:458 Accept: Node 4 Data Send Request To Node 2
+00:07:462 Node 1 Send Request To Node 2
+00:07:462 Reject: Node 1 Data Send Request To Node 2
+00:07:463 Node 4 Send Finished To Node 2
+00:07:468 Node 1 Send Request To Node 3
+00:07:468 Accept: Node 1 Data Send Request To Node 3
+00:07:473 Node 1 Send Finished To Node 3
+00:07:472 Node 1 Send Request To Node 2
+00:07:472 Accept: Node 1 Data Send Request To Node 2
+00:07:477 Node 1 Send Finished To Node 2
+00:07:484 Node 4 Send Request To Node 1
+00:07:484 Accept: Node 4 Data Send Request To Node 1
+00:07:485 Node 2 Send Request To Node 3
+00:07:485 Reject: Node 2 Data Send Request To Node 3
+00:07:489 Node 4 Send Finished To Node 1
+00:07:494 Node 3 Send Request To Node 1
+00:07:494 Accept: Node 3 Data Send Request To Node 1
+00:07:499 Node 3 Send Finished To Node 1
+00:07:505 Node 1 Send Request To Node 3
+00:07:505 Accept: Node 1 Data Send Request To Node 3
+00:07:510 Node 1 Send Finished To Node 3
+00:07:518 Node 1 Send Request To Node 3
+00:07:518 Accept: Node 1 Data Send Request To Node 3
+00:07:523 Node 1 Send Finished To Node 3
+00:07:527 Node 4 Send Request To Node 1
+00:07:527 Accept: Node 4 Data Send Request To Node 1
+00:07:532 Node 4 Send Finished To Node 1
+00:07:533 Node 2 Send Request To Node 3
+00:07:533 Accept: Node 2 Data Send Request To Node 3
+00:07:538 Node 2 Send Finished To Node 3
+00:07:538 Node 2 Send Request To Node 1
+00:07:538 Accept: Node 2 Data Send Request To Node 1
+00:07:538 Node 3 Send Request To Node 1
+00:07:538 Reject: Node 3 Data Send Request To Node 1
+00:07:541 Node 4 Send Request To Node 3
+00:07:541 Reject: Node 4 Data Send Request To Node 3
+00:07:543 Node 2 Send Finished To Node 1
+00:07:546 Node 1 Send Request To Node 2
+00:07:546 Accept: Node 1 Data Send Request To Node 2
+00:07:548 Node 2 Send Request To Node 1
+00:07:548 Reject: Node 2 Data Send Request To Node 1
+00:07:551 Node 1 Send Finished To Node 2
+00:07:559 Node 2 Send Request To Node 3
+00:07:559 Accept: Node 2 Data Send Request To Node 3
+00:07:563 Node 1 Send Request To Node 3
+00:07:563 Reject: Node 1 Data Send Request To Node 3
+00:07:564 Node 2 Send Finished To Node 3
+00:07:564 Node 3 Send Request To Node 1
+00:07:564 Accept: Node 3 Data Send Request To Node 1
+00:07:569 Node 3 Send Finished To Node 1
+00:07:573 Node 3 Send Request To Node 2
+00:07:573 Accept: Node 3 Data Send Request To Node 2
+00:07:577 Node 4 Send Request To Node 2
+00:07:577 Reject: Node 4 Data Send Request To Node 2
+00:07:578 Node 3 Send Finished To Node 2
+00:07:582 Node 3 Send Request To Node 2
+00:07:582 Accept: Node 3 Data Send Request To Node 2
+00:07:586 Node 2 Send Request To Node 1
+00:07:586 Reject: Node 2 Data Send Request To Node 1
+00:07:587 Node 3 Send Finished To Node 2
+00:07:595 Node 1 Send Request To Node 3
+00:07:595 Accept: Node 1 Data Send Request To Node 3
+00:07:600 Node 1 Send Finished To Node 3
+00:07:601 Node 4 Send Request To Node 3
+00:07:601 Accept: Node 4 Data Send Request To Node 3
+00:07:606 Node 4 Send Finished To Node 3
+00:07:607 Node 2 Send Request To Node 3
+00:07:607 Accept: Node 2 Data Send Request To Node 3
+00:07:610 Node 4 Send Request To Node 1
+00:07:610 Reject: Node 4 Data Send Request To Node 1
+00:07:612 Node 2 Send Finished To Node 3
+00:07:611 Node 1 Send Request To Node 2
+00:07:611 Accept: Node 1 Data Send Request To Node 2
+00:07:616 Node 1 Send Finished To Node 2
+00:07:623 Node 3 Send Request To Node 1
+00:07:623 Accept: Node 3 Data Send Request To Node 1
+00:07:628 Node 3 Send Finished To Node 1
+00:07:630 Node 2 Send Request To Node 1
+00:07:630 Accept: Node 2 Data Send Request To Node 1
+00:07:632 Node 4 Send Request To Node 2
+00:07:632 Reject: Node 4 Data Send Request To Node 2
+00:07:635 Node 2 Send Finished To Node 1
+00:07:641 Node 3 Send Request To Node 2
+00:07:641 Accept: Node 3 Data Send Request To Node 2
+00:07:646 Node 3 Send Finished To Node 2
+00:07:647 Node 1 Send Request To Node 2
+00:07:647 Accept: Node 1 Data Send Request To Node 2
+00:07:652 Node 1 Send Finished To Node 2
+00:07:657 Node 2 Send Request To Node 1
+00:07:657 Accept: Node 2 Data Send Request To Node 1
+00:07:662 Node 2 Send Finished To Node 1
+00:07:664 Node 1 Send Request To Node 2
+00:07:664 Accept: Node 1 Data Send Request To Node 2
+00:07:669 Node 1 Send Finished To Node 2
+00:07:668 Node 1 Send Request To Node 3
+00:07:668 Accept: Node 1 Data Send Request To Node 3
+00:07:673 Node 1 Send Finished To Node 3
+00:07:672 Node 1 Send Request To Node 2
+00:07:672 Accept: Node 1 Data Send Request To Node 2
+00:07:677 Node 1 Send Finished To Node 2
+00:07:677 Node 4 Send Request To Node 1
+00:07:677 Accept: Node 4 Data Send Request To Node 1
+00:07:679 Node 3 Send Request To Node 1
+00:07:679 Reject: Node 3 Data Send Request To Node 1
+00:07:682 Node 4 Send Finished To Node 1
+00:07:693 Node 1 Send Request To Node 3
+00:07:693 Accept: Node 1 Data Send Request To Node 3
+00:07:698 Node 1 Send Finished To Node 3
+00:07:700 Node 3 Send Request To Node 1
+00:07:700 Accept: Node 3 Data Send Request To Node 1
+00:07:702 Node 4 Send Request To Node 1
+00:07:702 Reject: Node 4 Data Send Request To Node 1
+00:07:703 Node 2 Send Request To Node 3
+00:07:703 Reject: Node 2 Data Send Request To Node 3
+00:07:705 Node 3 Send Finished To Node 1
+00:07:706 Node 1 Send Request To Node 3
+00:07:706 Node 3 Send Request To Node 2
+00:07:706 Accept: Node 1 Data Send Request To Node 3
+00:07:706 Reject: Node 3 Data Send Request To Node 2
+00:07:710 Node 3 Send Request To Node 2
+00:07:710 Reject: Node 3 Data Send Request To Node 2
+00:07:711 Node 1 Send Finished To Node 3
+00:07:711 Node 1 Send Request To Node 3
+00:07:711 Accept: Node 1 Data Send Request To Node 3
+00:07:716 Node 1 Send Finished To Node 3
+00:07:726 Node 4 Send Request To Node 2
+00:07:726 Accept: Node 4 Data Send Request To Node 2
+00:07:726 Node 1 Send Request To Node 3
+00:07:726 Reject: Node 1 Data Send Request To Node 3
+00:07:731 Node 4 Send Finished To Node 2
+00:07:740 Node 3 Send Request To Node 1
+00:07:740 Accept: Node 3 Data Send Request To Node 1
+00:07:745 Node 3 Send Finished To Node 1
+00:07:751 Node 2 Send Request To Node 3
+00:07:751 Accept: Node 2 Data Send Request To Node 3
+00:07:756 Node 2 Send Finished To Node 3
+00:07:755 Node 2 Send Request To Node 3
+00:07:755 Accept: Node 2 Data Send Request To Node 3
+00:07:760 Node 2 Send Finished To Node 3
+00:07:761 Node 4 Send Request To Node 2
+00:07:761 Accept: Node 4 Data Send Request To Node 2
+00:07:763 Node 1 Send Request To Node 3
+00:07:763 Reject: Node 1 Data Send Request To Node 3
+00:07:764 Node 2 Send Request To Node 3
+00:07:764 Reject: Node 2 Data Send Request To Node 3
+00:07:766 Node 4 Send Finished To Node 2
+00:07:769 Node 3 Send Request To Node 1
+00:07:769 Accept: Node 3 Data Send Request To Node 1
+00:07:774 Node 3 Send Finished To Node 1
+00:07:785 Node 1 Send Request To Node 2
+00:07:785 Accept: Node 1 Data Send Request To Node 2
+00:07:790 Node 1 Send Finished To Node 2
+00:07:806 Node 3 Send Request To Node 2
+00:07:806 Accept: Node 3 Data Send Request To Node 2
+00:07:809 Node 2 Send Request To Node 1
+00:07:809 Node 4 Send Request To Node 1
+00:07:809 Reject: Node 2 Data Send Request To Node 1
+00:07:809 Reject: Node 4 Data Send Request To Node 1
+00:07:811 Node 3 Send Finished To Node 2
+00:07:811 Node 1 Send Request To Node 3
+00:07:811 Accept: Node 1 Data Send Request To Node 3
+00:07:816 Node 1 Send Finished To Node 3
+00:07:829 Node 4 Send Request To Node 1
+00:07:829 Accept: Node 4 Data Send Request To Node 1
+00:07:834 Node 4 Send Finished To Node 1
+00:07:838 Node 4 Send Request To Node 2
+00:07:838 Accept: Node 4 Data Send Request To Node 2
+00:07:843 Node 4 Send Finished To Node 2
+00:07:843 Node 3 Send Request To Node 1
+00:07:843 Accept: Node 3 Data Send Request To Node 1
+00:07:848 Node 3 Send Finished To Node 1
+00:07:848 Node 2 Send Request To Node 1
+00:07:848 Accept: Node 2 Data Send Request To Node 1
+00:07:853 Node 2 Send Finished To Node 1
+00:07:854 Node 4 Send Request To Node 3
+00:07:854 Accept: Node 4 Data Send Request To Node 3
+00:07:859 Node 4 Send Finished To Node 3
+00:07:859 Node 1 Send Request To Node 2
+00:07:859 Accept: Node 1 Data Send Request To Node 2
+00:07:864 Node 1 Send Finished To Node 2
+00:07:863 Node 1 Send Request To Node 2
+00:07:863 Accept: Node 1 Data Send Request To Node 2
+00:07:866 Node 2 Send Request To Node 3
+00:07:866 Reject: Node 2 Data Send Request To Node 3
+00:07:868 Node 1 Send Finished To Node 2
+00:07:875 Node 4 Send Request To Node 3
+00:07:875 Accept: Node 4 Data Send Request To Node 3
+00:07:880 Node 4 Send Finished To Node 3
+00:07:884 Node 3 Send Request To Node 2
+00:07:884 Accept: Node 3 Data Send Request To Node 2
+00:07:889 Node 3 Send Finished To Node 2
+00:07:892 Node 4 Send Request To Node 3
+00:07:892 Accept: Node 4 Data Send Request To Node 3
+00:07:894 Node 1 Send Request To Node 2
+00:07:894 Reject: Node 1 Data Send Request To Node 2
+00:07:897 Node 4 Send Finished To Node 3
+00:07:913 Node 2 Send Request To Node 3
+00:07:913 Accept: Node 2 Data Send Request To Node 3
+00:07:918 Node 2 Send Finished To Node 3
+00:07:917 Node 3 Send Request To Node 1
+00:07:917 Accept: Node 3 Data Send Request To Node 1
+00:07:922 Node 3 Send Finished To Node 1
+00:07:921 Node 1 Send Request To Node 2
+00:07:921 Accept: Node 1 Data Send Request To Node 2
+00:07:923 Node 4 Send Request To Node 2
+00:07:923 Reject: Node 4 Data Send Request To Node 2
+00:07:926 Node 1 Send Finished To Node 2
+00:07:930 Node 1 Send Request To Node 3
+00:07:930 Accept: Node 1 Data Send Request To Node 3
+00:07:935 Node 1 Send Finished To Node 3
+00:07:936 Node 4 Send Request To Node 2
+00:07:936 Accept: Node 4 Data Send Request To Node 2
+00:07:941 Node 4 Send Finished To Node 2
+00:07:941 Node 4 Send Request To Node 2
+00:07:941 Accept: Node 4 Data Send Request To Node 2
+00:07:946 Node 4 Send Finished To Node 2
+00:07:950 Node 1 Send Request To Node 3
+00:07:950 Accept: Node 1 Data Send Request To Node 3
+00:07:953 Node 4 Send Request To Node 3
+00:07:953 Reject: Node 4 Data Send Request To Node 3
+00:07:955 Node 1 Send Finished To Node 3
+00:07:956 Node 2 Send Request To Node 1
+00:07:956 Accept: Node 2 Data Send Request To Node 1
+00:07:961 Node 2 Send Finished To Node 1
+00:07:963 Node 2 Send Request To Node 1
+00:07:963 Accept: Node 2 Data Send Request To Node 1
+00:07:966 Node 3 Send Request To Node 1
+00:07:966 Reject: Node 3 Data Send Request To Node 1
+00:07:966 Node 3 Send Request To Node 1
+00:07:966 Reject: Node 3 Data Send Request To Node 1
+00:07:968 Node 2 Send Finished To Node 1
+00:07:970 Node 2 Send Request To Node 1
+00:07:970 Accept: Node 2 Data Send Request To Node 1
+00:07:972 Node 4 Send Request To Node 2
+00:07:972 Reject: Node 4 Data Send Request To Node 2
+00:07:975 Node 2 Send Finished To Node 1
+00:07:979 Node 1 Send Request To Node 2
+00:07:979 Accept: Node 1 Data Send Request To Node 2
+00:07:984 Node 1 Send Finished To Node 2
+00:07:984 Node 2 Send Request To Node 3
+00:07:984 Accept: Node 2 Data Send Request To Node 3
+00:07:989 Node 2 Send Finished To Node 3
+00:07:991 Node 3 Send Request To Node 1
+00:07:991 Accept: Node 3 Data Send Request To Node 1
+00:07:996 Node 3 Send Finished To Node 1
+00:07:996 Node 4 Send Request To Node 2
+00:07:996 Accept: Node 4 Data Send Request To Node 2
+00:08:001 Node 4 Send Finished To Node 2
+00:08:002 Node 4 Send Request To Node 1
+00:08:002 Accept: Node 4 Data Send Request To Node 1
+00:08:003 Node 1 Send Request To Node 3
+00:08:003 Reject: Node 1 Data Send Request To Node 3
+00:08:007 Node 4 Send Finished To Node 1
+00:08:008 Node 2 Send Request To Node 1
+00:08:008 Accept: Node 2 Data Send Request To Node 1
+00:08:011 Node 3 Send Request To Node 1
+00:08:011 Reject: Node 3 Data Send Request To Node 1
+00:08:013 Node 2 Send Finished To Node 1
+00:08:025 Node 4 Send Request To Node 2
+00:08:025 Accept: Node 4 Data Send Request To Node 2
+00:08:029 Node 1 Send Request To Node 2
+00:08:029 Reject: Node 1 Data Send Request To Node 2
+00:08:030 Node 4 Send Finished To Node 2
+00:08:035 Node 1 Send Request To Node 3
+00:08:035 Accept: Node 1 Data Send Request To Node 3
+00:08:040 Node 1 Send Finished To Node 3
+00:08:040 Node 2 Send Request To Node 1
+00:08:040 Accept: Node 2 Data Send Request To Node 1
+00:08:045 Node 2 Send Finished To Node 1
+00:08:052 Node 3 Send Request To Node 2
+00:08:052 Accept: Node 3 Data Send Request To Node 2
+00:08:057 Node 3 Send Finished To Node 2
+00:08:061 Node 1 Send Request To Node 3
+00:08:061 Accept: Node 1 Data Send Request To Node 3
+00:08:066 Node 1 Send Finished To Node 3
+00:08:070 Node 2 Send Request To Node 3
+00:08:070 Accept: Node 2 Data Send Request To Node 3
+00:08:073 Node 4 Send Request To Node 1
+00:08:073 Reject: Node 4 Data Send Request To Node 1
+00:08:075 Node 2 Send Finished To Node 3
+00:08:081 Node 1 Send Request To Node 3
+00:08:081 Accept: Node 1 Data Send Request To Node 3
+00:08:086 Node 3 Send Request To Node 2
+00:08:086 Reject: Node 3 Data Send Request To Node 2
+00:08:086 Node 1 Send Finished To Node 3
+00:08:112 Node 2 Send Request To Node 3
+00:08:112 Accept: Node 2 Data Send Request To Node 3
+00:08:114 Node 4 Send Request To Node 1
+00:08:114 Reject: Node 4 Data Send Request To Node 1
+00:08:117 Node 2 Send Finished To Node 3
+00:08:116 Node 3 Send Request To Node 2
+00:08:116 Accept: Node 3 Data Send Request To Node 2
+00:08:118 Node 4 Send Request To Node 2
+00:08:118 Reject: Node 4 Data Send Request To Node 2
+00:08:121 Node 3 Send Finished To Node 2
+00:08:122 Node 4 Send Request To Node 1
+00:08:122 Accept: Node 4 Data Send Request To Node 1
+00:08:127 Node 4 Send Finished To Node 1
+00:08:132 Node 1 Send Request To Node 3
+00:08:132 Accept: Node 1 Data Send Request To Node 3
+00:08:137 Node 1 Send Finished To Node 3
+00:08:137 Node 3 Send Request To Node 1
+00:08:137 Accept: Node 3 Data Send Request To Node 1
+00:08:142 Node 3 Send Finished To Node 1
+00:08:144 Node 4 Send Request To Node 2
+00:08:144 Accept: Node 4 Data Send Request To Node 2
+00:08:149 Node 4 Send Finished To Node 2
+00:08:149 Node 2 Send Request To Node 1
+00:08:149 Accept: Node 2 Data Send Request To Node 1
+00:08:154 Node 2 Send Finished To Node 1
+00:08:168 Node 4 Send Request To Node 2
+00:08:168 Accept: Node 4 Data Send Request To Node 2
+00:08:173 Node 4 Send Finished To Node 2
+00:08:175 Node 2 Send Request To Node 3
+00:08:175 Accept: Node 2 Data Send Request To Node 3
+00:08:177 Node 1 Send Request To Node 3
+00:08:177 Reject: Node 1 Data Send Request To Node 3
+00:08:179 Node 3 Send Request To Node 1
+00:08:179 Reject: Node 3 Data Send Request To Node 1
+00:08:180 Node 2 Send Finished To Node 3
+00:08:185 Node 4 Send Request To Node 1
+00:08:185 Accept: Node 4 Data Send Request To Node 1
+00:08:190 Node 4 Send Finished To Node 1
+00:08:204 Node 1 Send Request To Node 3
+00:08:204 Accept: Node 1 Data Send Request To Node 3
+00:08:209 Node 1 Send Finished To Node 3
+00:08:214 Node 4 Send Request To Node 2
+00:08:214 Accept: Node 4 Data Send Request To Node 2
+00:08:219 Node 1 Send Request To Node 3
+00:08:219 Reject: Node 1 Data Send Request To Node 3
+00:08:219 Node 4 Send Finished To Node 2
+00:08:220 Node 4 Send Request To Node 3
+00:08:220 Accept: Node 4 Data Send Request To Node 3
+00:08:222 Node 2 Send Request To Node 1
+00:08:222 Reject: Node 2 Data Send Request To Node 1
+00:08:225 Node 4 Send Finished To Node 3
+00:08:228 Node 3 Send Request To Node 1
+00:08:228 Accept: Node 3 Data Send Request To Node 1
+00:08:233 Node 3 Send Finished To Node 1
+00:08:237 Node 3 Send Request To Node 2
+00:08:237 Accept: Node 3 Data Send Request To Node 2
+00:08:239 Node 4 Send Request To Node 1
+00:08:239 Reject: Node 4 Data Send Request To Node 1
+00:08:242 Node 3 Send Finished To Node 2
+00:08:243 Node 1 Send Request To Node 2
+00:08:243 Accept: Node 1 Data Send Request To Node 2
+00:08:248 Node 1 Send Finished To Node 2
+00:08:252 Node 3 Send Request To Node 2
+00:08:252 Accept: Node 3 Data Send Request To Node 2
+00:08:257 Node 3 Send Finished To Node 2
+00:08:258 Node 2 Send Request To Node 3
+00:08:258 Accept: Node 2 Data Send Request To Node 3
+00:08:263 Node 2 Send Finished To Node 3
+00:08:277 Node 1 Send Request To Node 3
+00:08:277 Accept: Node 1 Data Send Request To Node 3
+00:08:282 Node 1 Send Finished To Node 3
+00:08:286 Node 4 Send Request To Node 3
+00:08:286 Accept: Node 4 Data Send Request To Node 3
+00:08:291 Node 4 Send Finished To Node 3
+00:08:292 Node 2 Send Request To Node 3
+00:08:292 Accept: Node 2 Data Send Request To Node 3
+00:08:294 Node 1 Send Request To Node 2
+00:08:294 Reject: Node 1 Data Send Request To Node 2
+00:08:297 Node 2 Send Finished To Node 3
+00:08:300 Node 3 Send Request To Node 1
+00:08:300 Accept: Node 3 Data Send Request To Node 1
+00:08:305 Node 3 Send Finished To Node 1
+00:08:309 Node 1 Send Request To Node 2
+00:08:309 Accept: Node 1 Data Send Request To Node 2
+00:08:314 Node 1 Send Finished To Node 2
+00:08:323 Node 4 Send Request To Node 2
+00:08:323 Accept: Node 4 Data Send Request To Node 2
+00:08:328 Node 4 Send Finished To Node 2
+00:08:332 Node 3 Send Request To Node 1
+00:08:332 Node 2 Send Request To Node 1
+00:08:332 Accept: Node 3 Data Send Request To Node 1
+00:08:332 Reject: Node 2 Data Send Request To Node 1
+00:08:337 Node 3 Send Finished To Node 1
+00:08:336 Node 3 Send Request To Node 2
+00:08:336 Accept: Node 3 Data Send Request To Node 2
+00:08:341 Node 3 Send Finished To Node 2
+00:08:342 Node 2 Send Request To Node 1
+00:08:342 Node 4 Send Request To Node 2
+00:08:342 Accept: Node 2 Data Send Request To Node 1
+00:08:342 Reject: Node 4 Data Send Request To Node 2
+00:08:347 Node 2 Send Finished To Node 1
+00:08:354 Node 2 Send Request To Node 1
+00:08:354 Node 1 Send Request To Node 3
+00:08:354 Reject: Node 1 Data Send Request To Node 3
+00:08:354 Accept: Node 2 Data Send Request To Node 1
+00:08:357 Node 4 Send Request To Node 2
+00:08:357 Reject: Node 4 Data Send Request To Node 2
+00:08:359 Node 2 Send Finished To Node 1
+00:08:358 Node 2 Send Request To Node 1
+00:08:358 Accept: Node 2 Data Send Request To Node 1
+00:08:363 Node 2 Send Finished To Node 1
+00:08:369 Node 4 Send Request To Node 1
+00:08:369 Accept: Node 4 Data Send Request To Node 1
+00:08:370 Node 2 Send Request To Node 3
+00:08:370 Reject: Node 2 Data Send Request To Node 3
+00:08:374 Node 4 Send Finished To Node 1
+00:08:379 Node 1 Send Request To Node 3
+00:08:379 Accept: Node 1 Data Send Request To Node 3
+00:08:382 Node 3 Send Request To Node 1
+00:08:382 Reject: Node 3 Data Send Request To Node 1
+00:08:384 Node 1 Send Finished To Node 3
+00:08:393 Node 2 Send Request To Node 3
+00:08:393 Accept: Node 2 Data Send Request To Node 3
+00:08:398 Node 2 Send Finished To Node 3
+00:08:400 Node 1 Send Request To Node 2
+00:08:400 Accept: Node 1 Data Send Request To Node 2
+00:08:405 Node 1 Send Finished To Node 2
+00:08:418 Node 3 Send Request To Node 2
+00:08:418 Accept: Node 3 Data Send Request To Node 2
+00:08:419 Node 4 Send Request To Node 1
+00:08:419 Reject: Node 4 Data Send Request To Node 1
+00:08:423 Node 3 Send Finished To Node 2
+00:08:432 Node 4 Send Request To Node 3
+00:08:432 Accept: Node 4 Data Send Request To Node 3
+00:08:437 Node 4 Send Finished To Node 3
+00:08:436 Node 2 Send Request To Node 3
+00:08:436 Accept: Node 2 Data Send Request To Node 3
+00:08:441 Node 2 Send Finished To Node 3
+00:08:445 Node 1 Send Request To Node 3
+00:08:445 Accept: Node 1 Data Send Request To Node 3
+00:08:448 Node 3 Send Request To Node 1
+00:08:448 Reject: Node 3 Data Send Request To Node 1
+00:08:450 Node 1 Send Finished To Node 3
+00:08:449 Node 1 Send Request To Node 3
+00:08:449 Accept: Node 1 Data Send Request To Node 3
+00:08:454 Node 1 Send Finished To Node 3
+00:08:456 Node 1 Send Request To Node 2
+00:08:456 Accept: Node 1 Data Send Request To Node 2
+00:08:460 Node 3 Send Request To Node 1
+00:08:460 Reject: Node 3 Data Send Request To Node 1
+00:08:461 Node 4 Send Request To Node 3
+00:08:461 Reject: Node 4 Data Send Request To Node 3
+00:08:461 Node 1 Send Finished To Node 2
+00:08:463 Node 1 Send Request To Node 3
+00:08:463 Accept: Node 1 Data Send Request To Node 3
+00:08:468 Node 1 Send Finished To Node 3
+00:08:475 Node 2 Send Request To Node 3
+00:08:475 Node 3 Send Request To Node 2
+00:08:475 Accept: Node 2 Data Send Request To Node 3
+00:08:475 Reject: Node 3 Data Send Request To Node 2
+00:08:480 Node 2 Send Finished To Node 3
+00:08:497 Node 4 Send Request To Node 3
+00:08:497 Accept: Node 4 Data Send Request To Node 3
+00:08:502 Node 4 Send Finished To Node 3
+00:08:506 Node 2 Send Request To Node 1
+00:08:506 Accept: Node 2 Data Send Request To Node 1
+00:08:508 Node 1 Send Request To Node 2
+00:08:508 Reject: Node 1 Data Send Request To Node 2
+00:08:511 Node 2 Send Finished To Node 1
+00:08:515 Node 3 Send Request To Node 2
+00:08:515 Accept: Node 3 Data Send Request To Node 2
+00:08:520 Node 3 Send Finished To Node 2
+00:08:527 Node 4 Send Request To Node 2
+00:08:527 Node 2 Send Request To Node 1
+00:08:527 Accept: Node 4 Data Send Request To Node 2
+00:08:527 Reject: Node 2 Data Send Request To Node 1
+00:08:532 Node 4 Send Finished To Node 2
+00:08:534 Node 2 Send Request To Node 3
+00:08:534 Accept: Node 2 Data Send Request To Node 3
+00:08:539 Node 2 Send Finished To Node 3
+00:08:541 Node 2 Send Request To Node 3
+00:08:541 Accept: Node 2 Data Send Request To Node 3
+00:08:544 Node 4 Send Request To Node 2
+00:08:544 Reject: Node 4 Data Send Request To Node 2
+00:08:546 Node 2 Send Finished To Node 3
+00:08:546 Node 2 Send Request To Node 1
+00:08:546 Accept: Node 2 Data Send Request To Node 1
+00:08:548 Node 1 Send Request To Node 2
+00:08:548 Reject: Node 1 Data Send Request To Node 2
+00:08:551 Node 2 Send Finished To Node 1
+00:08:559 Node 3 Send Request To Node 1
+00:08:559 Accept: Node 3 Data Send Request To Node 1
+00:08:562 Node 2 Send Request To Node 1
+00:08:562 Reject: Node 2 Data Send Request To Node 1
+00:08:563 Node 4 Send Request To Node 3
+00:08:563 Reject: Node 4 Data Send Request To Node 3
+00:08:564 Node 3 Send Finished To Node 1
+00:08:572 Node 3 Send Request To Node 1
+00:08:572 Accept: Node 3 Data Send Request To Node 1
+00:08:577 Node 3 Send Finished To Node 1
+00:08:579 Node 2 Send Request To Node 1
+00:08:579 Accept: Node 2 Data Send Request To Node 1
+00:08:584 Node 2 Send Finished To Node 1
+00:08:588 Node 1 Send Request To Node 3
+00:08:588 Accept: Node 1 Data Send Request To Node 3
+00:08:593 Node 1 Send Finished To Node 3
+00:08:594 Node 2 Send Request To Node 1
+00:08:594 Accept: Node 2 Data Send Request To Node 1
+00:08:599 Node 2 Send Finished To Node 1
+00:08:604 Node 3 Send Request To Node 2
+00:08:604 Accept: Node 3 Data Send Request To Node 2
+00:08:609 Node 3 Send Finished To Node 2
+00:08:612 Node 4 Send Request To Node 1
+00:08:612 Accept: Node 4 Data Send Request To Node 1
+00:08:613 Node 3 Send Request To Node 2
+00:08:613 Reject: Node 3 Data Send Request To Node 2
+00:08:617 Node 4 Send Finished To Node 1
+00:08:617 Node 2 Send Request To Node 3
+00:08:617 Accept: Node 2 Data Send Request To Node 3
+00:08:622 Node 2 Send Finished To Node 3
+00:08:625 Node 1 Send Request To Node 3
+00:08:625 Accept: Node 1 Data Send Request To Node 3
+00:08:630 Node 1 Send Finished To Node 3
+00:08:633 Node 1 Send Request To Node 2
+00:08:633 Accept: Node 1 Data Send Request To Node 2
+00:08:635 Node 4 Send Request To Node 1
+00:08:635 Reject: Node 4 Data Send Request To Node 1
+00:08:638 Node 2 Send Request To Node 1
+00:08:638 Reject: Node 2 Data Send Request To Node 1
+00:08:638 Node 1 Send Finished To Node 2
+00:08:639 Node 2 Send Request To Node 3
+00:08:639 Accept: Node 2 Data Send Request To Node 3
+00:08:641 Node 1 Send Request To Node 3
+00:08:641 Reject: Node 1 Data Send Request To Node 3
+00:08:644 Node 2 Send Finished To Node 3
+00:08:655 Node 4 Send Request To Node 1
+00:08:655 Accept: Node 4 Data Send Request To Node 1
+00:08:660 Node 3 Send Request To Node 1
+00:08:660 Reject: Node 3 Data Send Request To Node 1
+00:08:660 Node 4 Send Finished To Node 1
+00:08:661 Node 4 Send Request To Node 1
+00:08:661 Accept: Node 4 Data Send Request To Node 1
+00:08:666 Node 4 Send Finished To Node 1
+00:08:669 Node 1 Send Request To Node 2
+00:08:669 Accept: Node 1 Data Send Request To Node 2
+00:08:674 Node 1 Send Finished To Node 2
+00:08:682 Node 3 Send Request To Node 1
+00:08:682 Accept: Node 3 Data Send Request To Node 1
+00:08:683 Node 2 Send Request To Node 3
+00:08:683 Reject: Node 2 Data Send Request To Node 3
+00:08:686 Node 1 Send Request To Node 2
+00:08:686 Reject: Node 1 Data Send Request To Node 2
+00:08:687 Node 3 Send Finished To Node 1
+00:08:693 Node 3 Send Request To Node 1
+00:08:693 Accept: Node 3 Data Send Request To Node 1
+00:08:696 Node 1 Send Request To Node 3
+00:08:696 Reject: Node 1 Data Send Request To Node 3
+00:08:698 Node 3 Send Finished To Node 1
+00:08:705 Node 4 Send Request To Node 2
+00:08:705 Accept: Node 4 Data Send Request To Node 2
+00:08:710 Node 4 Send Finished To Node 2
+00:08:725 Node 4 Send Request To Node 3
+00:08:725 Node 3 Send Request To Node 1
+00:08:725 Accept: Node 4 Data Send Request To Node 3
+00:08:725 Reject: Node 3 Data Send Request To Node 1
+00:08:727 Node 2 Send Request To Node 3
+00:08:727 Reject: Node 2 Data Send Request To Node 3
+00:08:730 Node 4 Send Finished To Node 3
+00:08:743 Node 1 Send Request To Node 2
+00:08:743 Accept: Node 1 Data Send Request To Node 2
+00:08:748 Node 1 Send Finished To Node 2
+00:08:756 Node 2 Send Request To Node 1
+00:08:756 Accept: Node 2 Data Send Request To Node 1
+00:08:761 Node 2 Send Finished To Node 1
+00:08:760 Node 4 Send Request To Node 2
+00:08:760 Accept: Node 4 Data Send Request To Node 2
+00:08:765 Node 4 Send Finished To Node 2
+00:08:769 Node 1 Send Request To Node 3
+00:08:769 Accept: Node 1 Data Send Request To Node 3
+00:08:774 Node 1 Send Finished To Node 3
+00:08:775 Node 3 Send Request To Node 1
+00:08:775 Accept: Node 3 Data Send Request To Node 1
+00:08:780 Node 3 Send Finished To Node 1
+00:08:789 Node 1 Send Request To Node 2
+00:08:789 Accept: Node 1 Data Send Request To Node 2
+00:08:794 Node 1 Send Finished To Node 2
+00:08:793 Node 4 Send Request To Node 2
+00:08:793 Accept: Node 4 Data Send Request To Node 2
+00:08:798 Node 4 Send Finished To Node 2
+00:08:803 Node 2 Send Request To Node 1
+00:08:803 Accept: Node 2 Data Send Request To Node 1
+00:08:808 Node 2 Send Finished To Node 1
+00:08:809 Node 2 Send Request To Node 1
+00:08:809 Accept: Node 2 Data Send Request To Node 1
+00:08:814 Node 2 Send Finished To Node 1
+00:08:820 Node 3 Send Request To Node 2
+00:08:820 Accept: Node 3 Data Send Request To Node 2
+00:08:825 Node 3 Send Finished To Node 2
+00:08:827 Node 3 Send Request To Node 1
+00:08:827 Accept: Node 3 Data Send Request To Node 1
+00:08:832 Node 3 Send Finished To Node 1
+00:08:835 Node 4 Send Request To Node 1
+00:08:835 Node 1 Send Request To Node 2
+00:08:835 Accept: Node 4 Data Send Request To Node 1
+00:08:835 Reject: Node 1 Data Send Request To Node 2
+00:08:840 Node 2 Send Request To Node 3
+00:08:840 Reject: Node 2 Data Send Request To Node 3
+00:08:840 Node 4 Send Finished To Node 1
+00:08:850 Node 2 Send Request To Node 3
+00:08:850 Accept: Node 2 Data Send Request To Node 3
+00:08:854 Node 3 Send Request To Node 1
+00:08:854 Reject: Node 3 Data Send Request To Node 1
+00:08:855 Node 2 Send Finished To Node 3
+00:08:882 Node 1 Send Request To Node 2
+00:08:882 Accept: Node 1 Data Send Request To Node 2
+00:08:883 Node 3 Send Request To Node 2
+00:08:883 Node 4 Send Request To Node 2
+00:08:883 Reject: Node 3 Data Send Request To Node 2
+00:08:883 Reject: Node 4 Data Send Request To Node 2
+00:08:887 Node 1 Send Finished To Node 2
+00:08:893 Node 2 Send Request To Node 3
+00:08:893 Accept: Node 2 Data Send Request To Node 3
+00:08:898 Node 2 Send Finished To Node 3
+00:08:900 Node 3 Send Request To Node 1
+00:08:900 Accept: Node 3 Data Send Request To Node 1
+00:08:905 Node 3 Send Finished To Node 1
+00:08:907 Node 4 Send Request To Node 2
+00:08:907 Accept: Node 4 Data Send Request To Node 2
+00:08:912 Node 4 Send Finished To Node 2
+00:08:913 Node 1 Send Request To Node 2
+00:08:913 Accept: Node 1 Data Send Request To Node 2
+00:08:915 Node 2 Send Request To Node 1
+00:08:915 Reject: Node 2 Data Send Request To Node 1
+00:08:918 Node 1 Send Finished To Node 2
+00:08:928 Node 3 Send Request To Node 1
+00:08:928 Accept: Node 3 Data Send Request To Node 1
+00:08:933 Node 3 Send Finished To Node 1
+00:08:932 Node 4 Send Request To Node 1
+00:08:932 Accept: Node 4 Data Send Request To Node 1
+00:08:935 Node 1 Send Request To Node 2
+00:08:935 Reject: Node 1 Data Send Request To Node 2
+00:08:937 Node 4 Send Finished To Node 1
+00:08:951 Node 2 Send Request To Node 3
+00:08:951 Accept: Node 2 Data Send Request To Node 3
+00:08:956 Node 2 Send Finished To Node 3
+00:08:967 Node 4 Send Request To Node 3
+00:08:967 Accept: Node 4 Data Send Request To Node 3
+00:08:972 Node 4 Send Finished To Node 3
+00:08:971 Node 1 Send Request To Node 2
+00:08:971 Accept: Node 1 Data Send Request To Node 2
+00:08:976 Node 1 Send Finished To Node 2
+00:08:977 Node 2 Send Request To Node 1
+00:08:977 Node 3 Send Request To Node 1
+00:08:977 Accept: Node 2 Data Send Request To Node 1
+00:08:977 Reject: Node 3 Data Send Request To Node 1
+00:08:979 Node 4 Send Request To Node 3
+00:08:979 Reject: Node 4 Data Send Request To Node 3
+00:08:982 Node 2 Send Finished To Node 1
+00:08:994 Node 4 Send Request To Node 1
+00:08:994 Accept: Node 4 Data Send Request To Node 1
+00:08:999 Node 4 Send Finished To Node 1
+00:09:005 Node 3 Send Request To Node 2
+00:09:005 Accept: Node 3 Data Send Request To Node 2
+00:09:007 Node 2 Send Request To Node 1
+00:09:007 Reject: Node 2 Data Send Request To Node 1
+00:09:010 Node 3 Send Finished To Node 2
+00:09:013 Node 2 Send Request To Node 3
+00:09:013 Accept: Node 2 Data Send Request To Node 3
+00:09:015 Node 1 Send Request To Node 3
+00:09:015 Reject: Node 1 Data Send Request To Node 3
+00:09:018 Node 2 Send Finished To Node 3
+00:09:018 Node 2 Send Request To Node 1
+00:09:018 Accept: Node 2 Data Send Request To Node 1
+00:09:019 Node 1 Send Request To Node 2
+00:09:019 Reject: Node 1 Data Send Request To Node 2
+00:09:023 Node 2 Send Finished To Node 1
+00:09:026 Node 1 Send Request To Node 2
+00:09:026 Accept: Node 1 Data Send Request To Node 2
+00:09:031 Node 1 Send Finished To Node 2
+00:09:033 Node 4 Send Request To Node 3
+00:09:033 Accept: Node 4 Data Send Request To Node 3
+00:09:038 Node 4 Send Finished To Node 3
+00:09:040 Node 1 Send Request To Node 3
+00:09:040 Accept: Node 1 Data Send Request To Node 3
+00:09:042 Node 3 Send Request To Node 2
+00:09:042 Reject: Node 3 Data Send Request To Node 2
+00:09:045 Node 1 Send Finished To Node 3
+00:09:053 Node 2 Send Request To Node 3
+00:09:053 Accept: Node 2 Data Send Request To Node 3
+00:09:058 Node 2 Send Finished To Node 3
+00:09:057 Node 4 Send Request To Node 2
+00:09:057 Accept: Node 4 Data Send Request To Node 2
+00:09:062 Node 4 Send Finished To Node 2
+00:09:063 Node 2 Send Request To Node 1
+00:09:063 Accept: Node 2 Data Send Request To Node 1
+00:09:068 Node 2 Send Finished To Node 1
+00:09:067 Node 4 Send Request To Node 1
+00:09:067 Accept: Node 4 Data Send Request To Node 1
+00:09:072 Node 4 Send Finished To Node 1
+00:09:075 Node 1 Send Request To Node 3
+00:09:075 Accept: Node 1 Data Send Request To Node 3
+00:09:080 Node 1 Send Finished To Node 3
+00:09:080 Node 3 Send Request To Node 1
+00:09:080 Accept: Node 3 Data Send Request To Node 1
+00:09:085 Node 3 Send Finished To Node 1
+00:09:092 Node 1 Send Request To Node 2
+00:09:092 Accept: Node 1 Data Send Request To Node 2
+00:09:093 Node 3 Send Request To Node 1
+00:09:093 Reject: Node 3 Data Send Request To Node 1
+00:09:095 Node 2 Send Request To Node 1
+00:09:095 Reject: Node 2 Data Send Request To Node 1
+00:09:097 Node 1 Send Finished To Node 2
+00:09:111 Node 4 Send Request To Node 1
+00:09:111 Accept: Node 4 Data Send Request To Node 1
+00:09:116 Node 4 Send Finished To Node 1
+00:09:129 Node 3 Send Request To Node 1
+00:09:129 Accept: Node 3 Data Send Request To Node 1
+00:09:134 Node 1 Send Request To Node 2
+00:09:134 Reject: Node 1 Data Send Request To Node 2
+00:09:134 Node 3 Send Finished To Node 1
+00:09:141 Node 3 Send Request To Node 2
+00:09:141 Accept: Node 3 Data Send Request To Node 2
+00:09:146 Node 3 Send Finished To Node 2
+00:09:145 Node 3 Send Request To Node 1
+00:09:145 Accept: Node 3 Data Send Request To Node 1
+00:09:146 Node 2 Send Request To Node 1
+00:09:146 Reject: Node 2 Data Send Request To Node 1
+00:09:150 Node 3 Send Finished To Node 1
+00:09:157 Node 4 Send Request To Node 2
+00:09:157 Accept: Node 4 Data Send Request To Node 2
+00:09:162 Node 4 Send Finished To Node 2
+00:09:170 Node 3 Send Request To Node 1
+00:09:170 Accept: Node 3 Data Send Request To Node 1
+00:09:171 Node 1 Send Request To Node 2
+00:09:171 Reject: Node 1 Data Send Request To Node 2
+00:09:174 Node 2 Send Request To Node 1
+00:09:174 Reject: Node 2 Data Send Request To Node 1
+00:09:175 Node 3 Send Finished To Node 1
+00:09:192 Node 4 Send Request To Node 1
+00:09:192 Accept: Node 4 Data Send Request To Node 1
+00:09:194 Node 2 Send Request To Node 3
+00:09:194 Reject: Node 2 Data Send Request To Node 3
+00:09:197 Node 4 Send Finished To Node 1
+00:09:208 Node 3 Send Request To Node 2
+00:09:208 Accept: Node 3 Data Send Request To Node 2
+00:09:213 Node 3 Send Finished To Node 2
+00:09:213 Node 1 Send Request To Node 3
+00:09:213 Accept: Node 1 Data Send Request To Node 3
+00:09:218 Node 1 Send Finished To Node 3
+00:09:228 Node 4 Send Request To Node 2
+00:09:228 Accept: Node 4 Data Send Request To Node 2
+00:09:230 Node 1 Send Request To Node 2
+00:09:230 Reject: Node 1 Data Send Request To Node 2
+00:09:232 Node 2 Send Request To Node 3
+00:09:232 Reject: Node 2 Data Send Request To Node 3
+00:09:233 Node 4 Send Finished To Node 2
+00:09:239 Node 3 Send Request To Node 1
+00:09:239 Accept: Node 3 Data Send Request To Node 1
+00:09:244 Node 3 Send Finished To Node 1
+00:09:244 Node 2 Send Request To Node 3
+00:09:244 Accept: Node 2 Data Send Request To Node 3
+00:09:249 Node 2 Send Finished To Node 3
+00:09:256 Node 3 Send Request To Node 2
+00:09:256 Accept: Node 3 Data Send Request To Node 2
+00:09:261 Node 3 Send Finished To Node 2
+00:09:261 Node 1 Send Request To Node 2
+00:09:261 Accept: Node 1 Data Send Request To Node 2
+00:09:266 Node 1 Send Finished To Node 2
+00:09:268 Node 2 Send Request To Node 3
+00:09:268 Accept: Node 2 Data Send Request To Node 3
+00:09:273 Node 2 Send Finished To Node 3
+00:09:272 Node 4 Send Request To Node 3
+00:09:272 Accept: Node 4 Data Send Request To Node 3
+00:09:277 Node 4 Send Finished To Node 3
+00:09:280 Node 3 Send Request To Node 2
+00:09:280 Accept: Node 3 Data Send Request To Node 2
+00:09:285 Node 3 Send Finished To Node 2
+00:09:287 Node 4 Send Request To Node 3
+00:09:287 Accept: Node 4 Data Send Request To Node 3
+00:09:292 Node 4 Send Finished To Node 3
+00:09:296 Node 2 Send Request To Node 1
+00:09:296 Accept: Node 2 Data Send Request To Node 1
+00:09:301 Node 2 Send Finished To Node 1
+00:09:305 Node 1 Send Request To Node 3
+00:09:305 Accept: Node 1 Data Send Request To Node 3
+00:09:307 Node 3 Send Request To Node 2
+00:09:307 Reject: Node 3 Data Send Request To Node 2
+00:09:310 Node 1 Send Finished To Node 3
+00:09:312 Node 2 Send Request To Node 3
+00:09:312 Accept: Node 2 Data Send Request To Node 3
+00:09:317 Node 2 Send Finished To Node 3
+00:09:327 Node 3 Send Request To Node 2
+00:09:327 Accept: Node 3 Data Send Request To Node 2
+00:09:332 Node 3 Send Finished To Node 2
+00:09:338 Node 4 Send Request To Node 2
+00:09:338 Accept: Node 4 Data Send Request To Node 2
+00:09:342 Node 1 Send Request To Node 2
+00:09:342 Reject: Node 1 Data Send Request To Node 2
+00:09:343 Node 4 Send Finished To Node 2
+00:09:350 Node 4 Send Request To Node 3
+00:09:350 Accept: Node 4 Data Send Request To Node 3
+00:09:355 Node 4 Send Finished To Node 3
+00:09:355 Node 2 Send Request To Node 3
+00:09:355 Accept: Node 2 Data Send Request To Node 3
+00:09:360 Node 2 Send Finished To Node 3
+00:09:362 Node 1 Send Request To Node 2
+00:09:362 Accept: Node 1 Data Send Request To Node 2
+00:09:367 Node 1 Send Finished To Node 2
+00:09:370 Node 3 Send Request To Node 1
+00:09:370 Accept: Node 3 Data Send Request To Node 1
+00:09:373 Node 2 Send Request To Node 3
+00:09:373 Reject: Node 2 Data Send Request To Node 3
+00:09:375 Node 3 Send Finished To Node 1
+00:09:375 Node 1 Send Request To Node 3
+00:09:375 Accept: Node 1 Data Send Request To Node 3
+00:09:377 Node 4 Send Request To Node 2
+00:09:377 Reject: Node 4 Data Send Request To Node 2
+00:09:380 Node 1 Send Finished To Node 3
+00:09:379 Node 1 Send Request To Node 2
+00:09:379 Accept: Node 1 Data Send Request To Node 2
+00:09:384 Node 1 Send Finished To Node 2
+00:09:389 Node 2 Send Request To Node 1
+00:09:389 Accept: Node 2 Data Send Request To Node 1
+00:09:394 Node 2 Send Finished To Node 1
+00:09:402 Node 4 Send Request To Node 3
+00:09:402 Accept: Node 4 Data Send Request To Node 3
+00:09:404 Node 3 Send Request To Node 1
+00:09:404 Reject: Node 3 Data Send Request To Node 1
+00:09:407 Node 4 Send Finished To Node 3
+00:09:406 Node 2 Send Request To Node 3
+00:09:406 Accept: Node 2 Data Send Request To Node 3
+00:09:408 Node 3 Send Request To Node 1
+00:09:408 Reject: Node 3 Data Send Request To Node 1
+00:09:411 Node 2 Send Finished To Node 3
+00:09:412 Node 3 Send Request To Node 2
+00:09:412 Accept: Node 3 Data Send Request To Node 2
+00:09:417 Node 3 Send Finished To Node 2
+00:09:423 Node 1 Send Request To Node 2
+00:09:423 Accept: Node 1 Data Send Request To Node 2
+00:09:428 Node 1 Send Finished To Node 2
+00:09:447 Node 4 Send Request To Node 2
+00:09:447 Accept: Node 4 Data Send Request To Node 2
+00:09:452 Node 4 Send Finished To Node 2
+00:09:455 Node 2 Send Request To Node 3
+00:09:455 Accept: Node 2 Data Send Request To Node 3
+00:09:458 Node 1 Send Request To Node 2
+00:09:458 Reject: Node 1 Data Send Request To Node 2
+00:09:460 Node 2 Send Finished To Node 3
+00:09:461 Node 3 Send Request To Node 1
+00:09:461 Accept: Node 3 Data Send Request To Node 1
+00:09:466 Node 3 Send Finished To Node 1
+00:09:470 Node 4 Send Request To Node 1
+00:09:470 Accept: Node 4 Data Send Request To Node 1
+00:09:471 Node 3 Send Request To Node 2
+00:09:471 Reject: Node 3 Data Send Request To Node 2
+00:09:473 Node 3 Send Request To Node 2
+00:09:473 Reject: Node 3 Data Send Request To Node 2
+00:09:475 Node 4 Send Finished To Node 1
+00:09:477 Node 4 Send Request To Node 3
+00:09:477 Accept: Node 4 Data Send Request To Node 3
+00:09:482 Node 4 Send Finished To Node 3
+00:09:481 Node 2 Send Request To Node 3
+00:09:481 Accept: Node 2 Data Send Request To Node 3
+00:09:486 Node 2 Send Finished To Node 3
+00:09:496 Node 1 Send Request To Node 2
+00:09:496 Accept: Node 1 Data Send Request To Node 2
+00:09:501 Node 1 Send Finished To Node 2
+00:09:503 Node 3 Send Request To Node 1
+00:09:503 Accept: Node 3 Data Send Request To Node 1
+00:09:508 Node 3 Send Finished To Node 1
+00:09:510 Node 1 Send Request To Node 3
+00:09:510 Accept: Node 1 Data Send Request To Node 3
+00:09:513 Node 4 Send Request To Node 3
+00:09:513 Reject: Node 4 Data Send Request To Node 3
+00:09:515 Node 1 Send Finished To Node 3
+00:09:519 Node 1 Send Request To Node 3
+00:09:519 Accept: Node 1 Data Send Request To Node 3
+00:09:524 Node 1 Send Finished To Node 3
+00:09:530 Node 2 Send Request To Node 1
+00:09:530 Accept: Node 2 Data Send Request To Node 1
+00:09:535 Node 2 Send Finished To Node 1
+00:09:540 Node 3 Send Request To Node 2
+00:09:540 Accept: Node 3 Data Send Request To Node 2
+00:09:543 Node 1 Send Request To Node 2
+00:09:543 Reject: Node 1 Data Send Request To Node 2
+00:09:544 Node 4 Send Request To Node 3
+00:09:544 Reject: Node 4 Data Send Request To Node 3
+00:09:545 Node 3 Send Finished To Node 2
+00:09:558 Node 4 Send Request To Node 1
+00:09:558 Accept: Node 4 Data Send Request To Node 1
+00:09:563 Node 4 Send Finished To Node 1
+00:09:564 Node 2 Send Request To Node 3
+00:09:564 Accept: Node 2 Data Send Request To Node 3
+00:09:565 Node 1 Send Request To Node 2
+00:09:565 Reject: Node 1 Data Send Request To Node 2
+00:09:569 Node 2 Send Finished To Node 3
+00:09:574 Node 1 Send Request To Node 2
+00:09:574 Accept: Node 1 Data Send Request To Node 2
+00:09:579 Node 1 Send Finished To Node 2
+00:09:581 Node 4 Send Request To Node 3
+00:09:581 Accept: Node 4 Data Send Request To Node 3
+00:09:586 Node 4 Send Finished To Node 3
+00:09:589 Node 3 Send Request To Node 1
+00:09:589 Accept: Node 3 Data Send Request To Node 1
+00:09:592 Node 2 Send Request To Node 3
+00:09:592 Reject: Node 2 Data Send Request To Node 3
+00:09:594 Node 3 Send Finished To Node 1
+00:09:594 Node 2 Send Request To Node 1
+00:09:594 Accept: Node 2 Data Send Request To Node 1
+00:09:599 Node 2 Send Finished To Node 1
+00:09:599 Node 2 Send Request To Node 3
+00:09:599 Accept: Node 2 Data Send Request To Node 3
+00:09:604 Node 2 Send Finished To Node 3
+00:09:607 Node 2 Send Request To Node 1
+00:09:607 Accept: Node 2 Data Send Request To Node 1
+00:09:609 Node 1 Send Request To Node 2
+00:09:609 Node 4 Send Request To Node 2
+00:09:609 Reject: Node 1 Data Send Request To Node 2
+00:09:609 Reject: Node 4 Data Send Request To Node 2
+00:09:612 Node 2 Send Finished To Node 1
+00:09:632 Node 1 Send Request To Node 3
+00:09:632 Accept: Node 1 Data Send Request To Node 3
+00:09:633 Node 3 Send Request To Node 2
+00:09:633 Reject: Node 3 Data Send Request To Node 2
+00:09:637 Node 1 Send Finished To Node 3
+00:09:642 Node 4 Send Request To Node 3
+00:09:642 Accept: Node 4 Data Send Request To Node 3
+00:09:647 Node 4 Send Finished To Node 3
+00:09:650 Node 1 Send Request To Node 2
+00:09:650 Accept: Node 1 Data Send Request To Node 2
+00:09:653 Node 2 Send Request To Node 1
+00:09:653 Reject: Node 2 Data Send Request To Node 1
+00:09:655 Node 1 Send Finished To Node 2
+00:09:654 Node 3 Send Request To Node 2
+00:09:654 Accept: Node 3 Data Send Request To Node 2
+00:09:659 Node 3 Send Finished To Node 2
+00:09:660 Node 4 Send Request To Node 3
+00:09:660 Accept: Node 4 Data Send Request To Node 3
+00:09:665 Node 4 Send Finished To Node 3
+00:09:676 Node 3 Send Request To Node 1
+00:09:676 Accept: Node 3 Data Send Request To Node 1
+00:09:681 Node 3 Send Finished To Node 1
+00:09:680 Node 2 Send Request To Node 3
+00:09:680 Accept: Node 2 Data Send Request To Node 3
+00:09:685 Node 2 Send Finished To Node 3
+00:09:698 Node 1 Send Request To Node 2
+00:09:698 Accept: Node 1 Data Send Request To Node 2
+00:09:701 Node 2 Send Request To Node 1
+00:09:701 Reject: Node 2 Data Send Request To Node 1
+00:09:703 Node 1 Send Finished To Node 2
+00:09:705 Node 4 Send Request To Node 2
+00:09:705 Accept: Node 4 Data Send Request To Node 2
+00:09:710 Node 4 Send Finished To Node 2
+00:09:713 Node 4 Send Request To Node 3
+00:09:713 Accept: Node 4 Data Send Request To Node 3
+00:09:716 Node 2 Send Request To Node 1
+00:09:716 Reject: Node 2 Data Send Request To Node 1
+00:09:717 Node 3 Send Request To Node 1
+00:09:717 Reject: Node 3 Data Send Request To Node 1
+00:09:718 Node 4 Send Finished To Node 3
+00:09:729 Node 1 Send Request To Node 2
+00:09:729 Accept: Node 1 Data Send Request To Node 2
+00:09:734 Node 1 Send Finished To Node 2
+00:09:740 Node 3 Send Request To Node 1
+00:09:740 Accept: Node 3 Data Send Request To Node 1
+00:09:745 Node 3 Send Finished To Node 1
+00:09:745 Node 2 Send Request To Node 1
+00:09:745 Accept: Node 2 Data Send Request To Node 1
+00:09:750 Node 2 Send Finished To Node 1
+00:09:749 Node 2 Send Request To Node 3
+00:09:749 Accept: Node 2 Data Send Request To Node 3
+00:09:754 Node 2 Send Finished To Node 3
+00:09:754 Node 4 Send Request To Node 3
+00:09:754 Node 2 Send Request To Node 1
+00:09:754 Accept: Node 4 Data Send Request To Node 3
+00:09:754 Reject: Node 2 Data Send Request To Node 1
+00:09:759 Node 4 Send Finished To Node 3
+00:09:770 Node 1 Send Request To Node 3
+00:09:770 Accept: Node 1 Data Send Request To Node 3
+00:09:775 Node 1 Send Finished To Node 3
+00:09:779 Node 3 Send Request To Node 2
+00:09:779 Accept: Node 3 Data Send Request To Node 2
+00:09:784 Node 3 Send Finished To Node 2
+00:09:783 Node 3 Send Request To Node 1
+00:09:783 Accept: Node 3 Data Send Request To Node 1
+00:09:788 Node 3 Send Finished To Node 1
+00:09:791 Node 2 Send Request To Node 3
+00:09:791 Accept: Node 2 Data Send Request To Node 3
+00:09:793 Node 4 Send Request To Node 2
+00:09:793 Reject: Node 4 Data Send Request To Node 2
+00:09:796 Node 2 Send Finished To Node 3
+00:09:804 Node 1 Send Request To Node 2
+00:09:804 Accept: Node 1 Data Send Request To Node 2
+00:09:805 Node 2 Send Request To Node 1
+00:09:805 Node 3 Send Request To Node 2
+00:09:805 Reject: Node 2 Data Send Request To Node 1
+00:09:805 Reject: Node 3 Data Send Request To Node 2
+00:09:809 Node 1 Send Finished To Node 2
+00:09:811 Node 1 Send Request To Node 2
+00:09:811 Accept: Node 1 Data Send Request To Node 2
+00:09:814 Node 2 Send Request To Node 1
+00:09:814 Reject: Node 2 Data Send Request To Node 1
+00:09:816 Node 1 Send Finished To Node 2
+00:09:828 Node 4 Send Request To Node 2
+00:09:828 Accept: Node 4 Data Send Request To Node 2
+00:09:833 Node 4 Send Finished To Node 2
+00:09:846 Node 3 Send Request To Node 2
+00:09:846 Accept: Node 3 Data Send Request To Node 2
+00:09:851 Node 3 Send Finished To Node 2
+00:09:854 Node 3 Send Request To Node 2
+00:09:854 Accept: Node 3 Data Send Request To Node 2
+00:09:857 Node 1 Send Request To Node 3
+00:09:857 Reject: Node 1 Data Send Request To Node 3
+00:09:859 Node 3 Send Finished To Node 2
+00:09:864 Node 2 Send Request To Node 3
+00:09:864 Accept: Node 2 Data Send Request To Node 3
+00:09:869 Node 2 Send Finished To Node 3
+00:09:869 Node 1 Send Request To Node 2
+00:09:869 Accept: Node 1 Data Send Request To Node 2
+00:09:870 Node 4 Send Request To Node 1
+00:09:870 Reject: Node 4 Data Send Request To Node 1
+00:09:874 Node 1 Send Finished To Node 2
+00:09:876 Node 3 Send Request To Node 2
+00:09:876 Accept: Node 3 Data Send Request To Node 2
+00:09:881 Node 3 Send Finished To Node 2
+00:09:881 Node 1 Send Request To Node 3
+00:09:881 Accept: Node 1 Data Send Request To Node 3
+00:09:886 Node 1 Send Finished To Node 3
+00:09:892 Node 2 Send Request To Node 3
+00:09:892 Accept: Node 2 Data Send Request To Node 3
+00:09:895 Node 4 Send Request To Node 1
+00:09:895 Reject: Node 4 Data Send Request To Node 1
+00:09:897 Node 2 Send Finished To Node 3
+00:09:897 Node 1 Send Request To Node 2
+00:09:897 Accept: Node 1 Data Send Request To Node 2
+00:09:902 Node 1 Send Finished To Node 2
+00:09:905 Node 2 Send Request To Node 3
+00:09:905 Accept: Node 2 Data Send Request To Node 3
+00:09:910 Node 2 Send Finished To Node 3
+00:09:918 Node 3 Send Request To Node 1
+00:09:918 Accept: Node 3 Data Send Request To Node 1
+00:09:919 Node 4 Send Request To Node 3
+00:09:919 Reject: Node 4 Data Send Request To Node 3
+00:09:923 Node 3 Send Finished To Node 1
+00:09:923 Node 4 Send Request To Node 3
+00:09:923 Accept: Node 4 Data Send Request To Node 3
+00:09:925 Node 1 Send Request To Node 3
+00:09:925 Reject: Node 1 Data Send Request To Node 3
+00:09:928 Node 4 Send Finished To Node 3
+00:09:928 Node 2 Send Request To Node 1
+00:09:928 Accept: Node 2 Data Send Request To Node 1
+00:09:933 Node 2 Send Finished To Node 1
+00:09:937 Node 4 Send Request To Node 2
+00:09:937 Accept: Node 4 Data Send Request To Node 2
+00:09:941 Node 1 Send Request To Node 2
+00:09:941 Reject: Node 1 Data Send Request To Node 2
+00:09:942 Node 4 Send Finished To Node 2
+00:09:944 Node 2 Send Request To Node 1
+00:09:944 Accept: Node 2 Data Send Request To Node 1
+00:09:949 Node 2 Send Finished To Node 1
+00:09:949 Node 2 Send Request To Node 3
+00:09:949 Accept: Node 2 Data Send Request To Node 3
+00:09:952 Node 1 Send Request To Node 2
+00:09:952 Reject: Node 1 Data Send Request To Node 2
+00:09:954 Node 2 Send Finished To Node 3
+00:09:955 Node 4 Send Request To Node 2
+00:09:955 Accept: Node 4 Data Send Request To Node 2
+00:09:956 Node 1 Send Request To Node 2
+00:09:956 Node 3 Send Request To Node 2
+00:09:956 Reject: Node 3 Data Send Request To Node 2
+00:09:956 Reject: Node 1 Data Send Request To Node 2
+00:09:960 Node 4 Send Finished To Node 2
+00:09:959 Node 4 Send Request To Node 3
+00:09:959 Accept: Node 4 Data Send Request To Node 3
+00:09:959 Node 3 Send Request To Node 1
+00:09:959 Reject: Node 3 Data Send Request To Node 1
+00:09:960 Node 2 Send Request To Node 3
+00:09:960 Reject: Node 2 Data Send Request To Node 3
+00:09:960 Node 2 Send Request To Node 1
+00:09:960 Reject: Node 2 Data Send Request To Node 1
+00:09:964 Node 4 Send Finished To Node 3
+00:09:974 Node 2 Send Request To Node 1
+00:09:974 Accept: Node 2 Data Send Request To Node 1
+00:09:979 Node 2 Send Finished To Node 1
+00:09:984 Node 3 Send Request To Node 2
+00:09:984 Accept: Node 3 Data Send Request To Node 2
+00:09:986 Node 1 Send Request To Node 2
+00:09:986 Reject: Node 1 Data Send Request To Node 2
+00:09:989 Node 3 Send Finished To Node 2
+00:09:993 Node 4 Send Request To Node 2
+00:09:993 Accept: Node 4 Data Send Request To Node 2
+00:09:998 Node 4 Send Finished To Node 2
+01:00:000 System Clock Finished
+01:00:000 Link Finished
