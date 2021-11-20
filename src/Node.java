@@ -1,16 +1,21 @@
-import java.io.IOException;
+import java.io.*;
 import java.net.Socket;
+import java.net.SocketException;
 import java.net.UnknownHostException;
+import java.text.SimpleDateFormat;
+import java.util.Random;
 
 public class Node {
 
-    private ReceiveThread rec_thread;
+    public ReceiveThread rec_thread;
     public SendThread send_thread;
+    public Socket c_socket;
+
 
     public Node(int num) {
 
+
         try {
-            Socket c_socket;
             c_socket = new Socket("127.0.0.1", 9999);
 
             send_thread = new SendThread();
@@ -22,6 +27,7 @@ public class Node {
             rec_thread.setnodeNum(num, send_thread);
 
             System.out.println("Node "+ num+" 연결 완료");
+
 
         } catch (UnknownHostException e) {
             // TODO Auto-generated catch block
@@ -36,4 +42,6 @@ public class Node {
         send_thread.start();
         rec_thread.start();
     }
+
 }
+
