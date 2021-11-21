@@ -16,7 +16,7 @@ public class ReceiveThread extends Thread {
     private int nodeNum;
     private SendThread send_thread;
 
-    private WriteSuccess writeSuccess_thread;
+    //private WriteSuccess writeSuccess_thread;
 
     @Override
     public void run() {
@@ -47,9 +47,9 @@ public class ReceiveThread extends Thread {
                     if (receiver == nodeNum) {  //받았을때
                         bw = new BufferedWriter(new FileWriter("Node" + nodeNum + ".txt", true)); //
                         bw.write(dateformat.format(time) + " Data Receive Start from Node " + sender + "\r\n");
-                        bw.flush(); //
+                        bw.flush();
                         bw.close();
-                        writeSuccess_thread.receive(sender, dateformat.format(time + 5));
+                        //writeSuccess_thread.receive(sender, dateformat.format(time + 5));
 
                         // 받는게 리젝트된건 보내주지 않으니까 상관 없음
 
@@ -59,11 +59,9 @@ public class ReceiveThread extends Thread {
                         bw.flush();
 
                         if (result == 1) {
-                            send_thread.result = 0;
-                            writeSuccess_thread.send(receiver, dateformat.format(time + 5));
+                            //writeSuccess_thread.send(receiver, dateformat.format(time + 5));
                         } else {
                             int back = BackoffTimer(rejectCount++);
-                            send_thread.result = back;
 
                             bw.write(dateformat.format(time) + " Data Send Request Reject from Link" + "\r\n");
                             bw.flush();
@@ -96,6 +94,8 @@ public class ReceiveThread extends Thread {
         int temp;
         temp = Math.min(transNum, 10);
         rndom = (int) (Math.random() * (Math.pow(2, temp) - 1));
+
+
         return rndom;
     }
 
@@ -106,33 +106,7 @@ public class ReceiveThread extends Thread {
     public void setnodeNum(int num, SendThread send) {
         nodeNum = num;
         send_thread = send;
-        writeSuccess_thread = new WriteSuccess();
-        writeSuccess_thread.nodeNum = nodeNum;
-    }
-}
-class WriteSuccess extends Thread {
-    int nodeNum;
-    public void receive(int sender, String time) {
-        try {
-            sleep(5);   //
-            BufferedWriter bw = new BufferedWriter(new FileWriter("Node" + nodeNum + ".txt", true));
-            bw.write(time + " Data Receive Finished from Node " + sender + "\r\n");
-            bw.flush(); //
-            bw.close();
-        } catch (Exception e) {
-            System.out.println("성공한거 적는중에 종료되었음");
-        }
-
-    }
-    public void send(int receiver, String time) {
-        try {
-            sleep(5);
-            BufferedWriter bw = new BufferedWriter(new FileWriter("Node" + nodeNum + ".txt", true));
-            bw.write(time + " Data Send Finished to Node " + receiver + "\r\n");
-            bw.flush(); //
-            bw.close();
-        } catch (Exception e) {
-            System.out.println("성공한거 적는중에 종료되었음");
-        }
+        //writeSuccess_thread = new WriteSuccess();
+        //writeSuccess_thread.nodeNum = nodeNum;
     }
 }

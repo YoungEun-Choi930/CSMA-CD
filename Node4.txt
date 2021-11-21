@@ -1,854 +1,398 @@
 00:00:00 Node 4 Start
-00:00:245 Data Send Request To Node 1
-00:00:245 Data Send Request Reject from Link
-00:00:245 Exponential Back-off Time: 0 msec
-00:00:288 Data Send Request To Node 1
-00:00:288 Data Send Request Reject from Link
-00:00:288 Exponential Back-off Time: 0 msec
-00:00:300 Data Send Request To Node 3
-00:00:305 Data Send Finished to Node 3
-00:00:344 Data Send Request To Node 3
-00:00:349 Data Send Finished to Node 3
-00:00:390 Data Send Request To Node 1
-00:00:395 Data Send Finished to Node 1
-00:00:409 Data Send Request To Node 3
-00:00:409 Data Send Request Reject from Link
-00:00:409 Exponential Back-off Time: 681 msec
-00:00:454 Data Send Request To Node 2
-00:00:459 Data Send Finished to Node 2
-00:00:500 Data Send Request To Node 1
-00:00:505 Data Send Finished to Node 1
-00:00:531 Data Send Request To Node 1
-00:00:536 Data Send Finished to Node 1
-00:00:580 Data Send Request To Node 3
-00:00:580 Data Send Request Reject from Link
-00:00:580 Exponential Back-off Time: 399 msec
-00:00:610 Data Send Request To Node 2
-00:00:615 Data Send Finished to Node 2
-00:00:648 Data Send Request To Node 2
-00:00:653 Data Send Finished to Node 2
-00:00:690 Data Send Request To Node 3
-00:00:690 Data Send Request Reject from Link
-00:00:690 Exponential Back-off Time: 20 msec
-00:00:722 Data Send Request To Node 2
-00:00:727 Data Send Finished to Node 2
-00:00:734 Data Send Request To Node 2
-00:00:739 Data Send Finished to Node 2
-00:00:779 Data Send Request To Node 2
-00:00:784 Data Send Finished to Node 2
-00:00:794 Data Send Request To Node 3
-00:00:799 Data Send Finished to Node 3
-00:00:851 Data Send Request To Node 3
-00:00:856 Data Send Finished to Node 3
-00:00:919 Data Send Request To Node 1
-00:00:924 Data Send Finished to Node 1
-00:00:965 Data Send Request To Node 1
-00:00:970 Data Send Finished to Node 1
-00:01:086 Data Send Request To Node 3
-00:01:091 Data Send Finished to Node 3
-00:01:135 Data Send Request To Node 2
-00:01:135 Data Send Request Reject from Link
-00:01:135 Exponential Back-off Time: 171 msec
-00:01:163 Data Send Request To Node 2
-00:01:163 Data Send Request Reject from Link
-00:01:163 Exponential Back-off Time: 173 msec
-00:01:169 Data Send Request To Node 1
-00:01:169 Data Send Request Reject from Link
-00:01:169 Exponential Back-off Time: 433 msec
-00:01:207 Data Send Request To Node 2
-00:01:207 Data Send Request Reject from Link
-00:01:207 Exponential Back-off Time: 866 msec
-00:01:259 Data Send Request To Node 3
-00:01:259 Data Send Request Reject from Link
-00:01:259 Exponential Back-off Time: 260 msec
-00:01:309 Data Send Request To Node 3
-00:01:314 Data Send Finished to Node 3
-00:01:339 Data Send Request To Node 1
-00:01:344 Data Send Finished to Node 1
-00:01:349 Data Send Request To Node 1
-00:01:354 Data Send Finished to Node 1
-00:01:385 Data Send Request To Node 3
-00:01:385 Data Send Request Reject from Link
-00:01:385 Exponential Back-off Time: 657 msec
-00:01:389 Data Send Request To Node 2
-00:01:389 Data Send Request Reject from Link
-00:01:389 Exponential Back-off Time: 461 msec
-00:01:407 Data Send Request To Node 1
-00:01:407 Data Send Request Reject from Link
-00:01:407 Exponential Back-off Time: 603 msec
-00:01:415 Data Send Request To Node 2
-00:01:420 Data Send Finished to Node 2
-00:01:448 Data Send Request To Node 2
-00:01:448 Data Send Request Reject from Link
-00:01:448 Exponential Back-off Time: 535 msec
-00:01:473 Data Send Request To Node 1
-00:01:478 Data Send Finished to Node 1
-00:01:487 Data Send Request To Node 1
-00:01:487 Data Send Request Reject from Link
-00:01:487 Exponential Back-off Time: 153 msec
-00:01:528 Data Send Request To Node 3
-00:01:533 Data Send Finished to Node 3
-00:01:615 Data Send Request To Node 3
-00:01:620 Data Send Finished to Node 3
-00:01:654 Data Send Request To Node 2
-00:01:659 Data Send Finished to Node 2
+00:00:111 Data Send Request To Node 2
+00:00:115 Data Send Request Accept from Link
+00:00:120 Data Send Finished To Node 2
+00:00:188 Data Send Request To Node 2
+00:00:189 Data Send Request Reject from Link
+00:00:189 Exponential Back-off Time: 0 msec
+00:00:190 Data Send Request To Node 3
+00:00:191 Data Send Request Accept from Link
+00:00:196 Data Send Finished To Node 3
+00:00:238 Data Send Request Accept from Link
+00:00:242 Data Send Request To Node 1
+00:00:243 Data Send Finished To Node 1
+00:00:257 Data Send Request Accept from Link
+00:00:258 Data Send Request To Node 3
+00:00:262 Data Send Finished To Node 3
+00:00:292 Data Send Request To Node 1
+00:00:294 Data Send Request Accept from Link
+00:00:299 Data Send Finished To Node 1
+00:00:305 Data Send Request To Node 2
+00:00:305 Data Send Request Accept from Link
+00:00:310 Data Send Finished To Node 2
+00:00:331 Data Send Request Accept from Link
+00:00:332 Data Send Request To Node 3
+00:00:336 Data Send Finished To Node 3
+00:00:370 Data Send Request Accept from Link
+00:00:371 Data Send Request To Node 3
+00:00:375 Data Send Finished To Node 3
+00:00:397 Data Send Request To Node 1
+00:00:397 Data Send Request Accept from Link
+00:00:402 Data Send Finished To Node 1
+00:00:428 Data Send Request Accept from Link
+00:00:429 Data Send Request To Node 2
+00:00:433 Data Send Finished To Node 2
+00:00:472 Data Send Request Accept from Link
+00:00:473 Data Send Request To Node 3
+00:00:477 Data Send Finished To Node 3
+00:00:493 Data Send Request Accept from Link
+00:00:494 Data Send Request To Node 3
+00:00:498 Data Send Finished To Node 3
+00:00:510 Data Send Request To Node 2
+00:00:511 Data Send Request Reject from Link
+00:00:511 Exponential Back-off Time: 0 msec
+00:00:512 Data Send Request To Node 3
+00:00:512 Data Send Request Reject from Link
+00:00:512 Exponential Back-off Time: 0 msec
+00:00:514 Data Send Request Accept from Link
+00:00:515 Data Send Request To Node 2
+00:00:519 Data Send Request To Node 2
+00:00:519 Data Send Request Accept from Link
+00:00:519 Data Send Finished To Node 2
+00:00:524 Data Send Finished To Node 2
+00:00:553 Data Send Request To Node 3
+00:00:553 Data Send Request Accept from Link
+00:00:558 Data Send Finished To Node 3
+00:00:562 Data Send Request To Node 2
+00:00:562 Data Send Request Accept from Link
+00:00:567 Data Send Finished To Node 2
+00:00:617 Data Send Request To Node 1
+00:00:618 Data Send Request Reject from Link
+00:00:618 Exponential Back-off Time: 6 msec
+00:00:625 Data Send Request To Node 2
+00:00:625 Data Send Request Accept from Link
+00:00:630 Data Send Finished To Node 2
+00:00:638 Data Send Request To Node 3
+00:00:638 Data Send Request Reject from Link
+00:00:638 Exponential Back-off Time: 9 msec
+00:00:649 Data Send Request To Node 2
+00:00:649 Data Send Request Reject from Link
+00:00:649 Exponential Back-off Time: 2 msec
+00:00:652 Data Send Request To Node 1
+00:00:653 Data Send Request Reject from Link
+00:00:653 Exponential Back-off Time: 5 msec
+00:00:659 Data Send Request To Node 3
+00:00:659 Data Send Request Reject from Link
+00:00:659 Exponential Back-off Time: 26 msec
+00:00:686 Data Send Request To Node 1
+00:00:686 Data Send Request Accept from Link
+00:00:691 Data Send Finished To Node 1
+00:00:700 Data Send Request Accept from Link
+00:00:701 Data Send Request To Node 3
+00:00:705 Data Send Finished To Node 3
+00:00:713 Data Send Request To Node 3
+00:00:713 Data Send Request Accept from Link
+00:00:718 Data Send Finished To Node 3
+00:00:751 Data Send Request Accept from Link
+00:00:752 Data Send Request To Node 1
+00:00:756 Data Send Finished To Node 1
+00:00:764 Data Send Request To Node 3
+00:00:764 Data Send Request Accept from Link
+00:00:769 Data Send Finished To Node 3
+00:00:811 Data Send Request To Node 1
+00:00:812 Data Send Request Reject from Link
+00:00:812 Exponential Back-off Time: 36 msec
+00:00:849 Data Send Request Accept from Link
+00:00:850 Data Send Request To Node 3
+00:00:854 Data Send Finished To Node 3
+00:00:889 Data Send Request Accept from Link
+00:00:890 Data Send Request To Node 1
+00:00:894 Data Send Finished To Node 1
+00:00:915 Data Send Request Accept from Link
+00:00:916 Data Send Request To Node 3
+00:00:920 Data Send Finished To Node 3
+00:00:929 Data Send Request To Node 1
+00:00:929 Data Send Request Accept from Link
+00:00:934 Data Send Finished To Node 1
+00:00:962 Data Send Request To Node 3
+00:00:962 Data Send Request Accept from Link
+00:00:967 Data Send Finished To Node 3
+00:01:009 Data Send Request Accept from Link
+00:01:010 Data Send Request To Node 1
+00:01:014 Data Send Finished To Node 1
+00:01:038 Data Send Request To Node 1
+00:01:039 Data Send Request Reject from Link
+00:01:039 Exponential Back-off Time: 335 msec
+00:01:374 Data Send Request Accept from Link
+00:01:375 Data Send Request To Node 1
+00:01:379 Data Send Finished To Node 1
+00:01:394 Data Send Request Accept from Link
+00:01:395 Data Send Request To Node 1
+00:01:399 Data Send Finished To Node 1
+00:01:404 Data Send Request Accept from Link
+00:01:405 Data Send Request To Node 2
+00:01:409 Data Send Finished To Node 2
+00:01:451 Data Send Request To Node 3
+00:01:452 Data Send Request Accept from Link
+00:01:457 Data Send Finished To Node 3
+00:01:501 Data Send Request To Node 3
+00:01:501 Data Send Request Reject from Link
+00:01:501 Exponential Back-off Time: 162 msec
+00:01:664 Data Send Request Accept from Link
+00:01:665 Data Send Request To Node 3
+00:01:669 Data Send Finished To Node 3
+00:01:672 Data Send Request Accept from Link
+00:01:673 Data Send Request To Node 1
+00:01:677 Data Send Finished To Node 1
 00:01:704 Data Send Request To Node 3
-00:01:709 Data Send Finished to Node 3
-00:01:743 Data Send Request To Node 2
-00:01:743 Data Send Request Reject from Link
-00:01:743 Exponential Back-off Time: 296 msec
-00:01:787 Data Send Request To Node 2
-00:01:787 Data Send Request Reject from Link
-00:01:787 Exponential Back-off Time: 933 msec
-00:01:828 Data Send Request To Node 3
-00:01:833 Data Send Finished to Node 3
-00:01:877 Data Send Request To Node 1
-00:01:882 Data Send Finished to Node 1
+00:01:704 Data Send Request Reject from Link
+00:01:704 Exponential Back-off Time: 67 msec
+00:01:771 Data Send Request Accept from Link
+00:01:772 Data Send Request To Node 1
+00:01:776 Data Send Finished To Node 1
+00:01:789 Data Send Request Accept from Link
+00:01:790 Data Send Request To Node 2
+00:01:794 Data Send Finished To Node 2
+00:01:830 Data Send Request Accept from Link
+00:01:831 Data Send Request To Node 1
+00:01:835 Data Send Finished To Node 1
+00:01:880 Data Send Request To Node 1
+00:01:882 Data Send Request Accept from Link
+00:01:887 Data Send Finished To Node 1
+00:01:914 Data Send Request Accept from Link
 00:01:915 Data Send Request To Node 2
-00:01:920 Data Send Finished to Node 2
-00:01:932 Data Send Request To Node 3
-00:01:937 Data Send Finished to Node 3
-00:01:977 Data Send Request To Node 3
-00:01:977 Data Send Request Reject from Link
-00:01:977 Exponential Back-off Time: 975 msec
-00:02:009 Data Send Request To Node 3
-00:02:009 Data Send Request Reject from Link
-00:02:009 Exponential Back-off Time: 664 msec
-00:02:051 Data Send Request To Node 1
-00:02:051 Data Send Request Reject from Link
-00:02:051 Exponential Back-off Time: 937 msec
-00:02:056 Data Send Request To Node 1
-00:02:061 Data Send Finished to Node 1
-00:02:095 Data Send Request To Node 3
-00:02:100 Data Send Finished to Node 3
-00:02:129 Data Send Request To Node 3
-00:02:134 Data Send Finished to Node 3
-00:02:136 Data Send Request To Node 3
-00:02:141 Data Send Finished to Node 3
-00:02:167 Data Send Request To Node 2
-00:02:167 Data Send Request Reject from Link
-00:02:167 Exponential Back-off Time: 866 msec
-00:02:189 Data Send Request To Node 3
-00:02:194 Data Send Finished to Node 3
-00:02:232 Data Send Request To Node 3
-00:02:237 Data Send Finished to Node 3
-00:02:260 Data Send Request To Node 1
-00:02:260 Data Send Request Reject from Link
-00:02:260 Exponential Back-off Time: 560 msec
-00:02:266 Data Send Request To Node 3
-00:02:271 Data Send Finished to Node 3
-00:02:285 Data Send Request To Node 3
-00:02:290 Data Send Finished to Node 3
-00:02:291 Data Send Request To Node 3
-00:02:296 Data Send Finished to Node 3
-00:02:334 Data Send Request To Node 3
-00:02:339 Data Send Finished to Node 3
-00:02:372 Data Send Request To Node 2
-00:02:377 Data Send Finished to Node 2
-00:02:412 Data Send Request To Node 3
-00:02:417 Data Send Finished to Node 3
-00:02:421 Data Send Request To Node 3
-00:02:426 Data Send Finished to Node 3
-00:02:428 Data Send Request To Node 2
-00:02:433 Data Send Finished to Node 2
-00:02:451 Data Send Request To Node 1
-00:02:451 Data Send Request Reject from Link
-00:02:451 Exponential Back-off Time: 86 msec
-00:02:488 Data Send Request To Node 1
-00:02:493 Data Send Finished to Node 1
-00:02:515 Data Send Request To Node 3
-00:02:515 Data Send Request Reject from Link
-00:02:515 Exponential Back-off Time: 3 msec
-00:02:559 Data Send Request To Node 1
-00:02:559 Data Send Request Reject from Link
-00:02:559 Exponential Back-off Time: 9 msec
-00:02:611 Data Send Request To Node 3
-00:02:616 Data Send Finished to Node 3
-00:02:654 Data Send Request To Node 3
-00:02:654 Data Send Request Reject from Link
-00:02:654 Exponential Back-off Time: 267 msec
+00:01:919 Data Send Finished To Node 2
+00:01:952 Data Send Request Accept from Link
+00:01:953 Data Send Request To Node 2
+00:01:957 Data Send Finished To Node 2
+00:01:971 Data Send Request To Node 3
+00:01:971 Data Send Request Accept from Link
+00:01:976 Data Send Finished To Node 3
+00:02:011 Data Send Request Accept from Link
+00:02:012 Data Send Request To Node 1
+00:02:016 Data Send Finished To Node 1
+00:02:062 Data Send Request To Node 2
+00:02:062 Data Send Request Reject from Link
+00:02:062 Exponential Back-off Time: 311 msec
+00:02:374 Data Send Request To Node 2
+00:02:374 Data Send Request Reject from Link
+00:02:374 Exponential Back-off Time: 301 msec
+00:02:675 Data Send Request Accept from Link
 00:02:676 Data Send Request To Node 1
-00:02:676 Data Send Request Reject from Link
-00:02:676 Exponential Back-off Time: 841 msec
-00:02:679 Data Send Request To Node 1
-00:02:684 Data Send Finished to Node 1
-00:02:695 Data Send Request To Node 2
-00:02:695 Data Send Request Reject from Link
-00:02:695 Exponential Back-off Time: 716 msec
-00:02:733 Data Send Request To Node 3
-00:02:733 Data Send Request Reject from Link
-00:02:733 Exponential Back-off Time: 283 msec
-00:02:783 Data Send Request To Node 3
-00:02:788 Data Send Finished to Node 3
-00:02:808 Data Send Request To Node 3
-00:02:813 Data Send Finished to Node 3
-00:02:849 Data Send Request To Node 1
-00:02:854 Data Send Finished to Node 1
-00:02:862 Data Send Request To Node 2
-00:02:867 Data Send Finished to Node 2
-00:02:915 Data Send Request To Node 2
-00:02:915 Data Send Request Reject from Link
-00:02:915 Exponential Back-off Time: 371 msec
-00:02:946 Data Send Request To Node 3
-00:02:951 Data Send Finished to Node 3
-00:02:957 Data Send Request To Node 1
-00:02:962 Data Send Finished to Node 1
-00:02:972 Data Send Request To Node 2
-00:02:972 Data Send Request Reject from Link
-00:02:972 Exponential Back-off Time: 532 msec
-00:03:026 Data Send Request To Node 1
-00:03:031 Data Send Finished to Node 1
-00:03:061 Data Send Request To Node 3
-00:03:066 Data Send Finished to Node 3
-00:03:096 Data Send Request To Node 1
-00:03:096 Data Send Request Reject from Link
-00:03:096 Exponential Back-off Time: 941 msec
-00:03:102 Data Send Request To Node 1
-00:03:107 Data Send Finished to Node 1
-00:03:143 Data Send Request To Node 2
-00:03:148 Data Send Finished to Node 2
-00:03:159 Data Send Request To Node 1
-00:03:164 Data Send Finished to Node 1
-00:03:189 Data Send Request To Node 1
-00:03:194 Data Send Finished to Node 1
-00:03:195 Data Send Request To Node 1
-00:03:200 Data Send Finished to Node 1
-00:03:202 Data Send Request To Node 2
-00:03:207 Data Send Finished to Node 2
-00:03:212 Data Send Request To Node 1
-00:03:212 Data Send Request Reject from Link
-00:03:212 Exponential Back-off Time: 22 msec
-00:03:252 Data Send Request To Node 2
-00:03:257 Data Send Finished to Node 2
-00:03:274 Data Send Request To Node 3
-00:03:274 Data Send Request Reject from Link
-00:03:274 Exponential Back-off Time: 577 msec
-00:03:293 Data Send Request To Node 3
-00:03:293 Data Send Request Reject from Link
-00:03:293 Exponential Back-off Time: 910 msec
-00:03:337 Data Send Request To Node 2
-00:03:342 Data Send Finished to Node 2
-00:03:364 Data Send Request To Node 2
-00:03:364 Data Send Request Reject from Link
-00:03:364 Exponential Back-off Time: 586 msec
-00:03:405 Data Send Request To Node 2
-00:03:405 Data Send Request Reject from Link
-00:03:405 Exponential Back-off Time: 275 msec
-00:03:407 Data Send Request To Node 3
-00:03:407 Data Send Request Reject from Link
-00:03:407 Exponential Back-off Time: 277 msec
-00:03:450 Data Send Request To Node 2
-00:03:455 Data Send Finished to Node 2
-00:03:464 Data Send Request To Node 1
-00:03:464 Data Send Request Reject from Link
-00:03:464 Exponential Back-off Time: 492 msec
-00:03:512 Data Send Request To Node 2
-00:03:512 Data Send Request Reject from Link
-00:03:512 Exponential Back-off Time: 575 msec
-00:03:563 Data Send Request To Node 1
-00:03:563 Data Send Request Reject from Link
-00:03:563 Exponential Back-off Time: 130 msec
-00:03:633 Data Send Request To Node 2
-00:03:638 Data Send Finished to Node 2
-00:03:677 Data Send Request To Node 3
-00:03:682 Data Send Finished to Node 3
-00:03:725 Data Send Request To Node 2
-00:03:730 Data Send Finished to Node 2
-00:03:759 Data Send Request To Node 3
-00:03:764 Data Send Finished to Node 3
-00:03:808 Data Send Request To Node 1
-00:03:813 Data Send Finished to Node 1
-00:03:834 Data Send Request To Node 1
-00:03:834 Data Send Request Reject from Link
-00:03:834 Exponential Back-off Time: 719 msec
-00:03:854 Data Send Request To Node 2
-00:03:859 Data Send Finished to Node 2
-00:03:876 Data Send Request To Node 2
-00:03:881 Data Send Finished to Node 2
-00:03:914 Data Send Request To Node 1
-00:03:919 Data Send Finished to Node 1
-00:03:953 Data Send Request To Node 1
-00:03:958 Data Send Finished to Node 1
-00:03:981 Data Send Request To Node 2
-00:03:981 Data Send Request Reject from Link
-00:03:981 Exponential Back-off Time: 194 msec
-00:04:027 Data Send Request To Node 1
-00:04:032 Data Send Finished to Node 1
-00:04:055 Data Send Request To Node 2
-00:04:060 Data Send Finished to Node 2
-00:04:081 Data Send Request To Node 3
-00:04:086 Data Send Finished to Node 3
-00:04:106 Data Send Request To Node 3
-00:04:106 Data Send Request Reject from Link
-00:04:106 Exponential Back-off Time: 147 msec
-00:04:142 Data Send Request To Node 3
-00:04:142 Data Send Request Reject from Link
-00:04:142 Exponential Back-off Time: 625 msec
-00:04:188 Data Send Request To Node 2
-00:04:193 Data Send Finished to Node 2
-00:04:211 Data Send Request To Node 3
-00:04:216 Data Send Finished to Node 3
-00:04:243 Data Send Request To Node 3
-00:04:243 Data Send Request Reject from Link
-00:04:243 Exponential Back-off Time: 274 msec
-00:04:254 Data Send Request To Node 1
-00:04:254 Data Send Request Reject from Link
-00:04:254 Exponential Back-off Time: 879 msec
-00:04:272 Data Send Request To Node 3
-00:04:272 Data Send Request Reject from Link
-00:04:272 Exponential Back-off Time: 140 msec
-00:04:303 Data Send Request To Node 1
-00:04:308 Data Send Finished to Node 1
-00:04:319 Data Send Request To Node 2
-00:04:319 Data Send Request Reject from Link
-00:04:319 Exponential Back-off Time: 798 msec
-00:04:357 Data Send Request To Node 2
-00:04:362 Data Send Finished to Node 2
-00:04:363 Data Send Request To Node 2
-00:04:368 Data Send Finished to Node 2
-00:04:383 Data Send Request To Node 2
-00:04:388 Data Send Finished to Node 2
-00:04:410 Data Send Request To Node 3
-00:04:410 Data Send Request Reject from Link
-00:04:410 Exponential Back-off Time: 994 msec
-00:04:452 Data Send Request To Node 1
-00:04:452 Data Send Request Reject from Link
-00:04:452 Exponential Back-off Time: 524 msec
-00:04:486 Data Send Request To Node 1
-00:04:491 Data Send Finished to Node 1
-00:04:515 Data Send Request To Node 2
-00:04:515 Data Send Request Reject from Link
-00:04:515 Exponential Back-off Time: 90 msec
-00:04:520 Data Send Request To Node 2
-00:04:525 Data Send Finished to Node 2
-00:04:568 Data Send Request To Node 2
-00:04:568 Data Send Request Reject from Link
-00:04:568 Exponential Back-off Time: 441 msec
-00:04:609 Data Send Request To Node 1
-00:04:614 Data Send Finished to Node 1
-00:04:650 Data Send Request To Node 2
-00:04:655 Data Send Finished to Node 2
-00:04:684 Data Send Request To Node 3
-00:04:689 Data Send Finished to Node 3
-00:04:701 Data Send Request To Node 1
-00:04:706 Data Send Finished to Node 1
-00:04:728 Data Send Request To Node 2
-00:04:728 Data Send Request Reject from Link
-00:04:728 Exponential Back-off Time: 186 msec
-00:04:760 Data Send Request To Node 3
-00:04:760 Data Send Request Reject from Link
-00:04:760 Exponential Back-off Time: 252 msec
-00:04:763 Data Send Request To Node 3
-00:04:768 Data Send Finished to Node 3
-00:04:794 Data Send Request To Node 1
-00:04:794 Data Send Request Reject from Link
-00:04:794 Exponential Back-off Time: 713 msec
-00:04:808 Data Send Request To Node 2
-00:04:808 Data Send Request Reject from Link
-00:04:808 Exponential Back-off Time: 552 msec
-00:04:840 Data Send Request To Node 2
-00:04:840 Data Send Request Reject from Link
-00:04:840 Exponential Back-off Time: 334 msec
-00:04:852 Data Send Request To Node 2
-00:04:852 Data Send Request Reject from Link
-00:04:852 Exponential Back-off Time: 721 msec
-00:04:872 Data Send Request To Node 3
-00:04:877 Data Send Finished to Node 3
-00:04:899 Data Send Request To Node 2
-00:04:899 Data Send Request Reject from Link
-00:04:899 Exponential Back-off Time: 149 msec
-00:04:916 Data Send Request To Node 3
-00:04:921 Data Send Finished to Node 3
-00:04:937 Data Send Request To Node 2
-00:04:937 Data Send Request Reject from Link
-00:04:937 Exponential Back-off Time: 906 msec
-00:04:944 Data Send Request To Node 3
-00:04:949 Data Send Finished to Node 3
-00:04:951 Data Send Request To Node 2
-00:04:956 Data Send Finished to Node 2
-00:04:999 Data Send Request To Node 1
-00:04:999 Data Send Request Reject from Link
-00:04:999 Exponential Back-off Time: 866 msec
-00:05:037 Data Send Request To Node 1
-00:05:042 Data Send Finished to Node 1
-00:05:082 Data Send Request To Node 2
-00:05:082 Data Send Request Reject from Link
-00:05:082 Exponential Back-off Time: 1004 msec
-00:05:088 Data Send Request To Node 2
-00:05:093 Data Send Finished to Node 2
-00:05:136 Data Send Request To Node 1
-00:05:141 Data Send Finished to Node 1
-00:05:142 Data Send Request To Node 1
-00:05:142 Data Send Request Reject from Link
-00:05:142 Exponential Back-off Time: 375 msec
-00:05:144 Data Send Request To Node 2
-00:05:144 Data Send Request Reject from Link
-00:05:144 Exponential Back-off Time: 112 msec
-00:05:162 Data Send Request To Node 3
-00:05:162 Data Send Request Reject from Link
-00:05:162 Exponential Back-off Time: 823 msec
-00:05:180 Data Send Request To Node 1
-00:05:185 Data Send Finished to Node 1
-00:05:223 Data Send Request To Node 2
-00:05:228 Data Send Finished to Node 2
-00:05:244 Data Send Request To Node 2
-00:05:249 Data Send Finished to Node 2
-00:05:279 Data Send Request To Node 1
-00:05:279 Data Send Request Reject from Link
-00:05:279 Exponential Back-off Time: 745 msec
-00:05:324 Data Send Request To Node 3
-00:05:324 Data Send Request Reject from Link
-00:05:324 Exponential Back-off Time: 771 msec
-00:05:355 Data Send Request To Node 3
-00:05:360 Data Send Finished to Node 3
-00:05:367 Data Send Request To Node 2
-00:05:367 Data Send Request Reject from Link
-00:05:367 Exponential Back-off Time: 690 msec
-00:05:393 Data Send Request To Node 3
-00:05:398 Data Send Finished to Node 3
-00:05:425 Data Send Request To Node 2
-00:05:425 Data Send Request Reject from Link
-00:05:425 Exponential Back-off Time: 521 msec
-00:05:471 Data Send Request To Node 2
-00:05:476 Data Send Finished to Node 2
-00:05:486 Data Send Request To Node 1
-00:05:486 Data Send Request Reject from Link
-00:05:486 Exponential Back-off Time: 800 msec
-00:05:516 Data Send Request To Node 3
-00:05:516 Data Send Request Reject from Link
-00:05:516 Exponential Back-off Time: 818 msec
-00:05:529 Data Send Request To Node 3
-00:05:534 Data Send Finished to Node 3
-00:05:556 Data Send Request To Node 3
-00:05:561 Data Send Finished to Node 3
-00:05:562 Data Send Request To Node 2
-00:05:567 Data Send Finished to Node 2
-00:05:590 Data Send Request To Node 1
-00:05:595 Data Send Finished to Node 1
-00:05:597 Data Send Request To Node 2
-00:05:602 Data Send Finished to Node 2
-00:05:645 Data Send Request To Node 2
-00:05:650 Data Send Finished to Node 2
-00:05:653 Data Send Request To Node 2
-00:05:653 Data Send Request Reject from Link
-00:05:653 Exponential Back-off Time: 280 msec
-00:05:697 Data Send Request To Node 3
-00:05:697 Data Send Request Reject from Link
-00:05:697 Exponential Back-off Time: 359 msec
-00:05:730 Data Send Request To Node 3
-00:05:730 Data Send Request Reject from Link
-00:05:730 Exponential Back-off Time: 1011 msec
-00:05:737 Data Send Request To Node 1
-00:05:737 Data Send Request Reject from Link
-00:05:737 Exponential Back-off Time: 278 msec
-00:05:787 Data Send Request To Node 3
-00:05:787 Data Send Request Reject from Link
-00:05:787 Exponential Back-off Time: 304 msec
-00:05:824 Data Send Request To Node 2
-00:05:824 Data Send Request Reject from Link
-00:05:824 Exponential Back-off Time: 902 msec
-00:05:872 Data Send Request To Node 1
-00:05:877 Data Send Finished to Node 1
-00:05:883 Data Send Request To Node 2
-00:05:883 Data Send Request Reject from Link
-00:05:883 Exponential Back-off Time: 0 msec
-00:05:915 Data Send Request To Node 1
-00:05:920 Data Send Finished to Node 1
-00:05:921 Data Send Request To Node 1
-00:05:926 Data Send Finished to Node 1
-00:05:928 Data Send Request To Node 2
-00:05:933 Data Send Finished to Node 2
-00:05:959 Data Send Request To Node 1
-00:05:964 Data Send Finished to Node 1
-00:05:985 Data Send Request To Node 1
-00:05:990 Data Send Finished to Node 1
-00:05:991 Data Send Request To Node 3
-00:05:996 Data Send Finished to Node 3
-00:06:022 Data Send Request To Node 1
-00:06:027 Data Send Finished to Node 1
-00:06:031 Data Send Request To Node 1
-00:06:036 Data Send Finished to Node 1
-00:06:072 Data Send Request To Node 2
-00:06:072 Data Send Request Reject from Link
-00:06:072 Exponential Back-off Time: 536 msec
-00:06:095 Data Send Request To Node 1
-00:06:095 Data Send Request Reject from Link
-00:06:095 Exponential Back-off Time: 243 msec
-00:06:095 Data Send Request To Node 2
-00:06:095 Data Send Request Reject from Link
-00:06:095 Exponential Back-off Time: 196 msec
-00:06:113 Data Send Request To Node 2
-00:06:118 Data Send Finished to Node 2
-00:06:130 Data Send Request To Node 3
-00:06:135 Data Send Finished to Node 3
-00:06:144 Data Send Request To Node 2
-00:06:149 Data Send Finished to Node 2
-00:06:192 Data Send Request To Node 2
-00:06:192 Data Send Request Reject from Link
-00:06:192 Exponential Back-off Time: 651 msec
-00:06:214 Data Send Request To Node 3
-00:06:219 Data Send Finished to Node 3
-00:06:237 Data Send Request To Node 3
-00:06:237 Data Send Request Reject from Link
-00:06:237 Exponential Back-off Time: 570 msec
-00:06:260 Data Send Request To Node 1
-00:06:265 Data Send Finished to Node 1
-00:06:292 Data Send Request To Node 2
-00:06:292 Data Send Request Reject from Link
-00:06:292 Exponential Back-off Time: 823 msec
-00:06:299 Data Send Request To Node 1
-00:06:299 Data Send Request Reject from Link
-00:06:299 Exponential Back-off Time: 621 msec
+00:02:680 Data Send Finished To Node 1
+00:02:720 Data Send Request To Node 3
+00:02:720 Data Send Request Accept from Link
+00:02:725 Data Send Finished To Node 3
+00:02:768 Data Send Request Accept from Link
+00:02:769 Data Send Request To Node 3
+00:02:773 Data Send Finished To Node 3
+00:02:821 Data Send Request To Node 2
+00:02:821 Data Send Request Reject from Link
+00:02:821 Exponential Back-off Time: 968 msec
+00:03:789 Data Send Request Accept from Link
+00:03:790 Data Send Request To Node 2
+00:03:794 Data Send Finished To Node 2
+00:03:839 Data Send Request To Node 3
+00:03:839 Data Send Request Reject from Link
+00:03:839 Exponential Back-off Time: 705 msec
+00:04:544 Data Send Request Accept from Link
+00:04:545 Data Send Request To Node 3
+00:04:549 Data Send Finished To Node 3
+00:04:581 Data Send Request To Node 2
+00:04:582 Data Send Request Reject from Link
+00:04:582 Exponential Back-off Time: 936 msec
+00:05:519 Data Send Request To Node 1
+00:05:520 Data Send Request Reject from Link
+00:05:520 Exponential Back-off Time: 259 msec
+00:05:780 Data Send Request Accept from Link
+00:05:781 Data Send Request To Node 2
+00:05:785 Data Send Finished To Node 2
+00:05:808 Data Send Request Accept from Link
+00:05:809 Data Send Request To Node 2
+00:05:813 Data Send Finished To Node 2
+00:05:843 Data Send Request To Node 3
+00:05:843 Data Send Request Reject from Link
+00:05:843 Exponential Back-off Time: 99 msec
+00:05:944 Data Send Request Accept from Link
+00:05:945 Data Send Request To Node 2
+00:05:949 Data Send Finished To Node 2
+00:05:993 Data Send Request Accept from Link
+00:05:994 Data Send Request To Node 3
+00:05:998 Data Send Finished To Node 3
+00:06:002 Data Send Request Accept from Link
+00:06:003 Data Send Request To Node 2
+00:06:007 Data Send Finished To Node 2
+00:06:018 Data Send Request Accept from Link
+00:06:018 Data Send Request To Node 3
+00:06:023 Data Send Finished To Node 3
+00:06:032 Data Send Request To Node 3
+00:06:032 Data Send Request Accept from Link
+00:06:037 Data Send Finished To Node 3
+00:06:069 Data Send Request Accept from Link
+00:06:070 Data Send Request To Node 1
+00:06:074 Data Send Finished To Node 1
+00:06:093 Data Send Request Accept from Link
+00:06:094 Data Send Request To Node 2
+00:06:098 Data Send Finished To Node 2
+00:06:131 Data Send Request Accept from Link
+00:06:132 Data Send Request To Node 3
+00:06:136 Data Send Finished To Node 3
+00:06:155 Data Send Request To Node 1
+00:06:155 Data Send Request Accept from Link
+00:06:160 Data Send Finished To Node 1
+00:06:191 Data Send Request To Node 2
+00:06:191 Data Send Request Accept from Link
+00:06:196 Data Send Finished To Node 2
+00:06:198 Data Send Request Accept from Link
+00:06:199 Data Send Request To Node 2
+00:06:203 Data Send Finished To Node 2
+00:06:238 Data Send Request Accept from Link
+00:06:239 Data Send Request To Node 1
+00:06:243 Data Send Finished To Node 1
+00:06:251 Data Send Request Accept from Link
+00:06:252 Data Send Request To Node 2
+00:06:256 Data Send Finished To Node 2
+00:06:274 Data Send Request To Node 3
+00:06:276 Data Send Request Accept from Link
+00:06:281 Data Send Finished To Node 3
+00:06:327 Data Send Request Accept from Link
 00:06:328 Data Send Request To Node 1
-00:06:333 Data Send Finished to Node 1
-00:06:372 Data Send Request To Node 3
-00:06:377 Data Send Finished to Node 3
-00:06:403 Data Send Request To Node 1
-00:06:408 Data Send Finished to Node 1
-00:06:422 Data Send Request To Node 2
-00:06:422 Data Send Request Reject from Link
-00:06:422 Exponential Back-off Time: 235 msec
-00:06:454 Data Send Request To Node 1
-00:06:454 Data Send Request Reject from Link
-00:06:454 Exponential Back-off Time: 356 msec
-00:06:481 Data Send Request To Node 1
-00:06:481 Data Send Request Reject from Link
-00:06:481 Exponential Back-off Time: 803 msec
-00:06:495 Data Send Request To Node 2
-00:06:500 Data Send Finished to Node 2
-00:06:542 Data Send Request To Node 1
-00:06:547 Data Send Finished to Node 1
-00:06:548 Data Send Request To Node 1
-00:06:553 Data Send Finished to Node 1
-00:06:574 Data Send Request To Node 3
-00:06:579 Data Send Finished to Node 3
-00:06:596 Data Send Request To Node 3
-00:06:601 Data Send Finished to Node 3
-00:06:624 Data Send Request To Node 3
-00:06:624 Data Send Request Reject from Link
-00:06:624 Exponential Back-off Time: 554 msec
-00:06:655 Data Send Request To Node 1
-00:06:660 Data Send Finished to Node 1
-00:06:687 Data Send Request To Node 1
-00:06:692 Data Send Finished to Node 1
-00:06:711 Data Send Request To Node 3
-00:06:716 Data Send Finished to Node 3
-00:06:721 Data Send Request To Node 1
-00:06:726 Data Send Finished to Node 1
-00:06:728 Data Send Request To Node 3
-00:06:733 Data Send Finished to Node 3
-00:06:776 Data Send Request To Node 1
-00:06:781 Data Send Finished to Node 1
-00:06:824 Data Send Request To Node 1
-00:06:829 Data Send Finished to Node 1
-00:06:864 Data Send Request To Node 2
-00:06:864 Data Send Request Reject from Link
-00:06:864 Exponential Back-off Time: 303 msec
-00:06:886 Data Send Request To Node 2
-00:06:891 Data Send Finished to Node 2
-00:06:899 Data Send Request To Node 3
-00:06:904 Data Send Finished to Node 3
-00:06:916 Data Send Request To Node 1
-00:06:921 Data Send Finished to Node 1
-00:06:926 Data Send Request To Node 3
-00:06:931 Data Send Finished to Node 3
-00:06:951 Data Send Request To Node 1
-00:06:956 Data Send Finished to Node 1
-00:06:993 Data Send Request To Node 3
-00:06:993 Data Send Request Reject from Link
-00:06:993 Exponential Back-off Time: 455 msec
-00:07:019 Data Send Request To Node 2
-00:07:024 Data Send Finished to Node 2
-00:07:037 Data Send Request To Node 3
-00:07:042 Data Send Finished to Node 3
-00:07:068 Data Send Request To Node 2
-00:07:073 Data Send Finished to Node 2
-00:07:113 Data Send Request To Node 1
-00:07:118 Data Send Finished to Node 1
-00:07:125 Data Send Request To Node 3
-00:07:130 Data Send Finished to Node 3
-00:07:149 Data Send Request To Node 1
-00:07:154 Data Send Finished to Node 1
-00:07:170 Data Send Request To Node 2
-00:07:175 Data Send Finished to Node 2
-00:07:220 Data Send Request To Node 3
-00:07:225 Data Send Finished to Node 3
-00:07:239 Data Send Request To Node 1
-00:07:239 Data Send Request Reject from Link
-00:07:239 Exponential Back-off Time: 480 msec
-00:07:269 Data Send Request To Node 3
-00:07:274 Data Send Finished to Node 3
-00:07:320 Data Send Request To Node 1
-00:07:325 Data Send Finished to Node 1
-00:07:361 Data Send Request To Node 2
-00:07:361 Data Send Request Reject from Link
-00:07:361 Exponential Back-off Time: 833 msec
-00:07:397 Data Send Request To Node 2
-00:07:397 Data Send Request Reject from Link
-00:07:397 Exponential Back-off Time: 105 msec
-00:07:422 Data Send Request To Node 1
-00:07:427 Data Send Finished to Node 1
-00:07:446 Data Send Request To Node 3
-00:07:446 Data Send Request Reject from Link
-00:07:446 Exponential Back-off Time: 22 msec
-00:07:470 Data Send Request To Node 3
-00:07:470 Data Send Request Reject from Link
-00:07:470 Exponential Back-off Time: 191 msec
-00:07:499 Data Send Request To Node 1
-00:07:504 Data Send Finished to Node 1
-00:07:537 Data Send Request To Node 3
-00:07:542 Data Send Finished to Node 3
-00:07:584 Data Send Request To Node 1
-00:07:589 Data Send Finished to Node 1
-00:07:635 Data Send Request To Node 2
-00:07:640 Data Send Finished to Node 2
-00:07:658 Data Send Request To Node 2
-00:07:658 Data Send Request Reject from Link
-00:07:658 Exponential Back-off Time: 207 msec
-00:07:686 Data Send Request To Node 3
+00:06:332 Data Send Finished To Node 1
+00:06:342 Data Send Request Accept from Link
+00:06:343 Data Send Request To Node 3
+00:06:347 Data Send Finished To Node 3
+00:06:359 Data Send Request Accept from Link
+00:06:360 Data Send Request To Node 2
+00:06:364 Data Send Finished To Node 2
+00:06:409 Data Send Request To Node 2
+00:06:409 Data Send Request Accept from Link
+00:06:414 Data Send Finished To Node 2
+00:06:431 Data Send Request Accept from Link
+00:06:432 Data Send Request To Node 3
+00:06:436 Data Send Finished To Node 3
+00:06:483 Data Send Request Accept from Link
+00:06:484 Data Send Request To Node 3
+00:06:488 Data Send Finished To Node 3
+00:06:497 Data Send Request To Node 3
+00:06:497 Data Send Request Accept from Link
+00:06:502 Data Send Finished To Node 3
+00:06:550 Data Send Request To Node 1
+00:06:551 Data Send Request Reject from Link
+00:06:551 Exponential Back-off Time: 808 msec
+00:07:359 Data Send Request Accept from Link
+00:07:360 Data Send Request To Node 1
+00:07:364 Data Send Finished To Node 1
+00:07:402 Data Send Request To Node 2
+00:07:402 Data Send Request Accept from Link
+00:07:407 Data Send Finished To Node 2
+00:07:454 Data Send Request Accept from Link
+00:07:455 Data Send Request To Node 2
+00:07:459 Data Send Finished To Node 2
+00:07:502 Data Send Request Accept from Link
+00:07:503 Data Send Request To Node 1
+00:07:507 Data Send Finished To Node 1
+00:07:528 Data Send Request Accept from Link
+00:07:528 Data Send Request To Node 1
+00:07:533 Data Send Finished To Node 1
+00:07:535 Data Send Request Accept from Link
+00:07:536 Data Send Request To Node 3
+00:07:540 Data Send Finished To Node 3
+00:07:585 Data Send Request Accept from Link
+00:07:586 Data Send Request To Node 2
+00:07:590 Data Send Finished To Node 2
+00:07:614 Data Send Request To Node 1
+00:07:614 Data Send Request Accept from Link
+00:07:619 Data Send Finished To Node 1
+00:07:635 Data Send Request Accept from Link
+00:07:635 Data Send Request To Node 3
+00:07:640 Data Send Finished To Node 3
+00:07:653 Data Send Request To Node 2
+00:07:653 Data Send Request Accept from Link
+00:07:658 Data Send Finished To Node 2
+00:07:685 Data Send Request To Node 2
 00:07:686 Data Send Request Reject from Link
-00:07:686 Exponential Back-off Time: 294 msec
-00:07:704 Data Send Request To Node 3
-00:07:704 Data Send Request Reject from Link
-00:07:704 Exponential Back-off Time: 1005 msec
-00:07:717 Data Send Request To Node 2
-00:07:717 Data Send Request Reject from Link
-00:07:717 Exponential Back-off Time: 76 msec
-00:07:726 Data Send Request To Node 1
-00:07:726 Data Send Request Reject from Link
-00:07:726 Exponential Back-off Time: 927 msec
-00:07:769 Data Send Request To Node 3
-00:07:774 Data Send Finished to Node 3
-00:07:804 Data Send Request To Node 3
-00:07:809 Data Send Finished to Node 3
-00:07:840 Data Send Request To Node 1
-00:07:845 Data Send Finished to Node 1
+00:07:686 Exponential Back-off Time: 86 msec
+00:07:774 Data Send Request Accept from Link
+00:07:775 Data Send Request To Node 3
+00:07:779 Data Send Finished To Node 3
+00:07:807 Data Send Request Accept from Link
+00:07:808 Data Send Request To Node 1
+00:07:812 Data Send Finished To Node 1
 00:07:847 Data Send Request To Node 3
-00:07:852 Data Send Finished to Node 3
-00:07:854 Data Send Request To Node 1
-00:07:859 Data Send Finished to Node 1
-00:07:871 Data Send Request To Node 1
-00:07:876 Data Send Finished to Node 1
-00:07:878 Data Send Request To Node 2
-00:07:883 Data Send Finished to Node 2
-00:07:885 Data Send Request To Node 1
-00:07:885 Data Send Request Reject from Link
-00:07:885 Exponential Back-off Time: 118 msec
-00:07:924 Data Send Request To Node 2
-00:07:924 Data Send Request Reject from Link
-00:07:924 Exponential Back-off Time: 867 msec
-00:07:942 Data Send Request To Node 3
-00:07:947 Data Send Finished to Node 3
-00:07:968 Data Send Request To Node 1
-00:07:968 Data Send Request Reject from Link
-00:07:968 Exponential Back-off Time: 67 msec
-00:07:987 Data Send Request To Node 1
-00:07:992 Data Send Finished to Node 1
-00:08:012 Data Send Request To Node 3
-00:08:017 Data Send Finished to Node 3
-00:08:034 Data Send Request To Node 1
-00:08:039 Data Send Finished to Node 1
-00:08:044 Data Send Request To Node 3
-00:08:049 Data Send Finished to Node 3
-00:08:077 Data Send Request To Node 3
-00:08:077 Data Send Request Reject from Link
-00:08:077 Exponential Back-off Time: 231 msec
-00:08:084 Data Send Request To Node 2
-00:08:084 Data Send Request Reject from Link
-00:08:084 Exponential Back-off Time: 60 msec
-00:08:091 Data Send Request To Node 3
-00:08:091 Data Send Request Reject from Link
-00:08:091 Exponential Back-off Time: 258 msec
-00:08:140 Data Send Request To Node 2
-00:08:145 Data Send Finished to Node 2
-00:08:177 Data Send Request To Node 2
-00:08:177 Data Send Request Reject from Link
-00:08:177 Exponential Back-off Time: 436 msec
-00:08:225 Data Send Request To Node 2
-00:08:225 Data Send Request Reject from Link
-00:08:225 Exponential Back-off Time: 766 msec
-00:08:230 Data Send Request To Node 3
-00:08:235 Data Send Finished to Node 3
-00:08:244 Data Send Request To Node 1
-00:08:244 Data Send Request Reject from Link
-00:08:244 Exponential Back-off Time: 427 msec
-00:08:254 Data Send Request To Node 1
-00:08:259 Data Send Finished to Node 1
-00:08:284 Data Send Request To Node 1
-00:08:284 Data Send Request Reject from Link
-00:08:284 Exponential Back-off Time: 724 msec
-00:08:315 Data Send Request To Node 2
-00:08:315 Data Send Request Reject from Link
-00:08:315 Exponential Back-off Time: 911 msec
-00:08:352 Data Send Request To Node 1
-00:08:352 Data Send Request Reject from Link
-00:08:352 Exponential Back-off Time: 23 msec
-00:08:400 Data Send Request To Node 2
-00:08:400 Data Send Request Reject from Link
-00:08:400 Exponential Back-off Time: 970 msec
-00:08:441 Data Send Request To Node 3
-00:08:446 Data Send Finished to Node 3
-00:08:480 Data Send Request To Node 2
-00:08:480 Data Send Request Reject from Link
-00:08:480 Exponential Back-off Time: 353 msec
-00:08:489 Data Send Request To Node 3
-00:08:489 Data Send Request Reject from Link
-00:08:489 Exponential Back-off Time: 956 msec
-00:08:518 Data Send Request To Node 2
-00:08:523 Data Send Finished to Node 2
-00:08:534 Data Send Request To Node 1
-00:08:534 Data Send Request Reject from Link
-00:08:534 Exponential Back-off Time: 623 msec
-00:08:564 Data Send Request To Node 2
-00:08:564 Data Send Request Reject from Link
-00:08:564 Exponential Back-off Time: 316 msec
-00:08:614 Data Send Request To Node 1
-00:08:619 Data Send Finished to Node 1
-00:08:620 Data Send Request To Node 2
-00:08:625 Data Send Finished to Node 2
-00:08:649 Data Send Request To Node 2
-00:08:654 Data Send Finished to Node 2
-00:08:665 Data Send Request To Node 2
-00:08:670 Data Send Finished to Node 2
-00:08:691 Data Send Request To Node 1
-00:08:691 Data Send Request Reject from Link
-00:08:691 Exponential Back-off Time: 429 msec
-00:08:726 Data Send Request To Node 3
-00:08:731 Data Send Finished to Node 3
-00:08:745 Data Send Request To Node 1
-00:08:750 Data Send Finished to Node 1
-00:08:767 Data Send Request To Node 2
-00:08:772 Data Send Finished to Node 2
-00:08:782 Data Send Request To Node 3
-00:08:787 Data Send Finished to Node 3
-00:08:830 Data Send Request To Node 3
-00:08:830 Data Send Request Reject from Link
-00:08:830 Exponential Back-off Time: 572 msec
-00:08:839 Data Send Request To Node 2
-00:08:844 Data Send Finished to Node 2
-00:08:878 Data Send Request To Node 1
-00:08:878 Data Send Request Reject from Link
-00:08:878 Exponential Back-off Time: 430 msec
-00:08:884 Data Send Request To Node 1
-00:08:889 Data Send Finished to Node 1
-00:08:918 Data Send Request To Node 2
-00:08:923 Data Send Finished to Node 2
-00:08:951 Data Send Request To Node 1
-00:08:951 Data Send Finished to Node 1
-00:08:957 Data Send Request To Node 1
-00:08:962 Data Send Finished to Node 1
-00:08:992 Data Send Request To Node 1
-00:08:997 Data Send Finished to Node 1
-00:09:043 Data Send Request To Node 2
-00:09:048 Data Send Finished to Node 2
-00:09:093 Data Send Request To Node 1
-00:09:098 Data Send Finished to Node 1
-00:09:131 Data Send Request To Node 3
-00:09:131 Data Send Request Reject from Link
-00:09:131 Exponential Back-off Time: 403 msec
-00:09:146 Data Send Request To Node 1
-00:09:146 Data Send Request Reject from Link
-00:09:146 Exponential Back-off Time: 736 msec
-00:09:181 Data Send Request To Node 3
-00:09:181 Data Send Request Reject from Link
-00:09:181 Exponential Back-off Time: 17 msec
-00:09:222 Data Send Request To Node 2
-00:09:227 Data Send Finished to Node 2
-00:09:228 Data Send Request To Node 1
-00:09:233 Data Send Finished to Node 1
-00:09:247 Data Send Request To Node 3
-00:09:252 Data Send Finished to Node 3
-00:09:269 Data Send Request To Node 1
-00:09:274 Data Send Finished to Node 1
-00:09:319 Data Send Request To Node 3
-00:09:319 Data Send Request Reject from Link
-00:09:319 Exponential Back-off Time: 552 msec
-00:09:323 Data Send Request To Node 2
-00:09:323 Data Send Request Reject from Link
-00:09:323 Exponential Back-off Time: 966 msec
-00:09:369 Data Send Request To Node 2
-00:09:369 Data Send Finished to Node 2
-00:09:409 Data Send Request To Node 1
-00:09:409 Data Send Request Reject from Link
-00:09:409 Exponential Back-off Time: 669 msec
-00:09:445 Data Send Request To Node 2
-00:09:445 Data Send Request Reject from Link
-00:09:445 Exponential Back-off Time: 356 msec
-00:09:495 Data Send Request To Node 1
-00:09:500 Data Send Finished to Node 1
-00:09:527 Data Send Request To Node 3
-00:09:532 Data Send Finished to Node 3
-00:09:560 Data Send Request To Node 2
-00:09:565 Data Send Finished to Node 2
-00:09:601 Data Send Request To Node 1
-00:09:601 Data Send Request Reject from Link
-00:09:601 Exponential Back-off Time: 628 msec
-00:09:636 Data Send Request To Node 3
-00:09:636 Data Send Request Reject from Link
-00:09:636 Exponential Back-off Time: 378 msec
-00:09:654 Data Send Request To Node 3
-00:09:654 Data Send Request Reject from Link
-00:09:654 Exponential Back-off Time: 43 msec
-00:09:683 Data Send Request To Node 2
-00:09:683 Data Send Request Reject from Link
-00:09:683 Exponential Back-off Time: 363 msec
-00:09:706 Data Send Request To Node 3
-00:09:706 Data Send Request Reject from Link
-00:09:706 Exponential Back-off Time: 104 msec
-00:09:737 Data Send Request To Node 3
-00:09:737 Data Send Request Reject from Link
-00:09:737 Exponential Back-off Time: 247 msec
-00:09:748 Data Send Request To Node 1
-00:09:748 Data Send Request Reject from Link
-00:09:748 Exponential Back-off Time: 781 msec
-00:09:764 Data Send Request To Node 2
-00:09:764 Data Send Request Reject from Link
-00:09:764 Exponential Back-off Time: 557 msec
-00:09:781 Data Send Request To Node 3
-00:09:786 Data Send Finished to Node 3
-00:09:790 Data Send Request To Node 1
-00:09:795 Data Send Finished to Node 1
-00:09:821 Data Send Request To Node 1
-00:09:826 Data Send Finished to Node 1
-00:09:847 Data Send Request To Node 3
-00:09:852 Data Send Finished to Node 3
-00:09:859 Data Send Request To Node 3
-00:09:859 Data Send Request Reject from Link
-00:09:859 Exponential Back-off Time: 894 msec
-00:09:906 Data Send Request To Node 3
-00:09:906 Data Send Request Reject from Link
-00:09:906 Exponential Back-off Time: 639 msec
-00:09:953 Data Send Request To Node 2
-00:09:958 Data Send Finished to Node 2
-00:09:973 Data Send Request To Node 1
-00:09:973 Data Send Request Reject from Link
-00:09:973 Exponential Back-off Time: 1 msec
-00:10:023 Data Send Request To Node 2
-00:10:028 Data Send Finished to Node 2
-00:10:040 Data Send Request To Node 3
-00:10:045 Data Send Finished to Node 3
-00:10:077 Data Send Request To Node 1
-00:10:077 Data Send Request Reject from Link
-00:10:077 Exponential Back-off Time: 51 msec
-00:10:089 Data Send Request To Node 1
-00:10:089 Data Send Request Reject from Link
-00:10:089 Exponential Back-off Time: 573 msec
-00:10:097 Data Send Request To Node 1
-00:10:097 Data Send Request Reject from Link
-00:10:097 Exponential Back-off Time: 916 msec
-00:10:104 Data Send Request To Node 2
-00:10:109 Data Send Finished to Node 2
-00:10:118 Data Send Request To Node 3
-00:10:123 Data Send Finished to Node 3
-00:10:129 Data Send Request To Node 2
-00:10:129 Data Send Request Reject from Link
-00:10:129 Exponential Back-off Time: 376 msec
-00:10:142 Data Send Request To Node 2
-00:10:142 Data Send Request Reject from Link
-00:10:142 Exponential Back-off Time: 329 msec
-00:10:168 Data Send Request To Node 1
-00:10:168 Data Send Request Reject from Link
-00:10:168 Exponential Back-off Time: 532 msec
-00:10:213 Data Send Request To Node 65535
-00:10:213 Data Send Request Reject from Link
-00:10:213 Exponential Back-off Time: 644 msec
+00:07:847 Data Send Request Accept from Link
+00:07:852 Data Send Finished To Node 3
+00:07:870 Data Send Request Accept from Link
+00:07:871 Data Send Request To Node 3
+00:07:875 Data Send Finished To Node 3
+00:07:892 Data Send Request Accept from Link
+00:07:893 Data Send Request To Node 2
+00:07:897 Data Send Finished To Node 2
+00:07:899 Data Send Request Accept from Link
+00:07:900 Data Send Request To Node 1
+00:07:904 Data Send Finished To Node 1
+00:07:936 Data Send Request Accept from Link
+00:07:937 Data Send Request To Node 1
+00:07:941 Data Send Finished To Node 1
+00:07:969 Data Send Request Accept from Link
+00:07:970 Data Send Request To Node 1
+00:07:974 Data Send Finished To Node 1
+00:07:981 Data Send Request To Node 2
+00:07:981 Data Send Request Accept from Link
+00:07:986 Data Send Finished To Node 2
+00:08:025 Data Send Request Accept from Link
+00:08:026 Data Send Request To Node 2
+00:08:030 Data Send Finished To Node 2
+00:08:050 Data Send Request Accept from Link
+00:08:051 Data Send Request To Node 3
+00:08:055 Data Send Finished To Node 3
+00:08:085 Data Send Request Accept from Link
+00:08:086 Data Send Request To Node 1
+00:08:090 Data Send Finished To Node 1
+00:08:095 Data Send Request Accept from Link
+00:08:095 Data Send Request To Node 3
+00:08:100 Data Send Finished To Node 3
+00:08:134 Data Send Request Accept from Link
+00:08:134 Data Send Request To Node 1
+00:08:139 Data Send Finished To Node 1
+00:08:187 Data Send Request Accept from Link
+00:08:188 Data Send Request To Node 1
+00:08:192 Data Send Finished To Node 1
+00:08:203 Data Send Request Accept from Link
+00:08:204 Data Send Request To Node 1
+00:08:208 Data Send Finished To Node 1
+00:08:237 Data Send Request To Node 1
+00:08:238 Data Send Request Accept from Link
+00:08:243 Data Send Finished To Node 1
+00:08:265 Data Send Request Accept from Link
+00:08:266 Data Send Request To Node 1
+00:08:270 Data Send Finished To Node 1
+00:08:302 Data Send Request Accept from Link
+00:08:303 Data Send Request To Node 3
+00:08:307 Data Send Finished To Node 3
+00:08:341 Data Send Request To Node 3
+00:08:342 Data Send Request Accept from Link
+00:08:347 Data Send Finished To Node 3
+00:08:387 Data Send Request Accept from Link
+00:08:388 Data Send Request To Node 1
+00:08:392 Data Send Finished To Node 1
+00:08:426 Data Send Request Accept from Link
+00:08:427 Data Send Request To Node 2
+00:08:431 Data Send Finished To Node 2
+00:08:474 Data Send Request Accept from Link
+00:08:475 Data Send Request To Node 3
+00:08:479 Data Send Finished To Node 3
+00:08:507 Data Send Request To Node 2
+00:08:507 Data Send Request Reject from Link
+00:08:507 Exponential Back-off Time: 481 msec
+00:08:989 Data Send Request To Node 3
+00:08:990 Data Send Request Reject from Link
+00:08:990 Exponential Back-off Time: 109 msec
+00:09:100 Data Send Request Accept from Link
+00:09:100 Data Send Request To Node 3
+00:09:105 Data Send Finished To Node 3
+00:09:137 Data Send Request To Node 2
+00:09:137 Data Send Request Reject from Link
+00:09:137 Exponential Back-off Time: 665 msec
+00:09:802 Data Send Request Accept from Link
+00:09:803 Data Send Request To Node 3
+00:09:807 Data Send Finished To Node 3
+00:09:838 Data Send Request Accept from Link
+00:09:839 Data Send Request To Node 2
+00:09:843 Data Send Finished To Node 2
+00:09:895 Data Send Request To Node 3
+00:09:895 Data Send Request Accept from Link
+00:09:900 Data Send Finished To Node 3
+00:09:948 Data Send Request Accept from Link
+00:09:949 Data Send Request To Node 3
+00:09:953 Data Send Finished To Node 3
+00:09:985 Data Send Request To Node 2

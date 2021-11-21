@@ -2,11 +2,15 @@ import java.io.IOException;
 
 public class Client {
 
+    public static long startTime;
+
     public static void main(String[] args) {
 
-        Node node[] = new Node[4];
+        int length = 4;
 
-        for(int i = 0; i < 4; i++) {
+        Node node[] = new Node[length];
+
+        for(int i = 0; i < length; i++) {
             node[i] = new Node(i+1);
         }
         Thread timer_thread = new Thread(() -> { // 1분을 세어줄 쓰레드. 1분 후에 inturrupt
@@ -16,10 +20,8 @@ public class Client {
                 System.out.println("종료");
 
                 try {
-                    for (int i = 0; i < 4; i++) {
-                        node[i].send_thread.interrupt();
-                        node[i].rec_thread.interrupt();
-                        node[i].c_socket.close();
+                    for (int i = 0; i < length; i++) {
+                        node[i].finish();
                     }
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -32,7 +34,8 @@ public class Client {
         });
 
         timer_thread.start();
-        for(int i = 0; i < 4; i++) {
+        startTime = System.currentTimeMillis();
+        for(int i = 0; i < length; i++) {
             node[i].start();
         }
     }
