@@ -37,7 +37,8 @@ public class SendThread extends Thread{
             if (isfirst) {
                 out.write(nodeNum);
                 out.flush();
-                sleep(random.nextInt(30));
+                sleep(20);
+                sleep(random.nextInt(40));
             }
 
             do {

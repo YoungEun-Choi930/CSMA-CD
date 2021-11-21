@@ -1,7 +1,6 @@
 import java.io.*;
 import java.net.Socket;
 import java.text.SimpleDateFormat;
-import java.util.PriorityQueue;
 
 public class LinkThread extends Thread {
 
@@ -30,8 +29,7 @@ public class LinkThread extends Thread {
                 synchronized (LinkThread.class) {
                     time = (int) (System.currentTimeMillis() - Server.startTime); // 현재 시간 측정
 
-                    System.out.println(time + "-- " + nodeNum + "->" + receiver + "보냈음" + System.currentTimeMillis());
-                    if (time + 5 >= 10000) {
+                    if (time + 5 >= 60000) {
 
                         break;
                     }
@@ -41,7 +39,6 @@ public class LinkThread extends Thread {
                     if (Server.useable.compareAndSet(true, false)) { // 사용가능하면 사용불가능하게 만들고
 
                         result = true;
-                        System.out.println(time + "-- " + nodeNum + "->" + receiver + " : Accept " + System.currentTimeMillis());
 
                         // sender,receiver,result,time 전송.
                         Server.write.add(new Linkfilestr(time, " Accept: Node " + nodeNum + " Data Send Request To Node " + receiver + "\r\n",2));
@@ -49,7 +46,6 @@ public class LinkThread extends Thread {
 
                     } else {
                         result = false;
-                        System.out.println(time + "-- " + nodeNum + "->" + receiver + " : Reject " + System.currentTimeMillis());
                         Server.write.add(new Linkfilestr(time, " Reject: Node " + nodeNum + " Data Send Request To Node " + receiver + "\r\n",2));
 
                         Server.m_OutputList.get(nodelistnum).write(nodeNum);
@@ -61,10 +57,12 @@ public class LinkThread extends Thread {
 
                 }
 
+
                 if(result) {
-
-
-                    sleep(3);
+                    sleep(5);
+                    time = (int) (System.currentTimeMillis() - Server.startTime);
+                    Server.write.add(new Linkfilestr(time + 5, " Node " + nodeNum + " Send Finished To Node " + receiver + "\r\n",3));
+                    Server.useable.set(true);
 
                     Server.m_OutputList.get(nodelistnum).write(nodeNum);
                     Server.m_OutputList.get(nodelistnum).write(receiver);
@@ -75,20 +73,10 @@ public class LinkThread extends Thread {
                     Server.m_OutputList.get(receiver - 1).write(receiver);
                     Server.m_OutputList.get(receiver - 1).write(1);
                     Server.m_OutputList.get(receiver - 1).flush();
-
-                    System.out.println((time + 5) + " Node " + nodeNum + " Send Finished To Node " + receiver + ", " + System.currentTimeMillis());
-
-                    Server.write.add(new Linkfilestr(time + 5, " Node " + nodeNum + " Send Finished To Node " + receiver + "\r\n",3));
-                    Server.useable.set(true);
                 }
 
             }
             System.out.println("링크끝");
-
-        } catch (InterruptedException e) {
-            // TODO Auto-generated catch block
-
-            System.out.println("inturrupted!");
 
         } catch (Exception e) {
             // TODO Auto-generated catch block

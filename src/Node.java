@@ -26,7 +26,7 @@ public class Node {
         write = new writeQueue(num);
 
         try {
-            c_socket = new Socket("127.0.0.1", 9999);
+            c_socket = new Socket("3.35.14.86", 9999);   //3.35.14.86
 
 
             sendThread = new SendThread(c_socket, num, true, write);
@@ -35,7 +35,7 @@ public class Node {
                 try {
                     BufferedReader in = new BufferedReader(new InputStreamReader(c_socket.getInputStream()));
 
-                    rejectCount = 0;
+                    rejectCount = 1;
                     int sender;
                     int receiver;
                     int result;
@@ -191,6 +191,7 @@ class writeQueue extends Thread {
                 bw.write(queue.poll().toString());
                 bw.flush();
             }
+            bw.write("01:00:000 Node"+nodeNum+" Finished");
 
             bw.close();
         }catch (IOException e) {

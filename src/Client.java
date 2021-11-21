@@ -16,7 +16,7 @@ public class Client {
         Thread timer_thread = new Thread(() -> { // 1분을 세어줄 쓰레드. 1분 후에 inturrupt
 
             try {
-                Thread.sleep(10000);
+                Thread.sleep(60000);
                 System.out.println("종료");
 
                 try {

@@ -1,7 +1,4 @@
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.OutputStreamWriter;
+import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.text.SimpleDateFormat;
@@ -131,7 +128,8 @@ class writeLink extends Thread {
                 bw.write(queue.poll().toString());
                 bw.flush();
             }
-
+            bw.write("01:00:000 System Clock Finished\n");
+            bw.write("01:00:000 Link Finished");
             bw.close();
         }catch (IOException e) {
             e.printStackTrace();
