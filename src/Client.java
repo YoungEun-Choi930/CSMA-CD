@@ -9,8 +9,10 @@ public class Client {
 
         for(int i = 0; i < length; i++) {
             node[i] = new Node(i+1);
+            if(i == 0)
+                startTime = System.currentTimeMillis();
         }
-        startTime = System.currentTimeMillis();
+
         Thread timer_thread = new Thread(() -> { // 1분을 세어줄 쓰레드. 1분 후에 inturrupt
 
             try {

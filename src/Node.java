@@ -24,7 +24,7 @@ public class Node {
         write = new writeQueue(num);
 
         try {
-            c_socket = new Socket("127.0.0.1", 9999);           //3.35.14.86   127.0.0.1
+            c_socket = new Socket("3.35.14.86", 9999);           //3.35.14.86   127.0.0.1
             sendThread = new SendThread(c_socket, num, true, write);
 
             recThread = new Thread(() -> {
@@ -48,6 +48,8 @@ public class Node {
                             result = in.read();
 
                             int gettime = (int) (System.currentTimeMillis() - Client.startTime);
+                            if(gettime >= 60000) break;
+
                             if (receiver == nodeNum) {  //받았을때  //받은시점에는 전송권한 없고 재전송 해야함.
                                 sendThread.sleep(5);        //전송권한 없애려고 재움
                                 write.add(new filestr(gettime-5, " Data Receive Start from Node " + sender + "\r\n",1));

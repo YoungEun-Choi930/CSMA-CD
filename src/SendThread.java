@@ -36,7 +36,7 @@ public class SendThread extends Thread{
                 out.flush();
                 sleep(random.nextInt(30));
             }
-
+            sleep(1);
             do {
                 receiver = random.nextInt(3) + 1; // 임의로 수신자 설정
             } while (receiver == nodeNum);
