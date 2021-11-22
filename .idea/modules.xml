@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SCMA-CD.iml" filepath="$PROJECT_DIR$/SCMA-CD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSMA-CD.iml" filepath="$PROJECT_DIR$/CSMA-CD.iml" />
     </modules>
   </component>
 </project>
