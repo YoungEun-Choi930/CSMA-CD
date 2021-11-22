@@ -10,7 +10,7 @@ public class Client {
         for(int i = 0; i < length; i++) {
             node[i] = new Node(i+1);
         }
-
+        startTime = System.currentTimeMillis();
         Thread timer_thread = new Thread(() -> { // 1분을 세어줄 쓰레드. 1분 후에 inturrupt
 
             try {
@@ -27,7 +27,8 @@ public class Client {
             }
         });
         timer_thread.start();
-        startTime = System.currentTimeMillis();
+
+        System.out.println("Start Time: "+startTime);
         for(int i = 0; i < length; i++) {
             node[i].start();
         }

@@ -35,10 +35,9 @@ public class Server {
                 m_OutputList.add(new BufferedWriter(new OutputStreamWriter(c_socket.getOutputStream())));
                 threadList.add(c_thread);
 
-
-                c_thread.start();
                 if (i == 0) {
                     startTime = System.currentTimeMillis();
+                    System.out.println("Start Time: "+startTime);
                     bw.write(getTime() + " Link Start\r\n"); // 일단 파일에 먼저 작성해서 콘솔 I/O로 시간 늘어나는거 최소화
                     bw.write(getTime() + " System Clock Start\r\n");
                     bw.flush();
@@ -48,6 +47,8 @@ public class Server {
                     System.out.println(getTime() + " Link Start"); // 콘솔에서는 링크의 시작과 끝만 출력
                     System.out.println(getTime() + " System Clock Start");
                 }
+                c_thread.start();
+
             }
             threadList.get(0).join();
             write.writeAll();
