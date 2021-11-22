@@ -16,9 +16,7 @@ public class Node {
     private static SimpleDateFormat dateformat = new SimpleDateFormat("mm:ss:SSS");
     private int nodeNum;
     private int rejectCount;
-
     private writeQueue write;
-
 
     public Node(int num) {
         nodeNum = num;
@@ -26,16 +24,13 @@ public class Node {
         write = new writeQueue(num);
 
         try {
-            c_socket = new Socket("3.35.14.86", 9999);   //3.35.14.86
-
-
+            c_socket = new Socket("127.0.0.1", 9999);           //3.35.14.86
             sendThread = new SendThread(c_socket, num, true, write);
 
             recThread = new Thread(() -> {
                 try {
                     BufferedReader in = new BufferedReader(new InputStreamReader(c_socket.getInputStream()));
-
-                    rejectCount = 1;
+                    rejectCount = 0;
                     int sender;
                     int receiver;
                     int result;
@@ -46,7 +41,6 @@ public class Node {
                     bw.flush();
                     bw.close();
 
-
                     while (!c_socket.isClosed()) {
                         try {
                             sender = in.read();
@@ -56,64 +50,45 @@ public class Node {
                             int gettime = (int) (System.currentTimeMillis() - Client.startTime);
                             if (receiver == nodeNum) {  //받았을때  //받은시점에는 전송권한 없고 재전송 해야함.
                                 sendThread.sleep(5);        //전송권한 없애려고 재움
-
                                 write.add(new filestr(gettime-5, " Data Receive Start from Node " + sender + "\r\n",1));
                                 write.add(new filestr(gettime, " Data Receive Finished from Node " + sender + "\r\n",2));
-                                // 받는게 리젝트된건 보내주지 않으니까 상관 없음
-
                             } else if (sender == nodeNum) { //보냈을때
                                 sendThread = new SendThread(c_socket, nodeNum, false, write);
 
                                 if (result == 1) {
-
                                     write.add(new filestr(gettime-5,  " Data Send Request Accept from Link\r\n",1));
                                     write.add(new filestr(gettime,  " Data Send Finished To Node " + receiver + "\r\n",2));
-
-                                    System.out.println("node" + nodeNum + " accept 되었음. random 만큼 재우고 send 실행");
-                                    sendThread.backoffafterrun(random.nextInt(50));//임의의 시간에 보내니까????
-
+                                    sendThread.backoffafterrun(random.nextInt(50));
                                 } else {
                                     int back = BackoffTimer(rejectCount++);
-
-                                    //슬립하고 sendThread실행시켜.
-                                    System.out.println("node" + nodeNum + " reject 되었음. backoff" + back + " 만큼 재우고 send 실행");
-                                    sendThread.backoffafterrun(back);
-
+                                    sendThread.backoffafterrun(back); //슬립하고 sendThread실행
                                     write.add(new filestr(gettime,  " Data Send Request Reject from Link\r\n",2));
                                     write.add(new filestr(gettime,  " Exponential Back-off Time: " + back + " msec\r\n",3));
-
-
                                 }
                                 bw.close();
                             }
                         } catch (SocketException e) {
                             break;
                         } catch (InterruptedException e) {
-                            System.out.println("sleep중이었는데 interrupt 되었음");
+                            System.out.println("Interrupted Exception 발생");
                         }
-
                     }
                     System.out.println("receive-" + nodeNum + "종료됨");
-
                 } catch (IOException e) {
                     e.printStackTrace();
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
-
             });
         } catch (UnknownHostException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         System.out.println("Node " + num + " 연결 완료");
     }
 
-
     public void start() {
-
         sendThread.start();
         recThread.start();
     }
@@ -153,13 +128,12 @@ class filestr implements Comparable<filestr> {
         else if (this.time < o.time)
             return -1;
 
-        //시간이 같을때
-        else if(this.grade > o.grade)
+        else if(this.grade > o.grade) //시간이 같을때
             return 1;
         else if(this.grade < o.grade)
             return -1;
 
-        return -1;
+        return 0;
     }
 
     public String toString() {
@@ -177,14 +151,11 @@ class writeQueue extends Thread {
         nodeNum = num;
     }
 
-
     public void add(filestr str) {
         queue.add(str);
-
     }
 
     public void writeAll() {
-        System.out.println(nodeNum+" file 쓰는중");
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter("Node" + nodeNum + ".txt", true));
             while(!queue.isEmpty()) {
@@ -192,7 +163,7 @@ class writeQueue extends Thread {
                 bw.flush();
             }
             bw.write("01:00:000 Node"+nodeNum+" Finished");
-
+            bw.flush();
             bw.close();
         }catch (IOException e) {
             e.printStackTrace();

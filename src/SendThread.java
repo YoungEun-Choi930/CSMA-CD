@@ -1,6 +1,4 @@
-
 import java.io.BufferedWriter;
-import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.net.Socket;
 import java.net.SocketException;
@@ -31,29 +29,22 @@ public class SendThread extends Thread{
 
         try {
             BufferedWriter out = new BufferedWriter(new OutputStreamWriter(m_Socket.getOutputStream()));
-
             int receiver;
 
             if (isfirst) {
                 out.write(nodeNum);
                 out.flush();
-                sleep(20);
-                sleep(random.nextInt(40));
+                sleep(random.nextInt(30));
             }
 
             do {
                 receiver = random.nextInt(3) + 1; // 임의로 수신자 설정
             } while (receiver == nodeNum);
 
-
-
-            out.write(receiver); // 수신자를 LinkThread로 전송 (개행문자 추가)
-
-
+            out.write(receiver);
             out.flush();
-            int time = (int) (System.currentTimeMillis() - Client.startTime);
-            System.out.println(time+" 에 보냈음. "+nodeNum+"이 "+receiver+"한테");
 
+            int time = (int) (System.currentTimeMillis() - Client.startTime);
             write.add(new filestr(time,  " Data Send Request To Node " + receiver + "\r\n",1));
 
         } catch (SocketException e) {        //와일문 돌다가 소켓이 사라지면 종료
@@ -71,7 +62,4 @@ public class SendThread extends Thread{
         }
         run();
     }
-
-
-
 }
