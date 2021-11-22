@@ -108,8 +108,8 @@ class writeLink extends Thread {
             }
             System.out.println("1:00:000 System Clock Finished");
             System.out.println("1:00:000 Link Finished");
-            bw.write("1:00:000 System Clock Finished\r\n");
-            bw.write("1:00:000 Link Finished\r\n"); // 링크 끝난 것 출력
+            bw.write("01:00:000 System Clock Finished\r\n");
+            bw.write("01:00:000 Link Finished\r\n"); // 링크 끝난 것 출력
             bw.close();
         }catch (IOException e) {
             e.printStackTrace();
