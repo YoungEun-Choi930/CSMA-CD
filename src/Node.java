@@ -24,7 +24,7 @@ public class Node {
         write = new writeQueue(num);
 
         try {
-            c_socket = new Socket("3.35.14.86", 9999);           //3.35.14.86   127.0.0.1
+            c_socket = new Socket("127.0.0.1", 9999);           //서버주소
             sendThread = new SendThread(c_socket, num, true, write);
 
             recThread = new Thread(() -> {
